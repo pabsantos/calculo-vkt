@@ -28,11 +28,46 @@ arrange_frota_combustivel <- function(tabela_combustivel) {
       class_gasolina ~ "Gasolina",
       .default = NA
     )) |>
+    filter(!uf %in% c(
+      "NÃ£o Identificado", "NÃ£o se Aplica", "Sem Informação",
+      "Sem InformaÃ§Ã£o", "Não Identificado", "Não se Aplica"
+    )) |> 
     group_by(ano, uf, combustivel) |>
     summarise(quantidade = sum(quantidade)) |>
     ungroup() |>
     drop_na()
 
   return(frota_agrupado)
+}
+
+fix_tipo_uf <- function(tabela_tipo) {
+  tabela_tipo |> 
+    filter(!uf %in% c(
+      "NÃ£o Identificado", "NÃ£o se Aplica", "Sem Informação",
+      "Sem InformaÃ§Ã£o", "Não Identificado", "Não se Aplica"
+    ))
+}
+
+calc_fator_correcao_frota <- function(tabela_tipo, tabela_combustivel) {
+  table_qtde_comb <- tabela_combustivel |> 
+    group_by(ano) |> 
+    summarise(qtde_comb = sum(quantidade))
+  
+  table_qtde_frota <- tabela_tipo |> 
+    group_by(ano) |> 
+    summarise(qtde_tipo = sum(qtde))
+  
+  table_fator_correcao <- table_qtde_comb |> 
+    left_join(table_qtde_frota, by = "ano") |> 
+    mutate(fator_correcao_frota = qtde_comb / qtde_tipo) |> 
+    select(ano, fator_correcao_frota)
+  
+  return(table_fator_correcao)
+}
+
+calc_tipo_correcao <- function(table_tipo, table_fator) {
+  table_tipo |> 
+    left_join(table_fator, by = "ano") |> 
+    mutate(qtde = round(qtde * fator_correcao_frota))
 }
 

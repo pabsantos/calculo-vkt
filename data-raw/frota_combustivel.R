@@ -1,3 +1,6 @@
+library(tidyverse)
+library(readxl)
+
 add_frota_years <- function(table, years) {
   mutate(table, ano = years)
 }
@@ -32,3 +35,4 @@ read_frota_comb <- function() {
 frota_combustivel <- read_frota_comb()
 
 save(frota_combustivel, file = "data/frota_combustivel.rda")
+write_csv(frota_combustivel, "data/frota_combustivel.csv")
