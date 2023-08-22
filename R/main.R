@@ -20,3 +20,4 @@ frota_tipo_corrigido <- calc_tipo_correcao(
   fator_correcao_frota
 )
 
+frota_dict <- create_frota_dict()

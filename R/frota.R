@@ -68,6 +68,25 @@ calc_fator_correcao_frota <- function(tabela_tipo, tabela_combustivel) {
 calc_tipo_correcao <- function(table_tipo, table_fator) {
   table_tipo |> 
     left_join(table_fator, by = "ano") |> 
-    mutate(qtde = round(qtde * fator_correcao_frota))
+    mutate(qtde = round(qtde * fator_correcao_frota)) |> 
+    select(-fator_correcao_frota)
 }
+
+create_frota_dict <- function() {
+  class_tipo <- c(
+    rep("AUTOMOVEL", 5), "CAMINHAO", "CAMINHAO TRATOR", rep("CAMINHONETE", 3),
+    rep("CAMIONETA", 3), "MICROONIBUS", "MOTOCICLETA", "MOTONETA", "ONIBUS",
+    rep("UTILITARIO", 3)
+  )
+  
+  class_combustivel <- c(
+    "GNV", "Flex", "Álcool", "Gasolina", "Elétrico", "Diesel", "Diesel",
+    "Gasolina", "Diesel", "Elétrico", "Gasolina", "Diesel", "Elétrico",
+    "Diesel", "Gasolina", "Gasolina", "Diesel", "Flex", "Gasolina", "Elétrico"
+  )
+  
+  tibble(tipo = class_tipo, combustivel = class_combustivel)
+}
+
+
 
