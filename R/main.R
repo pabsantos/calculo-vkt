@@ -30,3 +30,8 @@ frota_tipo_real <- remove_eletrico(
   tabela_prop_eletrico
 )
 
+utilitarios <- calc_frota_utilitario(
+  frota_tipo_real,
+  frota_combustivel_sintese,
+  frota_tipo_corrigido
+)

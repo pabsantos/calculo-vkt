@@ -110,6 +110,7 @@ remove_eletrico <- function(tabela_tipo, tabela_comb, tab_prop_eletrico) {
   tabela_tipo |> 
     left_join(tab_prop_eletrico, by = c("ano", "uf", "tipo")) |> 
     left_join(tab_eletrico, by = c("ano", "uf")) |> 
+    replace_na(list(auto_eletrico = 0)) |> 
     mutate(
       quantidade_final = if_else(
         is.na(prop_eletrico),
@@ -120,6 +121,33 @@ remove_eletrico <- function(tabela_tipo, tabela_comb, tab_prop_eletrico) {
     select(ano, uf, tipo, quantidade = quantidade_final)
 }
 
-
-
+calc_frota_utilitario <- function(tabela_tipo_real, tabela_comb, tab_tipo) {
+  prop_utilitario <- tabela_tipo_real |> 
+    filter(tipo %in% c("AUTOMOVEL", "UTILITARIO")) |> 
+    mutate(prop = quantidade / sum(quantidade))
+  
+  tab_flex <- tabela_comb |> 
+    filter(combustivel == "Flex") |> 
+    select(ano, uf, qtde_flex = quantidade)
+  
+  tab_elec <- tabela_tipo_real |> 
+    left_join(tab_tipo, by = c("ano", "uf", "tipo")) |> 
+    filter(tipo == "UTILITARIO") |> 
+    mutate(utilitario_eletrico = qtde - quantidade) |> 
+    select(ano, uf, utilitario_eletrico)
+  
+  prop_utilitario |> 
+    left_join(tab_flex, by = c("ano", "uf")) |> 
+    filter(tipo == "UTILITARIO") |> 
+    mutate(
+      utilitario_flex = if_else(
+        (prop * qtde_flex) > quantidade, 
+        quantidade,
+        round(prop * qtde_flex)
+      ),
+      utilitario_gasolina = quantidade - utilitario_flex
+    ) |> 
+    select(ano, uf, utilitario_flex, utilitario_gasolina) |> 
+    left_join(tab_elec, by = c("ano", "uf"))
+}  
 
