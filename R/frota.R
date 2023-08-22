@@ -88,5 +88,20 @@ create_frota_dict <- function() {
   tibble(tipo = class_tipo, combustivel = class_combustivel)
 }
 
+create_prop_eletrico <- function(tabela_tipo) {
+  tabela_tipo |> 
+    group_by(ano, uf) |> 
+    filter(tipo %in% c(
+      "AUTOMOVEL",
+      "CAMINHONETE",
+      "CAMIONETA",
+      "UTILITARIO"
+    )) |> 
+    mutate(prop_eletrico = qtde / sum(qtde)) |> 
+    select(ano, uf, prop_eletrico)
+}
+
+
+
 
 
