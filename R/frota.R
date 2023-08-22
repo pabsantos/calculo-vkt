@@ -97,10 +97,28 @@ create_prop_eletrico <- function(tabela_tipo) {
       "CAMIONETA",
       "UTILITARIO"
     )) |> 
-    mutate(prop_eletrico = qtde / sum(qtde)) |> 
-    select(ano, uf, prop_eletrico)
+    mutate(soma_auto = sum(qtde), prop_eletrico = qtde / soma_auto) |> 
+    select(ano, uf, tipo, prop_eletrico)
 }
 
+remove_eletrico <- function(tabela_tipo, tabela_comb, tab_prop_eletrico) {
+  
+  tab_eletrico <- tabela_comb |> 
+    filter(combustivel == "Elétrico") |> 
+    select(ano, uf, auto_eletrico = quantidade)
+  
+  tabela_tipo |> 
+    left_join(tab_prop_eletrico, by = c("ano", "uf", "tipo")) |> 
+    left_join(tab_eletrico, by = c("ano", "uf")) |> 
+    mutate(
+      quantidade_final = if_else(
+        is.na(prop_eletrico),
+        qtde,
+        round(qtde - (prop_eletrico * auto_eletrico))
+      )
+    ) |> 
+    select(ano, uf, tipo, quantidade = quantidade_final)
+}
 
 
 

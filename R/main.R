@@ -23,3 +23,10 @@ frota_tipo_corrigido <- calc_tipo_correcao(
 frota_dict <- create_frota_dict()
 
 tabela_prop_eletrico <- create_prop_eletrico(frota_tipo_corrigido)
+
+frota_tipo_real <- remove_eletrico(
+  frota_tipo_corrigido,
+  frota_combustivel_sintese,
+  tabela_prop_eletrico
+)
+
