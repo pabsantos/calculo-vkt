@@ -35,3 +35,9 @@ utilitarios <- calc_frota_utilitario(
   frota_combustivel_sintese,
   frota_tipo_corrigido
 )
+
+automoveis <- calc_frota_auto(
+  frota_combustivel_sintese,
+  frota_tipo_real,
+  frota_tipo_corrigido
+)

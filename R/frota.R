@@ -122,6 +122,7 @@ remove_eletrico <- function(tabela_tipo, tabela_comb, tab_prop_eletrico) {
 }
 
 calc_frota_utilitario <- function(tabela_tipo_real, tabela_comb, tab_tipo) {
+  
   prop_utilitario <- tabela_tipo_real |> 
     filter(tipo %in% c("AUTOMOVEL", "UTILITARIO")) |> 
     mutate(prop = quantidade / sum(quantidade))
@@ -149,5 +150,57 @@ calc_frota_utilitario <- function(tabela_tipo_real, tabela_comb, tab_tipo) {
     ) |> 
     select(ano, uf, utilitario_flex, utilitario_gasolina) |> 
     left_join(tab_elec, by = c("ano", "uf"))
+  
 }  
+
+calc_frota_auto <- function(tabela_combustivel, tabela_frota_real, tab_frota) {
+  
+  tab_auto_alcool <- tabela_combustivel |> 
+    filter(combustivel == "Álcool") |> 
+    select(ano, uf, automovel_alcool = quantidade)
+  
+  tab_auto_gnv <- tabela_combustivel |> 
+    filter(combustivel == "GNV") |> 
+    select(ano, uf, automovel_gnv = quantidade)
+  
+  
+  tab_comb_auto <- tabela_combustivel |> 
+    filter(!combustivel %in% c("Diesel", "Elétrico")) |> 
+    rename(qtde_comb = quantidade)
+  
+  tab_auto_gas_flex <- tabela_frota_real |> 
+    filter(tipo %in% c("AUTOMOVEL", "UTILITARIO")) |> 
+    mutate(prop_auto = quantidade / sum(quantidade)) |> 
+    filter(tipo == "AUTOMOVEL") |>
+    select(ano, uf, qtde_auto = quantidade, prop_auto) |>
+    left_join(tab_comb_auto, by = c("ano", "uf")) |> 
+    pivot_wider(names_from = combustivel, values_from = qtde_comb) |> 
+    mutate(
+      automovel_flex = if_else(
+        (prop_auto * Flex > qtde_auto) | (Álcool + GNV + (prop_auto * Flex) > qtde_auto),
+        qtde_auto - Álcool - GNV,
+        round(prop_auto * Flex)
+      ),
+      automovel_gasolina = if_else(
+        qtde_auto - Álcool - automovel_flex - GNV < 0,
+        0,
+        qtde_auto - Álcool - automovel_flex - GNV
+      )
+    ) |> 
+    select(ano, uf, automovel_flex, automovel_gasolina)
+  
+  tab_auto_elet <- tabela_frota_real |> 
+    rename(qtde_real = quantidade) |> 
+    left_join(tab_frota, by = c("ano", "uf", "tipo")) |> 
+    filter(tipo == "AUTOMOVEL") |> 
+    mutate(automovel_eletrico = qtde - qtde_real) |> 
+    select(ano, uf, automovel_eletrico)
+  
+  tab_auto_full <- tab_auto_gas_flex |> 
+    left_join(tab_auto_alcool, by = c("ano", "uf")) |> 
+    left_join(tab_auto_gnv, by = c("ano", "uf")) |>  
+    left_join(tab_auto_elet, by = c("ano", "uf"))
+  
+  return(tab_auto_full)
+}
 
