@@ -204,3 +204,46 @@ calc_frota_auto <- function(tabela_combustivel, tabela_frota_real, tab_frota) {
   return(tab_auto_full)
 }
 
+calc_frota_cam <- function(tab_combustivel, tab_frota_real, tab_frota) {
+  
+  tab_comb_diesel <- tab_combustivel |> 
+    filter(combustivel == "Diesel") |> 
+    select(ano, uf, qtde_diesel = quantidade)
+  
+  tab_tipo_diesel <- tab_frota_real |> 
+    filter(tipo %in% c("CAMINHAO", "CAMINHAO TRATOR", "MICROONIBUS", "ONIBUS")) |> 
+    pivot_wider(names_from = tipo, values_from = quantidade)
+  
+  tab_cam_diesel_gas <- tab_frota_real |> 
+    filter(tipo %in% c("CAMINHONETE", "CAMIONETA")) |> 
+    mutate(prop = quantidade / sum(quantidade)) |> 
+    pivot_wider(names_from = tipo, values_from = c(quantidade, prop)) |> 
+    left_join(tab_comb_diesel, by = c("ano", "uf")) |> 
+    left_join(tab_tipo_diesel, by = c("ano", "uf")) |> 
+    mutate(
+      diesel_disponivel = 
+        qtde_diesel - CAMINHAO - `CAMINHAO TRATOR` - MICROONIBUS - ONIBUS,
+      caminhonete_diesel = round(diesel_disponivel * prop_CAMINHONETE),
+      camioneta_diesel = round(diesel_disponivel * prop_CAMIONETA),
+      caminhonete_gasolina = quantidade_CAMINHONETE - caminhonete_diesel,
+      camioneta_gasolina = quantidade_CAMIONETA - camioneta_diesel
+    ) |> 
+    select(ano, uf, starts_with(c("caminhonete", "camioneta")))
+  
+  tab_cam_elet <- tab_frota_real |> 
+    rename(qtde_real = quantidade) |> 
+    left_join(tab_frota, by = c("ano", "uf", "tipo")) |> 
+    filter(tipo %in% c("CAMINHONETE", "CAMIONETA")) |> 
+    mutate(eletrico = qtde - qtde_real) |> 
+    pivot_wider(names_from = tipo, values_from = c(qtde_real, qtde, eletrico)) |> 
+    select(
+      ano,
+      uf,
+      caminhonete_eletrico = eletrico_CAMINHONETE,
+      camioneta_eletrico = eletrico_CAMIONETA
+    )
+  
+  tab_cam_diesel_gas |> 
+    left_join(tab_cam_elet, by = c("ano", "uf"))
+  
+}

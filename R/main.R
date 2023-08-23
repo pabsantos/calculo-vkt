@@ -41,3 +41,9 @@ automoveis <- calc_frota_auto(
   frota_tipo_real,
   frota_tipo_corrigido
 )
+
+caminhonetes <- calc_frota_cam(
+  frota_combustivel_sintese,
+  frota_tipo_real,
+  frota_tipo_corrigido
+)
