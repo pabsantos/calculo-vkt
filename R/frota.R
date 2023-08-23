@@ -268,3 +268,23 @@ calc_caminhao_onibus_moto <- function(tab_frota) {
       onibus_diesel = ONIBUS
     )
 }
+
+calc_frota_total <- function(
+    tab_auto,
+    tab_util,
+    tab_caminhonete,
+    tab_caminhao
+) {
+  tab_auto |> 
+    left_join(tab_util, by = c("ano", "uf")) |> 
+    left_join(tab_caminhonete, by = c("ano", "uf")) |> 
+    left_join(tab_caminhao, by = c("ano", "uf")) |>
+    pivot_longer(
+      automovel_flex:onibus_diesel,
+      names_to = "tipo_combustivel",
+      values_to = "qtde"
+    ) |> 
+    separate(tipo_combustivel, into = c("tipo", "combustivel"), sep = "_") |> 
+    group_by(ano, uf, tipo, combustivel) |> 
+    summarise(qtde = sum(qtde))
+}

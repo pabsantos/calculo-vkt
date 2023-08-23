@@ -1,0 +1,4321 @@
+ano,uf,tipo,combustivel,qtde
+2013,ACRE,automovel,alcool,3610
+2013,ACRE,automovel,eletrico,8
+2013,ACRE,automovel,flex,51404
+2013,ACRE,automovel,gasolina,9812
+2013,ACRE,automovel,gnv,8
+2013,ACRE,caminhao,diesel,6108
+2013,ACRE,caminhaotrator,diesel,548
+2013,ACRE,caminhonete,diesel,8253
+2013,ACRE,caminhonete,eletrico,2
+2013,ACRE,caminhonete,gasolina,7505
+2013,ACRE,camioneta,diesel,3165
+2013,ACRE,camioneta,eletrico,1
+2013,ACRE,camioneta,gasolina,2877
+2013,ACRE,microonibus,diesel,270
+2013,ACRE,motocicleta,gasolina,83285
+2013,ACRE,motoneta,gasolina,15846
+2013,ACRE,onibus,diesel,798
+2013,ACRE,utilitario,eletrico,0
+2013,ACRE,utilitario,flex,618
+2013,ACRE,utilitario,gasolina,161
+2013,ALAGOAS,automovel,alcool,23813
+2013,ALAGOAS,automovel,eletrico,0
+2013,ALAGOAS,automovel,flex,192754
+2013,ALAGOAS,automovel,gasolina,31668
+2013,ALAGOAS,automovel,gnv,18130
+2013,ALAGOAS,caminhao,diesel,18251
+2013,ALAGOAS,caminhaotrator,diesel,2034
+2013,ALAGOAS,caminhonete,diesel,11977
+2013,ALAGOAS,caminhonete,eletrico,0
+2013,ALAGOAS,caminhonete,gasolina,20624
+2013,ALAGOAS,camioneta,diesel,7671
+2013,ALAGOAS,camioneta,eletrico,0
+2013,ALAGOAS,camioneta,gasolina,13207
+2013,ALAGOAS,microonibus,diesel,5264
+2013,ALAGOAS,motocicleta,gasolina,187254
+2013,ALAGOAS,motoneta,gasolina,27678
+2013,ALAGOAS,onibus,diesel,5916
+2013,ALAGOAS,utilitario,eletrico,0
+2013,ALAGOAS,utilitario,flex,2338
+2013,ALAGOAS,utilitario,gasolina,893
+2013,AMAPA,automovel,alcool,1418
+2013,AMAPA,automovel,eletrico,6
+2013,AMAPA,automovel,flex,53981
+2013,AMAPA,automovel,gasolina,6805
+2013,AMAPA,automovel,gnv,6
+2013,AMAPA,caminhao,diesel,3482
+2013,AMAPA,caminhaotrator,diesel,258
+2013,AMAPA,caminhonete,diesel,4359
+2013,AMAPA,caminhonete,eletrico,1
+2013,AMAPA,caminhonete,gasolina,8947
+2013,AMAPA,camioneta,diesel,1889
+2013,AMAPA,camioneta,eletrico,1
+2013,AMAPA,camioneta,gasolina,3879
+2013,AMAPA,microonibus,diesel,365
+2013,AMAPA,motocicleta,gasolina,49296
+2013,AMAPA,motoneta,gasolina,8271
+2013,AMAPA,onibus,diesel,931
+2013,AMAPA,utilitario,eletrico,0
+2013,AMAPA,utilitario,flex,577
+2013,AMAPA,utilitario,gasolina,88
+2013,AMAZONAS,automovel,alcool,16229
+2013,AMAZONAS,automovel,eletrico,33
+2013,AMAZONAS,automovel,flex,226287
+2013,AMAZONAS,automovel,gasolina,72038
+2013,AMAZONAS,automovel,gnv,1218
+2013,AMAZONAS,caminhao,diesel,18387
+2013,AMAZONAS,caminhaotrator,diesel,2850
+2013,AMAZONAS,caminhonete,diesel,15233
+2013,AMAZONAS,caminhonete,eletrico,6
+2013,AMAZONAS,caminhonete,gasolina,44178
+2013,AMAZONAS,camioneta,diesel,8295
+2013,AMAZONAS,camioneta,eletrico,3
+2013,AMAZONAS,camioneta,gasolina,24059
+2013,AMAZONAS,microonibus,diesel,3176
+2013,AMAZONAS,motocicleta,gasolina,173282
+2013,AMAZONAS,motoneta,gasolina,39496
+2013,AMAZONAS,onibus,diesel,8242
+2013,AMAZONAS,utilitario,eletrico,0
+2013,AMAZONAS,utilitario,flex,2850
+2013,AMAZONAS,utilitario,gasolina,1127
+2013,BAHIA,automovel,alcool,95131
+2013,BAHIA,automovel,eletrico,54
+2013,BAHIA,automovel,flex,937693
+2013,BAHIA,automovel,gasolina,282246
+2013,BAHIA,automovel,gnv,46934
+2013,BAHIA,caminhao,diesel,102086
+2013,BAHIA,caminhaotrator,diesel,17255
+2013,BAHIA,caminhonete,diesel,69796
+2013,BAHIA,caminhonete,eletrico,9
+2013,BAHIA,caminhonete,gasolina,158469
+2013,BAHIA,camioneta,diesel,27983
+2013,BAHIA,camioneta,eletrico,4
+2013,BAHIA,camioneta,gasolina,63532
+2013,BAHIA,microonibus,diesel,22881
+2013,BAHIA,motocicleta,gasolina,957123
+2013,BAHIA,motoneta,gasolina,130129
+2013,BAHIA,onibus,diesel,32813
+2013,BAHIA,utilitario,eletrico,1
+2013,BAHIA,utilitario,flex,10866
+2013,BAHIA,utilitario,gasolina,4917
+2013,CEARA,automovel,alcool,62708
+2013,CEARA,automovel,eletrico,17
+2013,CEARA,automovel,flex,609242
+2013,CEARA,automovel,gasolina,133292
+2013,CEARA,automovel,gnv,35050
+2013,CEARA,caminhao,diesel,58580
+2013,CEARA,caminhaotrator,diesel,6661
+2013,CEARA,caminhonete,diesel,53730
+2013,CEARA,caminhonete,eletrico,2
+2013,CEARA,caminhonete,gasolina,58743
+2013,CEARA,camioneta,diesel,34139
+2013,CEARA,camioneta,eletrico,1
+2013,CEARA,camioneta,gasolina,37324
+2013,CEARA,microonibus,diesel,9308
+2013,CEARA,motocicleta,gasolina,990192
+2013,CEARA,motoneta,gasolina,111145
+2013,CEARA,onibus,diesel,13164
+2013,CEARA,utilitario,eletrico,0
+2013,CEARA,utilitario,flex,12855
+2013,CEARA,utilitario,gasolina,4875
+2013,DISTRITO FEDERAL,automovel,alcool,59501
+2013,DISTRITO FEDERAL,automovel,eletrico,43
+2013,DISTRITO FEDERAL,automovel,flex,623097
+2013,DISTRITO FEDERAL,automovel,gasolina,382770
+2013,DISTRITO FEDERAL,automovel,gnv,1920
+2013,DISTRITO FEDERAL,caminhao,diesel,21244
+2013,DISTRITO FEDERAL,caminhaotrator,diesel,2900
+2013,DISTRITO FEDERAL,caminhonete,diesel,23933
+2013,DISTRITO FEDERAL,caminhonete,eletrico,3
+2013,DISTRITO FEDERAL,caminhonete,gasolina,60280
+2013,DISTRITO FEDERAL,camioneta,diesel,20279
+2013,DISTRITO FEDERAL,camioneta,eletrico,3
+2013,DISTRITO FEDERAL,camioneta,gasolina,51077
+2013,DISTRITO FEDERAL,microonibus,diesel,4846
+2013,DISTRITO FEDERAL,motocicleta,gasolina,150355
+2013,DISTRITO FEDERAL,motoneta,gasolina,14122
+2013,DISTRITO FEDERAL,onibus,diesel,9113
+2013,DISTRITO FEDERAL,utilitario,eletrico,1
+2013,DISTRITO FEDERAL,utilitario,flex,8508
+2013,DISTRITO FEDERAL,utilitario,gasolina,6066
+2013,ESPIRITO SANTO,automovel,alcool,53682
+2013,ESPIRITO SANTO,automovel,eletrico,17
+2013,ESPIRITO SANTO,automovel,flex,459891
+2013,ESPIRITO SANTO,automovel,gasolina,223045
+2013,ESPIRITO SANTO,automovel,gnv,27769
+2013,ESPIRITO SANTO,caminhao,diesel,62492
+2013,ESPIRITO SANTO,caminhaotrator,diesel,16665
+2013,ESPIRITO SANTO,caminhonete,diesel,30779
+2013,ESPIRITO SANTO,caminhonete,eletrico,2
+2013,ESPIRITO SANTO,caminhonete,gasolina,72099
+2013,ESPIRITO SANTO,camioneta,diesel,20980
+2013,ESPIRITO SANTO,camioneta,eletrico,2
+2013,ESPIRITO SANTO,camioneta,gasolina,49144
+2013,ESPIRITO SANTO,microonibus,diesel,6649
+2013,ESPIRITO SANTO,motocicleta,gasolina,363337
+2013,ESPIRITO SANTO,motoneta,gasolina,80888
+2013,ESPIRITO SANTO,onibus,diesel,13273
+2013,ESPIRITO SANTO,utilitario,eletrico,0
+2013,ESPIRITO SANTO,utilitario,flex,5863
+2013,ESPIRITO SANTO,utilitario,gasolina,3882
+2013,GOIAS,automovel,alcool,157755
+2013,GOIAS,automovel,eletrico,38
+2013,GOIAS,automovel,flex,821846
+2013,GOIAS,automovel,gasolina,465889
+2013,GOIAS,automovel,gnv,3412
+2013,GOIAS,caminhao,diesel,95310
+2013,GOIAS,caminhaotrator,diesel,24300
+2013,GOIAS,caminhonete,diesel,92502
+2013,GOIAS,caminhonete,eletrico,7
+2013,GOIAS,caminhonete,gasolina,184886
+2013,GOIAS,camioneta,diesel,20223
+2013,GOIAS,camioneta,eletrico,2
+2013,GOIAS,camioneta,gasolina,40419
+2013,GOIAS,microonibus,diesel,7497
+2013,GOIAS,motocicleta,gasolina,722562
+2013,GOIAS,motoneta,gasolina,210135
+2013,GOIAS,onibus,diesel,18616
+2013,GOIAS,utilitario,eletrico,0
+2013,GOIAS,utilitario,flex,7206
+2013,GOIAS,utilitario,gasolina,5498
+2013,MARANHAO,automovel,alcool,13573
+2013,MARANHAO,automovel,eletrico,54
+2013,MARANHAO,automovel,flex,308746
+2013,MARANHAO,automovel,gasolina,0
+2013,MARANHAO,automovel,gnv,170
+2013,MARANHAO,caminhao,diesel,31732
+2013,MARANHAO,caminhaotrator,diesel,2682
+2013,MARANHAO,caminhonete,diesel,33720
+2013,MARANHAO,caminhonete,eletrico,12
+2013,MARANHAO,caminhonete,gasolina,39648
+2013,MARANHAO,camioneta,diesel,10351
+2013,MARANHAO,camioneta,eletrico,4
+2013,MARANHAO,camioneta,gasolina,12172
+2013,MARANHAO,microonibus,diesel,4002
+2013,MARANHAO,motocicleta,gasolina,576053
+2013,MARANHAO,motoneta,gasolina,87881
+2013,MARANHAO,onibus,diesel,6710
+2013,MARANHAO,utilitario,eletrico,1
+2013,MARANHAO,utilitario,flex,5565
+2013,MARANHAO,utilitario,gasolina,0
+2013,MATO GROSSO,automovel,alcool,47233
+2013,MATO GROSSO,automovel,eletrico,97
+2013,MATO GROSSO,automovel,flex,391127
+2013,MATO GROSSO,automovel,gasolina,78886
+2013,MATO GROSSO,automovel,gnv,1566
+2013,MATO GROSSO,caminhao,diesel,56722
+2013,MATO GROSSO,caminhaotrator,diesel,24498
+2013,MATO GROSSO,caminhonete,diesel,68221
+2013,MATO GROSSO,caminhonete,eletrico,28
+2013,MATO GROSSO,caminhonete,gasolina,81146
+2013,MATO GROSSO,camioneta,diesel,12771
+2013,MATO GROSSO,camioneta,eletrico,5
+2013,MATO GROSSO,camioneta,gasolina,15191
+2013,MATO GROSSO,microonibus,diesel,2663
+2013,MATO GROSSO,motocicleta,gasolina,479301
+2013,MATO GROSSO,motoneta,gasolina,152887
+2013,MATO GROSSO,onibus,diesel,9134
+2013,MATO GROSSO,utilitario,eletrico,1
+2013,MATO GROSSO,utilitario,flex,5669
+2013,MATO GROSSO,utilitario,gasolina,1850
+2013,MATO GROSSO DO SUL,automovel,alcool,52507
+2013,MATO GROSSO DO SUL,automovel,eletrico,21
+2013,MATO GROSSO DO SUL,automovel,flex,303300
+2013,MATO GROSSO DO SUL,automovel,gasolina,194754
+2013,MATO GROSSO DO SUL,automovel,gnv,5967
+2013,MATO GROSSO DO SUL,caminhao,diesel,43513
+2013,MATO GROSSO DO SUL,caminhaotrator,diesel,12862
+2013,MATO GROSSO DO SUL,caminhonete,diesel,50636
+2013,MATO GROSSO DO SUL,caminhonete,eletrico,5
+2013,MATO GROSSO DO SUL,caminhonete,gasolina,66412
+2013,MATO GROSSO DO SUL,camioneta,diesel,9655
+2013,MATO GROSSO DO SUL,camioneta,eletrico,1
+2013,MATO GROSSO DO SUL,camioneta,gasolina,12662
+2013,MATO GROSSO DO SUL,microonibus,diesel,2910
+2013,MATO GROSSO DO SUL,motocicleta,gasolina,304531
+2013,MATO GROSSO DO SUL,motoneta,gasolina,85334
+2013,MATO GROSSO DO SUL,onibus,diesel,8014
+2013,MATO GROSSO DO SUL,utilitario,eletrico,0
+2013,MATO GROSSO DO SUL,utilitario,flex,3376
+2013,MATO GROSSO DO SUL,utilitario,gasolina,2819
+2013,MINAS GERAIS,automovel,alcool,430856
+2013,MINAS GERAIS,automovel,eletrico,89
+2013,MINAS GERAIS,automovel,flex,2420474
+2013,MINAS GERAIS,automovel,gasolina,1872825
+2013,MINAS GERAIS,automovel,gnv,35101
+2013,MINAS GERAIS,caminhao,diesel,290348
+2013,MINAS GERAIS,caminhaotrator,diesel,56445
+2013,MINAS GERAIS,caminhonete,diesel,158785
+2013,MINAS GERAIS,caminhonete,eletrico,12
+2013,MINAS GERAIS,caminhonete,gasolina,504463
+2013,MINAS GERAIS,camioneta,diesel,49308
+2013,MINAS GERAIS,camioneta,eletrico,4
+2013,MINAS GERAIS,camioneta,gasolina,156650
+2013,MINAS GERAIS,microonibus,diesel,37601
+2013,MINAS GERAIS,motocicleta,gasolina,2043970
+2013,MINAS GERAIS,motoneta,gasolina,217200
+2013,MINAS GERAIS,onibus,diesel,64784
+2013,MINAS GERAIS,utilitario,eletrico,1
+2013,MINAS GERAIS,utilitario,flex,16575
+2013,MINAS GERAIS,utilitario,gasolina,16016
+2013,PARA,automovel,alcool,23639
+2013,PARA,automovel,eletrico,30
+2013,PARA,automovel,flex,397883
+2013,PARA,automovel,gasolina,14562
+2013,PARA,automovel,gnv,219
+2013,PARA,caminhao,diesel,48173
+2013,PARA,caminhaotrator,diesel,5854
+2013,PARA,caminhonete,diesel,44419
+2013,PARA,caminhonete,eletrico,6
+2013,PARA,caminhonete,gasolina,48268
+2013,PARA,camioneta,diesel,15185
+2013,PARA,camioneta,eletrico,2
+2013,PARA,camioneta,gasolina,16501
+2013,PARA,microonibus,diesel,5674
+2013,PARA,motocicleta,gasolina,553232
+2013,PARA,motoneta,gasolina,121342
+2013,PARA,onibus,diesel,13997
+2013,PARA,utilitario,eletrico,1
+2013,PARA,utilitario,flex,7635
+2013,PARA,utilitario,gasolina,737
+2013,PARAIBA,automovel,alcool,29183
+2013,PARAIBA,automovel,eletrico,2
+2013,PARAIBA,automovel,flex,279013
+2013,PARAIBA,automovel,gasolina,63244
+2013,PARAIBA,automovel,gnv,20787
+2013,PARAIBA,caminhao,diesel,24776
+2013,PARAIBA,caminhaotrator,diesel,2274
+2013,PARAIBA,caminhonete,diesel,18426
+2013,PARAIBA,caminhonete,eletrico,0
+2013,PARAIBA,caminhonete,gasolina,28615
+2013,PARAIBA,camioneta,diesel,11973
+2013,PARAIBA,camioneta,eletrico,0
+2013,PARAIBA,camioneta,gasolina,18594
+2013,PARAIBA,microonibus,diesel,3761
+2013,PARAIBA,motocicleta,gasolina,352008
+2013,PARAIBA,motoneta,gasolina,49121
+2013,PARAIBA,onibus,diesel,6075
+2013,PARAIBA,utilitario,eletrico,0
+2013,PARAIBA,utilitario,flex,3544
+2013,PARAIBA,utilitario,gasolina,1438
+2013,PARANA,automovel,alcool,418722
+2013,PARANA,automovel,eletrico,181
+2013,PARANA,automovel,flex,1594445
+2013,PARANA,automovel,gasolina,1569726
+2013,PARANA,automovel,gnv,33575
+2013,PARANA,caminhao,diesel,236137
+2013,PARANA,caminhaotrator,diesel,79639
+2013,PARANA,caminhonete,diesel,126536
+2013,PARANA,caminhonete,eletrico,22
+2013,PARANA,caminhonete,gasolina,307853
+2013,PARANA,camioneta,diesel,65242
+2013,PARANA,camioneta,eletrico,11
+2013,PARANA,camioneta,gasolina,158728
+2013,PARANA,microonibus,diesel,18599
+2013,PARANA,motocicleta,gasolina,983205
+2013,PARANA,motoneta,gasolina,240223
+2013,PARANA,onibus,diesel,35011
+2013,PARANA,utilitario,eletrico,2
+2013,PARANA,utilitario,flex,13319
+2013,PARANA,utilitario,gasolina,16891
+2013,PERNAMBUCO,automovel,alcool,93746
+2013,PERNAMBUCO,automovel,eletrico,73
+2013,PERNAMBUCO,automovel,flex,724320
+2013,PERNAMBUCO,automovel,gasolina,193345
+2013,PERNAMBUCO,automovel,gnv,43607
+2013,PERNAMBUCO,caminhao,diesel,80435
+2013,PERNAMBUCO,caminhaotrator,diesel,10147
+2013,PERNAMBUCO,caminhonete,diesel,37340
+2013,PERNAMBUCO,caminhonete,eletrico,8
+2013,PERNAMBUCO,caminhonete,gasolina,75047
+2013,PERNAMBUCO,camioneta,diesel,28223
+2013,PERNAMBUCO,camioneta,eletrico,6
+2013,PERNAMBUCO,camioneta,gasolina,56724
+2013,PERNAMBUCO,microonibus,diesel,14563
+2013,PERNAMBUCO,motocicleta,gasolina,797313
+2013,PERNAMBUCO,motoneta,gasolina,77933
+2013,PERNAMBUCO,onibus,diesel,17475
+2013,PERNAMBUCO,utilitario,eletrico,1
+2013,PERNAMBUCO,utilitario,flex,7315
+2013,PERNAMBUCO,utilitario,gasolina,3340
+2013,PIAUI,automovel,alcool,18061
+2013,PIAUI,automovel,eletrico,21
+2013,PIAUI,automovel,flex,210928
+2013,PIAUI,automovel,gasolina,7655
+2013,PIAUI,automovel,gnv,523
+2013,PIAUI,caminhao,diesel,21063
+2013,PIAUI,caminhaotrator,diesel,1861
+2013,PIAUI,caminhonete,diesel,20202
+2013,PIAUI,caminhonete,eletrico,4
+2013,PIAUI,caminhonete,gasolina,23723
+2013,PIAUI,camioneta,diesel,12976
+2013,PIAUI,camioneta,eletrico,2
+2013,PIAUI,camioneta,gasolina,15238
+2013,PIAUI,microonibus,diesel,2388
+2013,PIAUI,motocicleta,gasolina,387918
+2013,PIAUI,motoneta,gasolina,65911
+2013,PIAUI,onibus,diesel,5110
+2013,PIAUI,utilitario,eletrico,0
+2013,PIAUI,utilitario,flex,2657
+2013,PIAUI,utilitario,gasolina,331
+2013,RIO DE JANEIRO,automovel,alcool,310835
+2013,RIO DE JANEIRO,automovel,eletrico,63
+2013,RIO DE JANEIRO,automovel,flex,1320683
+2013,RIO DE JANEIRO,automovel,gasolina,1175179
+2013,RIO DE JANEIRO,automovel,gnv,927768
+2013,RIO DE JANEIRO,caminhao,diesel,128277
+2013,RIO DE JANEIRO,caminhaotrator,diesel,15339
+2013,RIO DE JANEIRO,caminhonete,diesel,33489
+2013,RIO DE JANEIRO,caminhonete,eletrico,4
+2013,RIO DE JANEIRO,caminhonete,gasolina,178666
+2013,RIO DE JANEIRO,camioneta,diesel,43820
+2013,RIO DE JANEIRO,camioneta,eletrico,5
+2013,RIO DE JANEIRO,camioneta,gasolina,233776
+2013,RIO DE JANEIRO,microonibus,diesel,35245
+2013,RIO DE JANEIRO,motocicleta,gasolina,720285
+2013,RIO DE JANEIRO,motoneta,gasolina,127983
+2013,RIO DE JANEIRO,onibus,diesel,43703
+2013,RIO DE JANEIRO,utilitario,eletrico,1
+2013,RIO DE JANEIRO,utilitario,flex,11524
+2013,RIO DE JANEIRO,utilitario,gasolina,21061
+2013,RIO GRANDE DO NORTE,automovel,alcool,29879
+2013,RIO GRANDE DO NORTE,automovel,eletrico,4
+2013,RIO GRANDE DO NORTE,automovel,flex,249562
+2013,RIO GRANDE DO NORTE,automovel,gasolina,89193
+2013,RIO GRANDE DO NORTE,automovel,gnv,43621
+2013,RIO GRANDE DO NORTE,caminhao,diesel,26002
+2013,RIO GRANDE DO NORTE,caminhaotrator,diesel,2477
+2013,RIO GRANDE DO NORTE,caminhonete,diesel,19381
+2013,RIO GRANDE DO NORTE,caminhonete,eletrico,1
+2013,RIO GRANDE DO NORTE,caminhonete,gasolina,32109
+2013,RIO GRANDE DO NORTE,camioneta,diesel,11717
+2013,RIO GRANDE DO NORTE,camioneta,eletrico,0
+2013,RIO GRANDE DO NORTE,camioneta,gasolina,19410
+2013,RIO GRANDE DO NORTE,microonibus,diesel,4063
+2013,RIO GRANDE DO NORTE,motocicleta,gasolina,327392
+2013,RIO GRANDE DO NORTE,motoneta,gasolina,44474
+2013,RIO GRANDE DO NORTE,onibus,diesel,5768
+2013,RIO GRANDE DO NORTE,utilitario,eletrico,0
+2013,RIO GRANDE DO NORTE,utilitario,flex,5123
+2013,RIO GRANDE DO NORTE,utilitario,gasolina,3340
+2013,RIO GRANDE DO SUL,automovel,alcool,198022
+2013,RIO GRANDE DO SUL,automovel,eletrico,110
+2013,RIO GRANDE DO SUL,automovel,flex,1278192
+2013,RIO GRANDE DO SUL,automovel,gasolina,1941769
+2013,RIO GRANDE DO SUL,automovel,gnv,59123
+2013,RIO GRANDE DO SUL,caminhao,diesel,199426
+2013,RIO GRANDE DO SUL,caminhaotrator,diesel,51625
+2013,RIO GRANDE DO SUL,caminhonete,diesel,102332
+2013,RIO GRANDE DO SUL,caminhonete,eletrico,10
+2013,RIO GRANDE DO SUL,caminhonete,gasolina,225136
+2013,RIO GRANDE DO SUL,camioneta,diesel,71204
+2013,RIO GRANDE DO SUL,camioneta,eletrico,7
+2013,RIO GRANDE DO SUL,camioneta,gasolina,156655
+2013,RIO GRANDE DO SUL,microonibus,diesel,17153
+2013,RIO GRANDE DO SUL,motocicleta,gasolina,930717
+2013,RIO GRANDE DO SUL,motoneta,gasolina,159897
+2013,RIO GRANDE DO SUL,onibus,diesel,36367
+2013,RIO GRANDE DO SUL,utilitario,eletrico,1
+2013,RIO GRANDE DO SUL,utilitario,flex,10255
+2013,RIO GRANDE DO SUL,utilitario,gasolina,17642
+2013,RONDONIA,automovel,alcool,10191
+2013,RONDONIA,automovel,eletrico,13
+2013,RONDONIA,automovel,flex,193632
+2013,RONDONIA,automovel,gasolina,0
+2013,RONDONIA,automovel,gnv,98
+2013,RONDONIA,caminhao,diesel,26081
+2013,RONDONIA,caminhaotrator,diesel,5004
+2013,RONDONIA,caminhonete,diesel,24071
+2013,RONDONIA,caminhonete,eletrico,3
+2013,RONDONIA,caminhonete,gasolina,29549
+2013,RONDONIA,camioneta,diesel,7937
+2013,RONDONIA,camioneta,eletrico,1
+2013,RONDONIA,camioneta,gasolina,9742
+2013,RONDONIA,microonibus,diesel,949
+2013,RONDONIA,motocicleta,gasolina,311397
+2013,RONDONIA,motoneta,gasolina,86739
+2013,RONDONIA,onibus,diesel,4750
+2013,RONDONIA,utilitario,eletrico,0
+2013,RONDONIA,utilitario,flex,1857
+2013,RONDONIA,utilitario,gasolina,61
+2013,RORAIMA,automovel,alcool,1417
+2013,RORAIMA,automovel,eletrico,11
+2013,RORAIMA,automovel,flex,41680
+2013,RORAIMA,automovel,gasolina,8360
+2013,RORAIMA,automovel,gnv,28
+2013,RORAIMA,caminhao,diesel,3671
+2013,RORAIMA,caminhaotrator,diesel,480
+2013,RORAIMA,caminhonete,diesel,4671
+2013,RORAIMA,caminhonete,eletrico,3
+2013,RORAIMA,caminhonete,gasolina,8363
+2013,RORAIMA,camioneta,diesel,2837
+2013,RORAIMA,camioneta,eletrico,2
+2013,RORAIMA,camioneta,gasolina,5081
+2013,RORAIMA,microonibus,diesel,555
+2013,RORAIMA,motocicleta,gasolina,63012
+2013,RORAIMA,motoneta,gasolina,14787
+2013,RORAIMA,onibus,diesel,785
+2013,RORAIMA,utilitario,eletrico,0
+2013,RORAIMA,utilitario,flex,586
+2013,RORAIMA,utilitario,gasolina,138
+2013,SANTA CATARINA,automovel,alcool,134149
+2013,SANTA CATARINA,automovel,eletrico,65
+2013,SANTA CATARINA,automovel,flex,1126211
+2013,SANTA CATARINA,automovel,gasolina,988880
+2013,SANTA CATARINA,automovel,gnv,95127
+2013,SANTA CATARINA,caminhao,diesel,134524
+2013,SANTA CATARINA,caminhaotrator,diesel,45574
+2013,SANTA CATARINA,caminhonete,diesel,58382
+2013,SANTA CATARINA,caminhonete,eletrico,5
+2013,SANTA CATARINA,caminhonete,gasolina,136739
+2013,SANTA CATARINA,camioneta,diesel,57610
+2013,SANTA CATARINA,camioneta,eletrico,5
+2013,SANTA CATARINA,camioneta,gasolina,134934
+2013,SANTA CATARINA,microonibus,diesel,10352
+2013,SANTA CATARINA,motocicleta,gasolina,744040
+2013,SANTA CATARINA,motoneta,gasolina,224247
+2013,SANTA CATARINA,onibus,diesel,16818
+2013,SANTA CATARINA,utilitario,eletrico,1
+2013,SANTA CATARINA,utilitario,flex,11879
+2013,SANTA CATARINA,utilitario,gasolina,12849
+2013,SAO PAULO,automovel,alcool,1841934
+2013,SAO PAULO,automovel,eletrico,1302
+2013,SAO PAULO,automovel,flex,6665542
+2013,SAO PAULO,automovel,gasolina,6489374
+2013,SAO PAULO,automovel,gnv,294026
+2013,SAO PAULO,caminhao,diesel,622054
+2013,SAO PAULO,caminhaotrator,diesel,153212
+2013,SAO PAULO,caminhonete,diesel,226847
+2013,SAO PAULO,caminhonete,eletrico,102
+2013,SAO PAULO,caminhonete,gasolina,973498
+2013,SAO PAULO,camioneta,diesel,220599
+2013,SAO PAULO,camioneta,eletrico,99
+2013,SAO PAULO,camioneta,gasolina,946684
+2013,SAO PAULO,microonibus,diesel,101888
+2013,SAO PAULO,motocicleta,gasolina,3871467
+2013,SAO PAULO,motoneta,gasolina,671199
+2013,SAO PAULO,onibus,diesel,144628
+2013,SAO PAULO,utilitario,eletrico,11
+2013,SAO PAULO,utilitario,flex,58848
+2013,SAO PAULO,utilitario,gasolina,76150
+2013,SERGIPE,automovel,alcool,18365
+2013,SERGIPE,automovel,eletrico,4
+2013,SERGIPE,automovel,flex,169106
+2013,SERGIPE,automovel,gasolina,45840
+2013,SERGIPE,automovel,gnv,19233
+2013,SERGIPE,caminhao,diesel,18519
+2013,SERGIPE,caminhaotrator,diesel,1721
+2013,SERGIPE,caminhonete,diesel,10682
+2013,SERGIPE,caminhonete,eletrico,1
+2013,SERGIPE,caminhonete,gasolina,19649
+2013,SERGIPE,camioneta,diesel,3505
+2013,SERGIPE,camioneta,eletrico,0
+2013,SERGIPE,camioneta,gasolina,6447
+2013,SERGIPE,microonibus,diesel,3028
+2013,SERGIPE,motocicleta,gasolina,182989
+2013,SERGIPE,motoneta,gasolina,31044
+2013,SERGIPE,onibus,diesel,5398
+2013,SERGIPE,utilitario,eletrico,0
+2013,SERGIPE,utilitario,flex,1797
+2013,SERGIPE,utilitario,gasolina,886
+2013,TOCANTINS,automovel,alcool,10628
+2013,TOCANTINS,automovel,eletrico,12
+2013,TOCANTINS,automovel,flex,129433
+2013,TOCANTINS,automovel,gasolina,10770
+2013,TOCANTINS,automovel,gnv,198
+2013,TOCANTINS,caminhao,diesel,20438
+2013,TOCANTINS,caminhaotrator,diesel,3672
+2013,TOCANTINS,caminhonete,diesel,17638
+2013,TOCANTINS,caminhonete,eletrico,3
+2013,TOCANTINS,caminhonete,gasolina,18808
+2013,TOCANTINS,camioneta,diesel,8111
+2013,TOCANTINS,camioneta,eletrico,1
+2013,TOCANTINS,camioneta,gasolina,8649
+2013,TOCANTINS,microonibus,diesel,1335
+2013,TOCANTINS,motocicleta,gasolina,177796
+2013,TOCANTINS,motoneta,gasolina,70922
+2013,TOCANTINS,onibus,diesel,4312
+2013,TOCANTINS,utilitario,eletrico,0
+2013,TOCANTINS,utilitario,flex,1655
+2013,TOCANTINS,utilitario,gasolina,276
+2014,ACRE,automovel,alcool,3604
+2014,ACRE,automovel,eletrico,11
+2014,ACRE,automovel,flex,61140
+2014,ACRE,automovel,gasolina,5023
+2014,ACRE,automovel,gnv,11
+2014,ACRE,caminhao,diesel,6398
+2014,ACRE,caminhaotrator,diesel,623
+2014,ACRE,caminhonete,diesel,9153
+2014,ACRE,caminhonete,eletrico,3
+2014,ACRE,caminhonete,gasolina,8307
+2014,ACRE,camioneta,diesel,3188
+2014,ACRE,camioneta,eletrico,1
+2014,ACRE,camioneta,gasolina,2894
+2014,ACRE,microonibus,diesel,300
+2014,ACRE,motocicleta,gasolina,90264
+2014,ACRE,motoneta,gasolina,17638
+2014,ACRE,onibus,diesel,953
+2014,ACRE,utilitario,eletrico,0
+2014,ACRE,utilitario,flex,769
+2014,ACRE,utilitario,gasolina,109
+2014,ALAGOAS,automovel,alcool,23851
+2014,ALAGOAS,automovel,eletrico,0
+2014,ALAGOAS,automovel,flex,229535
+2014,ALAGOAS,automovel,gasolina,15088
+2014,ALAGOAS,automovel,gnv,18408
+2014,ALAGOAS,caminhao,diesel,19296
+2014,ALAGOAS,caminhaotrator,diesel,2190
+2014,ALAGOAS,caminhonete,diesel,13180
+2014,ALAGOAS,caminhonete,eletrico,0
+2014,ALAGOAS,caminhonete,gasolina,23387
+2014,ALAGOAS,camioneta,diesel,7935
+2014,ALAGOAS,camioneta,eletrico,0
+2014,ALAGOAS,camioneta,gasolina,14079
+2014,ALAGOAS,microonibus,diesel,5631
+2014,ALAGOAS,motocicleta,gasolina,211001
+2014,ALAGOAS,motoneta,gasolina,31034
+2014,ALAGOAS,onibus,diesel,6342
+2014,ALAGOAS,utilitario,eletrico,0
+2014,ALAGOAS,utilitario,flex,3048
+2014,ALAGOAS,utilitario,gasolina,762
+2014,AMAPA,automovel,alcool,1420
+2014,AMAPA,automovel,eletrico,8
+2014,AMAPA,automovel,flex,62416
+2014,AMAPA,automovel,gasolina,3032
+2014,AMAPA,automovel,gnv,6
+2014,AMAPA,caminhao,diesel,3696
+2014,AMAPA,caminhaotrator,diesel,289
+2014,AMAPA,caminhonete,diesel,4781
+2014,AMAPA,caminhonete,eletrico,2
+2014,AMAPA,caminhonete,gasolina,10090
+2014,AMAPA,camioneta,diesel,1926
+2014,AMAPA,camioneta,eletrico,1
+2014,AMAPA,camioneta,gasolina,4066
+2014,AMAPA,microonibus,diesel,399
+2014,AMAPA,motocicleta,gasolina,52796
+2014,AMAPA,motoneta,gasolina,9087
+2014,AMAPA,onibus,diesel,1000
+2014,AMAPA,utilitario,eletrico,0
+2014,AMAPA,utilitario,flex,667
+2014,AMAPA,utilitario,gasolina,48
+2014,AMAZONAS,automovel,alcool,16219
+2014,AMAZONAS,automovel,eletrico,42
+2014,AMAZONAS,automovel,flex,264817
+2014,AMAZONAS,automovel,gasolina,53546
+2014,AMAZONAS,automovel,gnv,1492
+2014,AMAZONAS,caminhao,diesel,19027
+2014,AMAZONAS,caminhaotrator,diesel,3062
+2014,AMAZONAS,caminhonete,diesel,16721
+2014,AMAZONAS,caminhonete,eletrico,8
+2014,AMAZONAS,caminhonete,gasolina,47898
+2014,AMAZONAS,camioneta,diesel,8633
+2014,AMAZONAS,camioneta,eletrico,4
+2014,AMAZONAS,camioneta,gasolina,24728
+2014,AMAZONAS,microonibus,diesel,3378
+2014,AMAZONAS,motocicleta,gasolina,194260
+2014,AMAZONAS,motoneta,gasolina,44142
+2014,AMAZONAS,onibus,diesel,8696
+2014,AMAZONAS,utilitario,eletrico,1
+2014,AMAZONAS,utilitario,flex,3478
+2014,AMAZONAS,utilitario,gasolina,936
+2014,BAHIA,automovel,alcool,96571
+2014,BAHIA,automovel,eletrico,60
+2014,BAHIA,automovel,flex,1113560
+2014,BAHIA,automovel,gasolina,216086
+2014,BAHIA,automovel,gnv,47428
+2014,BAHIA,caminhao,diesel,107855
+2014,BAHIA,caminhaotrator,diesel,18726
+2014,BAHIA,caminhonete,diesel,76381
+2014,BAHIA,caminhonete,eletrico,10
+2014,BAHIA,caminhonete,gasolina,178054
+2014,BAHIA,camioneta,diesel,29726
+2014,BAHIA,camioneta,eletrico,4
+2014,BAHIA,camioneta,gasolina,69293
+2014,BAHIA,microonibus,diesel,24890
+2014,BAHIA,motocicleta,gasolina,1047872
+2014,BAHIA,motoneta,gasolina,147142
+2014,BAHIA,onibus,diesel,35090
+2014,BAHIA,utilitario,eletrico,1
+2014,BAHIA,utilitario,flex,13980
+2014,BAHIA,utilitario,gasolina,4521
+2014,CEARA,automovel,alcool,62679
+2014,CEARA,automovel,eletrico,18
+2014,CEARA,automovel,flex,753096
+2014,CEARA,automovel,gasolina,60790
+2014,CEARA,automovel,gnv,35822
+2014,CEARA,caminhao,diesel,62585
+2014,CEARA,caminhaotrator,diesel,7155
+2014,CEARA,caminhonete,diesel,60387
+2014,CEARA,caminhonete,eletrico,2
+2014,CEARA,caminhonete,gasolina,67492
+2014,CEARA,camioneta,diesel,34798
+2014,CEARA,camioneta,eletrico,1
+2014,CEARA,camioneta,gasolina,38891
+2014,CEARA,microonibus,diesel,10338
+2014,CEARA,motocicleta,gasolina,1089724
+2014,CEARA,motoneta,gasolina,125075
+2014,CEARA,onibus,diesel,14072
+2014,CEARA,utilitario,eletrico,0
+2014,CEARA,utilitario,flex,16762
+2014,CEARA,utilitario,gasolina,3546
+2014,DISTRITO FEDERAL,automovel,alcool,58744
+2014,DISTRITO FEDERAL,automovel,eletrico,71
+2014,DISTRITO FEDERAL,automovel,flex,700485
+2014,DISTRITO FEDERAL,automovel,gasolina,359472
+2014,DISTRITO FEDERAL,automovel,gnv,1787
+2014,DISTRITO FEDERAL,caminhao,diesel,22014
+2014,DISTRITO FEDERAL,caminhaotrator,diesel,3104
+2014,DISTRITO FEDERAL,caminhonete,diesel,25945
+2014,DISTRITO FEDERAL,caminhonete,eletrico,6
+2014,DISTRITO FEDERAL,caminhonete,gasolina,65588
+2014,DISTRITO FEDERAL,camioneta,diesel,21794
+2014,DISTRITO FEDERAL,camioneta,eletrico,5
+2014,DISTRITO FEDERAL,camioneta,gasolina,55097
+2014,DISTRITO FEDERAL,microonibus,diesel,5080
+2014,DISTRITO FEDERAL,motocicleta,gasolina,158873
+2014,DISTRITO FEDERAL,motoneta,gasolina,15277
+2014,DISTRITO FEDERAL,onibus,diesel,11713
+2014,DISTRITO FEDERAL,utilitario,eletrico,1
+2014,DISTRITO FEDERAL,utilitario,flex,10563
+2014,DISTRITO FEDERAL,utilitario,gasolina,6333
+2014,ESPIRITO SANTO,automovel,alcool,53675
+2014,ESPIRITO SANTO,automovel,eletrico,29
+2014,ESPIRITO SANTO,automovel,flex,534118
+2014,ESPIRITO SANTO,automovel,gasolina,196483
+2014,ESPIRITO SANTO,automovel,gnv,27825
+2014,ESPIRITO SANTO,caminhao,diesel,65726
+2014,ESPIRITO SANTO,caminhaotrator,diesel,17425
+2014,ESPIRITO SANTO,caminhonete,diesel,34483
+2014,ESPIRITO SANTO,caminhonete,eletrico,4
+2014,ESPIRITO SANTO,caminhonete,gasolina,80951
+2014,ESPIRITO SANTO,camioneta,diesel,21767
+2014,ESPIRITO SANTO,camioneta,eletrico,3
+2014,ESPIRITO SANTO,camioneta,gasolina,51098
+2014,ESPIRITO SANTO,microonibus,diesel,7075
+2014,ESPIRITO SANTO,motocicleta,gasolina,383758
+2014,ESPIRITO SANTO,motoneta,gasolina,87681
+2014,ESPIRITO SANTO,onibus,diesel,13690
+2014,ESPIRITO SANTO,utilitario,eletrico,0
+2014,ESPIRITO SANTO,utilitario,flex,7581
+2014,ESPIRITO SANTO,utilitario,gasolina,3945
+2014,GOIAS,automovel,alcool,158539
+2014,GOIAS,automovel,eletrico,59
+2014,GOIAS,automovel,flex,973303
+2014,GOIAS,automovel,gasolina,420721
+2014,GOIAS,automovel,gnv,3742
+2014,GOIAS,caminhao,diesel,100438
+2014,GOIAS,caminhaotrator,diesel,26789
+2014,GOIAS,caminhonete,diesel,100756
+2014,GOIAS,caminhonete,eletrico,11
+2014,GOIAS,caminhonete,gasolina,200398
+2014,GOIAS,camioneta,diesel,22958
+2014,GOIAS,camioneta,eletrico,3
+2014,GOIAS,camioneta,gasolina,45664
+2014,GOIAS,microonibus,diesel,8235
+2014,GOIAS,motocicleta,gasolina,763151
+2014,GOIAS,motoneta,gasolina,228746
+2014,GOIAS,onibus,diesel,19830
+2014,GOIAS,utilitario,eletrico,1
+2014,GOIAS,utilitario,flex,9510
+2014,GOIAS,utilitario,gasolina,5696
+2014,MARANHAO,automovel,alcool,13627
+2014,MARANHAO,automovel,eletrico,60
+2014,MARANHAO,automovel,flex,335530
+2014,MARANHAO,automovel,gasolina,0
+2014,MARANHAO,automovel,gnv,184
+2014,MARANHAO,caminhao,diesel,34211
+2014,MARANHAO,caminhaotrator,diesel,3199
+2014,MARANHAO,caminhonete,diesel,37142
+2014,MARANHAO,caminhonete,eletrico,14
+2014,MARANHAO,caminhonete,gasolina,45048
+2014,MARANHAO,camioneta,diesel,10823
+2014,MARANHAO,camioneta,eletrico,4
+2014,MARANHAO,camioneta,gasolina,13127
+2014,MARANHAO,microonibus,diesel,4200
+2014,MARANHAO,motocicleta,gasolina,648165
+2014,MARANHAO,motoneta,gasolina,103587
+2014,MARANHAO,onibus,diesel,7216
+2014,MARANHAO,utilitario,eletrico,1
+2014,MARANHAO,utilitario,flex,6291
+2014,MARANHAO,utilitario,gasolina,0
+2014,MATO GROSSO,automovel,alcool,47447
+2014,MATO GROSSO,automovel,eletrico,155
+2014,MATO GROSSO,automovel,flex,477756
+2014,MATO GROSSO,automovel,gasolina,38609
+2014,MATO GROSSO,automovel,gnv,1534
+2014,MATO GROSSO,caminhao,diesel,60417
+2014,MATO GROSSO,caminhaotrator,diesel,28012
+2014,MATO GROSSO,caminhonete,diesel,73721
+2014,MATO GROSSO,caminhonete,eletrico,45
+2014,MATO GROSSO,caminhonete,gasolina,91731
+2014,MATO GROSSO,camioneta,diesel,13954
+2014,MATO GROSSO,camioneta,eletrico,9
+2014,MATO GROSSO,camioneta,gasolina,17363
+2014,MATO GROSSO,microonibus,diesel,2929
+2014,MATO GROSSO,motocicleta,gasolina,512488
+2014,MATO GROSSO,motoneta,gasolina,169312
+2014,MATO GROSSO,onibus,diesel,9975
+2014,MATO GROSSO,utilitario,eletrico,2
+2014,MATO GROSSO,utilitario,flex,7481
+2014,MATO GROSSO,utilitario,gasolina,1372
+2014,MATO GROSSO DO SUL,automovel,alcool,52933
+2014,MATO GROSSO DO SUL,automovel,eletrico,33
+2014,MATO GROSSO DO SUL,automovel,flex,365231
+2014,MATO GROSSO DO SUL,automovel,gasolina,177433
+2014,MATO GROSSO DO SUL,automovel,gnv,5792
+2014,MATO GROSSO DO SUL,caminhao,diesel,45460
+2014,MATO GROSSO DO SUL,caminhaotrator,diesel,14229
+2014,MATO GROSSO DO SUL,caminhonete,diesel,54410
+2014,MATO GROSSO DO SUL,caminhonete,eletrico,7
+2014,MATO GROSSO DO SUL,caminhonete,gasolina,74228
+2014,MATO GROSSO DO SUL,camioneta,diesel,10557
+2014,MATO GROSSO DO SUL,camioneta,eletrico,1
+2014,MATO GROSSO DO SUL,camioneta,gasolina,14402
+2014,MATO GROSSO DO SUL,microonibus,diesel,3201
+2014,MATO GROSSO DO SUL,motocicleta,gasolina,320712
+2014,MATO GROSSO DO SUL,motoneta,gasolina,92054
+2014,MATO GROSSO DO SUL,onibus,diesel,8480
+2014,MATO GROSSO DO SUL,utilitario,eletrico,0
+2014,MATO GROSSO DO SUL,utilitario,flex,4504
+2014,MATO GROSSO DO SUL,utilitario,gasolina,2913
+2014,MINAS GERAIS,automovel,alcool,432025
+2014,MINAS GERAIS,automovel,eletrico,137
+2014,MINAS GERAIS,automovel,flex,2828945
+2014,MINAS GERAIS,automovel,gasolina,1762250
+2014,MINAS GERAIS,automovel,gnv,33829
+2014,MINAS GERAIS,caminhao,diesel,303253
+2014,MINAS GERAIS,caminhaotrator,diesel,60732
+2014,MINAS GERAIS,caminhonete,diesel,173196
+2014,MINAS GERAIS,caminhonete,eletrico,20
+2014,MINAS GERAIS,caminhonete,gasolina,552370
+2014,MINAS GERAIS,camioneta,diesel,54182
+2014,MINAS GERAIS,camioneta,eletrico,6
+2014,MINAS GERAIS,camioneta,gasolina,172803
+2014,MINAS GERAIS,microonibus,diesel,40325
+2014,MINAS GERAIS,motocicleta,gasolina,2158241
+2014,MINAS GERAIS,motoneta,gasolina,236227
+2014,MINAS GERAIS,onibus,diesel,69015
+2014,MINAS GERAIS,utilitario,eletrico,1
+2014,MINAS GERAIS,utilitario,flex,22043
+2014,MINAS GERAIS,utilitario,gasolina,17361
+2014,PARA,automovel,alcool,23685
+2014,PARA,automovel,eletrico,42
+2014,PARA,automovel,flex,448402
+2014,PARA,automovel,gasolina,0
+2014,PARA,automovel,gnv,240
+2014,PARA,caminhao,diesel,51399
+2014,PARA,caminhaotrator,diesel,6527
+2014,PARA,caminhonete,diesel,49319
+2014,PARA,caminhonete,eletrico,9
+2014,PARA,caminhonete,gasolina,54108
+2014,PARA,camioneta,diesel,16311
+2014,PARA,camioneta,eletrico,3
+2014,PARA,camioneta,gasolina,17894
+2014,PARA,microonibus,diesel,5988
+2014,PARA,motocicleta,gasolina,632937
+2014,PARA,motoneta,gasolina,140165
+2014,PARA,onibus,diesel,15260
+2014,PARA,utilitario,eletrico,1
+2014,PARA,utilitario,flex,9604
+2014,PARA,utilitario,gasolina,0
+2014,PARAIBA,automovel,alcool,29191
+2014,PARAIBA,automovel,eletrico,2
+2014,PARAIBA,automovel,flex,333942
+2014,PARAIBA,automovel,gasolina,38673
+2014,PARAIBA,automovel,gnv,21328
+2014,PARAIBA,caminhao,diesel,26252
+2014,PARAIBA,caminhaotrator,diesel,2475
+2014,PARAIBA,caminhonete,diesel,20707
+2014,PARAIBA,caminhonete,eletrico,0
+2014,PARAIBA,caminhonete,gasolina,32966
+2014,PARAIBA,camioneta,diesel,12327
+2014,PARAIBA,camioneta,eletrico,0
+2014,PARAIBA,camioneta,gasolina,19626
+2014,PARAIBA,microonibus,diesel,4107
+2014,PARAIBA,motocicleta,gasolina,383044
+2014,PARAIBA,motoneta,gasolina,53850
+2014,PARAIBA,onibus,diesel,6739
+2014,PARAIBA,utilitario,eletrico,0
+2014,PARAIBA,utilitario,flex,4641
+2014,PARAIBA,utilitario,gasolina,1239
+2014,PARANA,automovel,alcool,419076
+2014,PARANA,automovel,eletrico,270
+2014,PARANA,automovel,flex,1861940
+2014,PARANA,automovel,gasolina,1524408
+2014,PARANA,automovel,gnv,34894
+2014,PARANA,caminhao,diesel,245735
+2014,PARANA,caminhaotrator,diesel,85544
+2014,PARANA,caminhonete,diesel,142027
+2014,PARANA,caminhonete,eletrico,34
+2014,PARANA,caminhonete,gasolina,345842
+2014,PARANA,camioneta,diesel,68925
+2014,PARANA,camioneta,eletrico,17
+2014,PARANA,camioneta,gasolina,167837
+2014,PARANA,microonibus,diesel,19882
+2014,PARANA,motocicleta,gasolina,1020283
+2014,PARANA,motoneta,gasolina,252351
+2014,PARANA,onibus,diesel,36898
+2014,PARANA,utilitario,eletrico,3
+2014,PARANA,utilitario,flex,17372
+2014,PARANA,utilitario,gasolina,18458
+2014,PERNAMBUCO,automovel,alcool,93835
+2014,PERNAMBUCO,automovel,eletrico,85
+2014,PERNAMBUCO,automovel,flex,858036
+2014,PERNAMBUCO,automovel,gasolina,131680
+2014,PERNAMBUCO,automovel,gnv,44583
+2014,PERNAMBUCO,caminhao,diesel,85111
+2014,PERNAMBUCO,caminhaotrator,diesel,10956
+2014,PERNAMBUCO,caminhonete,diesel,42294
+2014,PERNAMBUCO,caminhonete,eletrico,10
+2014,PERNAMBUCO,caminhonete,gasolina,86273
+2014,PERNAMBUCO,camioneta,diesel,29548
+2014,PERNAMBUCO,camioneta,eletrico,7
+2014,PERNAMBUCO,camioneta,gasolina,60271
+2014,PERNAMBUCO,microonibus,diesel,16088
+2014,PERNAMBUCO,motocicleta,gasolina,865042
+2014,PERNAMBUCO,motoneta,gasolina,85802
+2014,PERNAMBUCO,onibus,diesel,18280
+2014,PERNAMBUCO,utilitario,eletrico,1
+2014,PERNAMBUCO,utilitario,flex,9536
+2014,PERNAMBUCO,utilitario,gasolina,3002
+2014,PIAUI,automovel,alcool,18136
+2014,PIAUI,automovel,eletrico,26
+2014,PIAUI,automovel,flex,243952
+2014,PIAUI,automovel,gasolina,0
+2014,PIAUI,automovel,gnv,560
+2014,PIAUI,caminhao,diesel,23714
+2014,PIAUI,caminhaotrator,diesel,2129
+2014,PIAUI,caminhonete,diesel,23815
+2014,PIAUI,caminhonete,eletrico,5
+2014,PIAUI,caminhonete,gasolina,28158
+2014,PIAUI,camioneta,diesel,13201
+2014,PIAUI,camioneta,eletrico,3
+2014,PIAUI,camioneta,gasolina,15608
+2014,PIAUI,microonibus,diesel,2679
+2014,PIAUI,motocicleta,gasolina,433578
+2014,PIAUI,motoneta,gasolina,75439
+2014,PIAUI,onibus,diesel,5710
+2014,PIAUI,utilitario,eletrico,0
+2014,PIAUI,utilitario,flex,3716
+2014,PIAUI,utilitario,gasolina,2
+2014,RIO DE JANEIRO,automovel,alcool,309882
+2014,RIO DE JANEIRO,automovel,eletrico,120
+2014,RIO DE JANEIRO,automovel,flex,1549057
+2014,RIO DE JANEIRO,automovel,gasolina,1105992
+2014,RIO DE JANEIRO,automovel,gnv,981093
+2014,RIO DE JANEIRO,caminhao,diesel,134514
+2014,RIO DE JANEIRO,caminhaotrator,diesel,16255
+2014,RIO DE JANEIRO,caminhonete,diesel,38042
+2014,RIO DE JANEIRO,caminhonete,eletrico,7
+2014,RIO DE JANEIRO,caminhonete,gasolina,199895
+2014,RIO DE JANEIRO,camioneta,diesel,47380
+2014,RIO DE JANEIRO,camioneta,eletrico,9
+2014,RIO DE JANEIRO,camioneta,gasolina,248957
+2014,RIO DE JANEIRO,microonibus,diesel,36866
+2014,RIO DE JANEIRO,motocicleta,gasolina,780581
+2014,RIO DE JANEIRO,motoneta,gasolina,137952
+2014,RIO DE JANEIRO,onibus,diesel,44802
+2014,RIO DE JANEIRO,utilitario,eletrico,1
+2014,RIO DE JANEIRO,utilitario,flex,15141
+2014,RIO DE JANEIRO,utilitario,gasolina,23430
+2014,RIO GRANDE DO NORTE,automovel,alcool,29936
+2014,RIO GRANDE DO NORTE,automovel,eletrico,6
+2014,RIO GRANDE DO NORTE,automovel,flex,297622
+2014,RIO GRANDE DO NORTE,automovel,gasolina,72809
+2014,RIO GRANDE DO NORTE,automovel,gnv,44586
+2014,RIO GRANDE DO NORTE,caminhao,diesel,28193
+2014,RIO GRANDE DO NORTE,caminhaotrator,diesel,2745
+2014,RIO GRANDE DO NORTE,caminhonete,diesel,21694
+2014,RIO GRANDE DO NORTE,caminhonete,eletrico,1
+2014,RIO GRANDE DO NORTE,caminhonete,gasolina,36237
+2014,RIO GRANDE DO NORTE,camioneta,diesel,12222
+2014,RIO GRANDE DO NORTE,camioneta,eletrico,0
+2014,RIO GRANDE DO NORTE,camioneta,gasolina,20416
+2014,RIO GRANDE DO NORTE,microonibus,diesel,4426
+2014,RIO GRANDE DO NORTE,motocicleta,gasolina,354858
+2014,RIO GRANDE DO NORTE,motoneta,gasolina,48150
+2014,RIO GRANDE DO NORTE,onibus,diesel,6054
+2014,RIO GRANDE DO NORTE,utilitario,eletrico,0
+2014,RIO GRANDE DO NORTE,utilitario,flex,6603
+2014,RIO GRANDE DO NORTE,utilitario,gasolina,3268
+2014,RIO GRANDE DO SUL,automovel,alcool,197727
+2014,RIO GRANDE DO SUL,automovel,eletrico,178
+2014,RIO GRANDE DO SUL,automovel,flex,1530607
+2014,RIO GRANDE DO SUL,automovel,gasolina,1909560
+2014,RIO GRANDE DO SUL,automovel,gnv,60383
+2014,RIO GRANDE DO SUL,caminhao,diesel,207810
+2014,RIO GRANDE DO SUL,caminhaotrator,diesel,55669
+2014,RIO GRANDE DO SUL,caminhonete,diesel,113095
+2014,RIO GRANDE DO SUL,caminhonete,eletrico,18
+2014,RIO GRANDE DO SUL,caminhonete,gasolina,257780
+2014,RIO GRANDE DO SUL,camioneta,diesel,74609
+2014,RIO GRANDE DO SUL,camioneta,eletrico,12
+2014,RIO GRANDE DO SUL,camioneta,gasolina,170059
+2014,RIO GRANDE DO SUL,microonibus,diesel,18264
+2014,RIO GRANDE DO SUL,motocicleta,gasolina,967544
+2014,RIO GRANDE DO SUL,motoneta,gasolina,168492
+2014,RIO GRANDE DO SUL,onibus,diesel,37962
+2014,RIO GRANDE DO SUL,utilitario,eletrico,2
+2014,RIO GRANDE DO SUL,utilitario,flex,13702
+2014,RIO GRANDE DO SUL,utilitario,gasolina,19405
+2014,RONDONIA,automovel,alcool,10236
+2014,RONDONIA,automovel,eletrico,23
+2014,RONDONIA,automovel,flex,211287
+2014,RONDONIA,automovel,gasolina,0
+2014,RONDONIA,automovel,gnv,105
+2014,RONDONIA,caminhao,diesel,27270
+2014,RONDONIA,caminhaotrator,diesel,5440
+2014,RONDONIA,caminhonete,diesel,26996
+2014,RONDONIA,caminhonete,eletrico,6
+2014,RONDONIA,caminhonete,gasolina,33389
+2014,RONDONIA,camioneta,diesel,8059
+2014,RONDONIA,camioneta,eletrico,2
+2014,RONDONIA,camioneta,gasolina,9968
+2014,RONDONIA,microonibus,diesel,1031
+2014,RONDONIA,motocicleta,gasolina,331873
+2014,RONDONIA,motoneta,gasolina,95350
+2014,RONDONIA,onibus,diesel,4993
+2014,RONDONIA,utilitario,eletrico,0
+2014,RONDONIA,utilitario,flex,2264
+2014,RONDONIA,utilitario,gasolina,0
+2014,RORAIMA,automovel,alcool,1418
+2014,RORAIMA,automovel,eletrico,13
+2014,RORAIMA,automovel,flex,50019
+2014,RORAIMA,automovel,gasolina,4430
+2014,RORAIMA,automovel,gnv,27
+2014,RORAIMA,caminhao,diesel,3905
+2014,RORAIMA,caminhaotrator,diesel,539
+2014,RORAIMA,caminhonete,diesel,5390
+2014,RORAIMA,caminhonete,eletrico,4
+2014,RORAIMA,caminhonete,gasolina,9440
+2014,RORAIMA,camioneta,diesel,2982
+2014,RORAIMA,camioneta,eletrico,2
+2014,RORAIMA,camioneta,gasolina,5224
+2014,RORAIMA,microonibus,diesel,601
+2014,RORAIMA,motocicleta,gasolina,67579
+2014,RORAIMA,motoneta,gasolina,15995
+2014,RORAIMA,onibus,diesel,853
+2014,RORAIMA,utilitario,eletrico,0
+2014,RORAIMA,utilitario,flex,745
+2014,RORAIMA,utilitario,gasolina,88
+2014,SANTA CATARINA,automovel,alcool,133475
+2014,SANTA CATARINA,automovel,eletrico,119
+2014,SANTA CATARINA,automovel,flex,1329208
+2014,SANTA CATARINA,automovel,gasolina,927696
+2014,SANTA CATARINA,automovel,gnv,93435
+2014,SANTA CATARINA,caminhao,diesel,139402
+2014,SANTA CATARINA,caminhaotrator,diesel,49018
+2014,SANTA CATARINA,caminhonete,diesel,65534
+2014,SANTA CATARINA,caminhonete,eletrico,11
+2014,SANTA CATARINA,caminhonete,gasolina,159075
+2014,SANTA CATARINA,camioneta,diesel,59619
+2014,SANTA CATARINA,camioneta,eletrico,10
+2014,SANTA CATARINA,camioneta,gasolina,144718
+2014,SANTA CATARINA,microonibus,diesel,10885
+2014,SANTA CATARINA,motocicleta,gasolina,773939
+2014,SANTA CATARINA,motoneta,gasolina,238912
+2014,SANTA CATARINA,onibus,diesel,17421
+2014,SANTA CATARINA,utilitario,eletrico,1
+2014,SANTA CATARINA,utilitario,flex,15776
+2014,SANTA CATARINA,utilitario,gasolina,13703
+2014,SAO PAULO,automovel,alcool,1839232
+2014,SAO PAULO,automovel,eletrico,1559
+2014,SAO PAULO,automovel,flex,7625326
+2014,SAO PAULO,automovel,gasolina,6262302
+2014,SAO PAULO,automovel,gnv,290506
+2014,SAO PAULO,caminhao,diesel,637365
+2014,SAO PAULO,caminhaotrator,diesel,163476
+2014,SAO PAULO,caminhonete,diesel,253408
+2014,SAO PAULO,caminhonete,eletrico,129
+2014,SAO PAULO,caminhonete,gasolina,1074585
+2014,SAO PAULO,camioneta,diesel,234769
+2014,SAO PAULO,camioneta,eletrico,120
+2014,SAO PAULO,camioneta,gasolina,995550
+2014,SAO PAULO,microonibus,diesel,108027
+2014,SAO PAULO,motocicleta,gasolina,4035416
+2014,SAO PAULO,motoneta,gasolina,724650
+2014,SAO PAULO,onibus,diesel,149804
+2014,SAO PAULO,utilitario,eletrico,16
+2014,SAO PAULO,utilitario,flex,76354
+2014,SAO PAULO,utilitario,gasolina,84031
+2014,SERGIPE,automovel,alcool,18367
+2014,SERGIPE,automovel,eletrico,12
+2014,SERGIPE,automovel,flex,202663
+2014,SERGIPE,automovel,gasolina,31197
+2014,SERGIPE,automovel,gnv,19590
+2014,SERGIPE,caminhao,diesel,19449
+2014,SERGIPE,caminhaotrator,diesel,2044
+2014,SERGIPE,caminhonete,diesel,11617
+2014,SERGIPE,caminhonete,eletrico,1
+2014,SERGIPE,caminhonete,gasolina,21828
+2014,SERGIPE,camioneta,diesel,3829
+2014,SERGIPE,camioneta,eletrico,0
+2014,SERGIPE,camioneta,gasolina,7193
+2014,SERGIPE,microonibus,diesel,3198
+2014,SERGIPE,motocicleta,gasolina,199073
+2014,SERGIPE,motoneta,gasolina,34244
+2014,SERGIPE,onibus,diesel,5948
+2014,SERGIPE,utilitario,eletrico,0
+2014,SERGIPE,utilitario,flex,2301
+2014,SERGIPE,utilitario,gasolina,785
+2014,TOCANTINS,automovel,alcool,10720
+2014,TOCANTINS,automovel,eletrico,14
+2014,TOCANTINS,automovel,flex,154869
+2014,TOCANTINS,automovel,gasolina,0
+2014,TOCANTINS,automovel,gnv,215
+2014,TOCANTINS,caminhao,diesel,20901
+2014,TOCANTINS,caminhaotrator,diesel,4038
+2014,TOCANTINS,caminhonete,diesel,19867
+2014,TOCANTINS,caminhonete,eletrico,3
+2014,TOCANTINS,caminhonete,gasolina,21794
+2014,TOCANTINS,camioneta,diesel,8074
+2014,TOCANTINS,camioneta,eletrico,1
+2014,TOCANTINS,camioneta,gasolina,8856
+2014,TOCANTINS,microonibus,diesel,1429
+2014,TOCANTINS,motocicleta,gasolina,190966
+2014,TOCANTINS,motoneta,gasolina,77177
+2014,TOCANTINS,onibus,diesel,4834
+2014,TOCANTINS,utilitario,eletrico,0
+2014,TOCANTINS,utilitario,flex,2188
+2014,TOCANTINS,utilitario,gasolina,94
+2015,ACRE,automovel,alcool,3603
+2015,ACRE,automovel,eletrico,11
+2015,ACRE,automovel,flex,71874
+2015,ACRE,automovel,gasolina,0
+2015,ACRE,automovel,gnv,13
+2015,ACRE,caminhao,diesel,6733
+2015,ACRE,caminhaotrator,diesel,710
+2015,ACRE,caminhonete,diesel,10304
+2015,ACRE,caminhonete,eletrico,3
+2015,ACRE,caminhonete,gasolina,9457
+2015,ACRE,camioneta,diesel,3211
+2015,ACRE,camioneta,eletrico,1
+2015,ACRE,camioneta,gasolina,2948
+2015,ACRE,microonibus,diesel,326
+2015,ACRE,motocicleta,gasolina,97826
+2015,ACRE,motoneta,gasolina,19543
+2015,ACRE,onibus,diesel,1040
+2015,ACRE,utilitario,eletrico,0
+2015,ACRE,utilitario,flex,977
+2015,ACRE,utilitario,gasolina,25
+2015,ALAGOAS,automovel,alcool,23931
+2015,ALAGOAS,automovel,eletrico,2
+2015,ALAGOAS,automovel,flex,264388
+2015,ALAGOAS,automovel,gasolina,0
+2015,ALAGOAS,automovel,gnv,18419
+2015,ALAGOAS,caminhao,diesel,20036
+2015,ALAGOAS,caminhaotrator,diesel,2303
+2015,ALAGOAS,caminhonete,diesel,14243
+2015,ALAGOAS,caminhonete,eletrico,0
+2015,ALAGOAS,caminhonete,gasolina,26171
+2015,ALAGOAS,camioneta,diesel,8108
+2015,ALAGOAS,camioneta,eletrico,0
+2015,ALAGOAS,camioneta,gasolina,14899
+2015,ALAGOAS,microonibus,diesel,6022
+2015,ALAGOAS,motocicleta,gasolina,233926
+2015,ALAGOAS,motoneta,gasolina,34032
+2015,ALAGOAS,onibus,diesel,6697
+2015,ALAGOAS,utilitario,eletrico,0
+2015,ALAGOAS,utilitario,flex,3817
+2015,ALAGOAS,utilitario,gasolina,578
+2015,AMAPA,automovel,alcool,1431
+2015,AMAPA,automovel,eletrico,9
+2015,AMAPA,automovel,flex,70176
+2015,AMAPA,automovel,gasolina,0
+2015,AMAPA,automovel,gnv,6
+2015,AMAPA,caminhao,diesel,3890
+2015,AMAPA,caminhaotrator,diesel,311
+2015,AMAPA,caminhonete,diesel,4969
+2015,AMAPA,caminhonete,eletrico,2
+2015,AMAPA,caminhonete,gasolina,11453
+2015,AMAPA,camioneta,diesel,1854
+2015,AMAPA,camioneta,eletrico,1
+2015,AMAPA,camioneta,gasolina,4271
+2015,AMAPA,microonibus,diesel,419
+2015,AMAPA,motocicleta,gasolina,56467
+2015,AMAPA,motoneta,gasolina,9970
+2015,AMAPA,onibus,diesel,1143
+2015,AMAPA,utilitario,eletrico,0
+2015,AMAPA,utilitario,flex,756
+2015,AMAPA,utilitario,gasolina,0
+2015,AMAZONAS,automovel,alcool,16210
+2015,AMAZONAS,automovel,eletrico,47
+2015,AMAZONAS,automovel,flex,305085
+2015,AMAZONAS,automovel,gasolina,31523
+2015,AMAZONAS,automovel,gnv,1767
+2015,AMAZONAS,caminhao,diesel,19588
+2015,AMAZONAS,caminhaotrator,diesel,3190
+2015,AMAZONAS,caminhonete,diesel,18352
+2015,AMAZONAS,caminhonete,eletrico,9
+2015,AMAZONAS,caminhonete,gasolina,52429
+2015,AMAZONAS,camioneta,diesel,8833
+2015,AMAZONAS,camioneta,eletrico,4
+2015,AMAZONAS,camioneta,gasolina,25235
+2015,AMAZONAS,microonibus,diesel,3499
+2015,AMAZONAS,motocicleta,gasolina,214768
+2015,AMAZONAS,motoneta,gasolina,48444
+2015,AMAZONAS,onibus,diesel,8827
+2015,AMAZONAS,utilitario,eletrico,1
+2015,AMAZONAS,utilitario,flex,4122
+2015,AMAZONAS,utilitario,gasolina,669
+2015,BAHIA,automovel,alcool,97542
+2015,BAHIA,automovel,eletrico,128
+2015,BAHIA,automovel,flex,1282885
+2015,BAHIA,automovel,gasolina,150249
+2015,BAHIA,automovel,gnv,48098
+2015,BAHIA,caminhao,diesel,111720
+2015,BAHIA,caminhaotrator,diesel,19838
+2015,BAHIA,caminhonete,diesel,82182
+2015,BAHIA,caminhonete,eletrico,23
+2015,BAHIA,caminhonete,gasolina,197118
+2015,BAHIA,camioneta,diesel,31161
+2015,BAHIA,camioneta,eletrico,9
+2015,BAHIA,camioneta,gasolina,74742
+2015,BAHIA,microonibus,diesel,26247
+2015,BAHIA,motocicleta,gasolina,1126739
+2015,BAHIA,motoneta,gasolina,162376
+2015,BAHIA,onibus,diesel,36942
+2015,BAHIA,utilitario,eletrico,2
+2015,BAHIA,utilitario,flex,17133
+2015,BAHIA,utilitario,gasolina,3951
+2015,CEARA,automovel,alcool,62673
+2015,CEARA,automovel,eletrico,28
+2015,CEARA,automovel,flex,883735
+2015,CEARA,automovel,gasolina,0
+2015,CEARA,automovel,gnv,37212
+2015,CEARA,caminhao,diesel,66267
+2015,CEARA,caminhaotrator,diesel,7682
+2015,CEARA,caminhonete,diesel,67138
+2015,CEARA,caminhonete,eletrico,4
+2015,CEARA,caminhonete,gasolina,76511
+2015,CEARA,camioneta,diesel,35147
+2015,CEARA,camioneta,eletrico,2
+2015,CEARA,camioneta,gasolina,40053
+2015,CEARA,microonibus,diesel,11157
+2015,CEARA,motocicleta,gasolina,1182847
+2015,CEARA,motoneta,gasolina,137706
+2015,CEARA,onibus,diesel,15229
+2015,CEARA,utilitario,eletrico,1
+2015,CEARA,utilitario,flex,21016
+2015,CEARA,utilitario,gasolina,1956
+2015,DISTRITO FEDERAL,automovel,alcool,58254
+2015,DISTRITO FEDERAL,automovel,eletrico,108
+2015,DISTRITO FEDERAL,automovel,flex,766349
+2015,DISTRITO FEDERAL,automovel,gasolina,338013
+2015,DISTRITO FEDERAL,automovel,gnv,1687
+2015,DISTRITO FEDERAL,caminhao,diesel,22838
+2015,DISTRITO FEDERAL,caminhaotrator,diesel,3229
+2015,DISTRITO FEDERAL,caminhonete,diesel,27729
+2015,DISTRITO FEDERAL,caminhonete,eletrico,9
+2015,DISTRITO FEDERAL,caminhonete,gasolina,70645
+2015,DISTRITO FEDERAL,camioneta,diesel,23140
+2015,DISTRITO FEDERAL,camioneta,eletrico,8
+2015,DISTRITO FEDERAL,camioneta,gasolina,58953
+2015,DISTRITO FEDERAL,microonibus,diesel,5291
+2015,DISTRITO FEDERAL,motocicleta,gasolina,167563
+2015,DISTRITO FEDERAL,motoneta,gasolina,16695
+2015,DISTRITO FEDERAL,onibus,diesel,11852
+2015,DISTRITO FEDERAL,utilitario,eletrico,2
+2015,DISTRITO FEDERAL,utilitario,flex,12631
+2015,DISTRITO FEDERAL,utilitario,gasolina,6559
+2015,ESPIRITO SANTO,automovel,alcool,53652
+2015,ESPIRITO SANTO,automovel,eletrico,53
+2015,ESPIRITO SANTO,automovel,flex,600894
+2015,ESPIRITO SANTO,automovel,gasolina,170942
+2015,ESPIRITO SANTO,automovel,gnv,28234
+2015,ESPIRITO SANTO,caminhao,diesel,68508
+2015,ESPIRITO SANTO,caminhaotrator,diesel,17895
+2015,ESPIRITO SANTO,caminhonete,diesel,37925
+2015,ESPIRITO SANTO,caminhonete,eletrico,8
+2015,ESPIRITO SANTO,caminhonete,gasolina,89193
+2015,ESPIRITO SANTO,camioneta,diesel,22376
+2015,ESPIRITO SANTO,camioneta,eletrico,5
+2015,ESPIRITO SANTO,camioneta,gasolina,52624
+2015,ESPIRITO SANTO,microonibus,diesel,7508
+2015,ESPIRITO SANTO,motocicleta,gasolina,402257
+2015,ESPIRITO SANTO,motoneta,gasolina,94088
+2015,ESPIRITO SANTO,onibus,diesel,14646
+2015,ESPIRITO SANTO,utilitario,eletrico,1
+2015,ESPIRITO SANTO,utilitario,flex,9384
+2015,ESPIRITO SANTO,utilitario,gasolina,3948
+2015,GOIAS,automovel,alcool,158979
+2015,GOIAS,automovel,eletrico,84
+2015,GOIAS,automovel,flex,1105757
+2015,GOIAS,automovel,gasolina,376440
+2015,GOIAS,automovel,gnv,4038
+2015,GOIAS,caminhao,diesel,104414
+2015,GOIAS,caminhaotrator,diesel,28155
+2015,GOIAS,caminhonete,diesel,107254
+2015,GOIAS,caminhonete,eletrico,16
+2015,GOIAS,caminhonete,gasolina,214816
+2015,GOIAS,camioneta,diesel,24808
+2015,GOIAS,camioneta,eletrico,4
+2015,GOIAS,camioneta,gasolina,49689
+2015,GOIAS,microonibus,diesel,8854
+2015,GOIAS,motocicleta,gasolina,796530
+2015,GOIAS,motoneta,gasolina,245284
+2015,GOIAS,onibus,diesel,20758
+2015,GOIAS,utilitario,eletrico,1
+2015,GOIAS,utilitario,flex,11916
+2015,GOIAS,utilitario,gasolina,5813
+2015,MARANHAO,automovel,alcool,13673
+2015,MARANHAO,automovel,eletrico,63
+2015,MARANHAO,automovel,flex,360236
+2015,MARANHAO,automovel,gasolina,0
+2015,MARANHAO,automovel,gnv,197
+2015,MARANHAO,caminhao,diesel,36566
+2015,MARANHAO,caminhaotrator,diesel,3706
+2015,MARANHAO,caminhonete,diesel,40561
+2015,MARANHAO,caminhonete,eletrico,15
+2015,MARANHAO,caminhonete,gasolina,50626
+2015,MARANHAO,camioneta,diesel,11287
+2015,MARANHAO,camioneta,eletrico,4
+2015,MARANHAO,camioneta,gasolina,14088
+2015,MARANHAO,microonibus,diesel,4389
+2015,MARANHAO,motocicleta,gasolina,716826
+2015,MARANHAO,motoneta,gasolina,118720
+2015,MARANHAO,onibus,diesel,7854
+2015,MARANHAO,utilitario,eletrico,1
+2015,MARANHAO,utilitario,flex,7040
+2015,MARANHAO,utilitario,gasolina,0
+2015,MATO GROSSO,automovel,alcool,47631
+2015,MATO GROSSO,automovel,eletrico,160
+2015,MATO GROSSO,automovel,flex,557059
+2015,MATO GROSSO,automovel,gasolina,0
+2015,MATO GROSSO,automovel,gnv,1493
+2015,MATO GROSSO,caminhao,diesel,63754
+2015,MATO GROSSO,caminhaotrator,diesel,29389
+2015,MATO GROSSO,caminhonete,diesel,78506
+2015,MATO GROSSO,caminhonete,eletrico,48
+2015,MATO GROSSO,caminhonete,gasolina,102580
+2015,MATO GROSSO,camioneta,diesel,14772
+2015,MATO GROSSO,camioneta,eletrico,9
+2015,MATO GROSSO,camioneta,gasolina,19302
+2015,MATO GROSSO,microonibus,diesel,3151
+2015,MATO GROSSO,motocicleta,gasolina,544083
+2015,MATO GROSSO,motoneta,gasolina,186332
+2015,MATO GROSSO,onibus,diesel,10675
+2015,MATO GROSSO,utilitario,eletrico,3
+2015,MATO GROSSO,utilitario,flex,9552
+2015,MATO GROSSO,utilitario,gasolina,775
+2015,MATO GROSSO DO SUL,automovel,alcool,53186
+2015,MATO GROSSO DO SUL,automovel,eletrico,37
+2015,MATO GROSSO DO SUL,automovel,flex,421580
+2015,MATO GROSSO DO SUL,automovel,gasolina,159070
+2015,MATO GROSSO DO SUL,automovel,gnv,5656
+2015,MATO GROSSO DO SUL,caminhao,diesel,47279
+2015,MATO GROSSO DO SUL,caminhaotrator,diesel,15038
+2015,MATO GROSSO DO SUL,caminhonete,diesel,57925
+2015,MATO GROSSO DO SUL,caminhonete,eletrico,8
+2015,MATO GROSSO DO SUL,caminhonete,gasolina,81606
+2015,MATO GROSSO DO SUL,camioneta,diesel,11207
+2015,MATO GROSSO DO SUL,camioneta,eletrico,2
+2015,MATO GROSSO DO SUL,camioneta,gasolina,15789
+2015,MATO GROSSO DO SUL,microonibus,diesel,3382
+2015,MATO GROSSO DO SUL,motocicleta,gasolina,334815
+2015,MATO GROSSO DO SUL,motoneta,gasolina,98354
+2015,MATO GROSSO DO SUL,onibus,diesel,8915
+2015,MATO GROSSO DO SUL,utilitario,eletrico,1
+2015,MATO GROSSO DO SUL,utilitario,flex,5719
+2015,MATO GROSSO DO SUL,utilitario,gasolina,2956
+2015,MINAS GERAIS,automovel,alcool,433168
+2015,MINAS GERAIS,automovel,eletrico,193
+2015,MINAS GERAIS,automovel,flex,3200065
+2015,MINAS GERAIS,automovel,gasolina,1649828
+2015,MINAS GERAIS,automovel,gnv,32901
+2015,MINAS GERAIS,caminhao,diesel,313569
+2015,MINAS GERAIS,caminhaotrator,diesel,64028
+2015,MINAS GERAIS,caminhonete,diesel,185214
+2015,MINAS GERAIS,caminhonete,eletrico,28
+2015,MINAS GERAIS,caminhonete,gasolina,598088
+2015,MINAS GERAIS,camioneta,diesel,58058
+2015,MINAS GERAIS,camioneta,eletrico,9
+2015,MINAS GERAIS,camioneta,gasolina,187477
+2015,MINAS GERAIS,microonibus,diesel,42516
+2015,MINAS GERAIS,motocicleta,gasolina,2259916
+2015,MINAS GERAIS,motoneta,gasolina,253757
+2015,MINAS GERAIS,onibus,diesel,71078
+2015,MINAS GERAIS,utilitario,eletrico,2
+2015,MINAS GERAIS,utilitario,flex,27749
+2015,MINAS GERAIS,utilitario,gasolina,18347
+2015,PARA,automovel,alcool,23733
+2015,PARA,automovel,eletrico,54
+2015,PARA,automovel,flex,484925
+2015,PARA,automovel,gasolina,0
+2015,PARA,automovel,gnv,266
+2015,PARA,caminhao,diesel,54847
+2015,PARA,caminhaotrator,diesel,7281
+2015,PARA,caminhonete,diesel,54199
+2015,PARA,caminhonete,eletrico,12
+2015,PARA,caminhonete,gasolina,61510
+2015,PARA,camioneta,diesel,17014
+2015,PARA,camioneta,eletrico,4
+2015,PARA,camioneta,gasolina,19308
+2015,PARA,microonibus,diesel,6260
+2015,PARA,motocicleta,gasolina,704904
+2015,PARA,motoneta,gasolina,156785
+2015,PARA,onibus,diesel,16624
+2015,PARA,utilitario,eletrico,1
+2015,PARA,utilitario,flex,10677
+2015,PARA,utilitario,gasolina,0
+2015,PARAIBA,automovel,alcool,29213
+2015,PARAIBA,automovel,eletrico,4
+2015,PARAIBA,automovel,flex,389464
+2015,PARAIBA,automovel,gasolina,12904
+2015,PARAIBA,automovel,gnv,21759
+2015,PARAIBA,caminhao,diesel,27510
+2015,PARAIBA,caminhaotrator,diesel,2652
+2015,PARAIBA,caminhonete,diesel,22728
+2015,PARAIBA,caminhonete,eletrico,1
+2015,PARAIBA,caminhonete,gasolina,37314
+2015,PARAIBA,camioneta,diesel,12550
+2015,PARAIBA,camioneta,eletrico,0
+2015,PARAIBA,camioneta,gasolina,20604
+2015,PARAIBA,microonibus,diesel,4316
+2015,PARAIBA,motocicleta,gasolina,412879
+2015,PARAIBA,motoneta,gasolina,58154
+2015,PARAIBA,onibus,diesel,6933
+2015,PARAIBA,utilitario,eletrico,0
+2015,PARAIBA,utilitario,flex,5844
+2015,PARAIBA,utilitario,gasolina,958
+2015,PARANA,automovel,alcool,419228
+2015,PARANA,automovel,eletrico,338
+2015,PARANA,automovel,flex,2089453
+2015,PARANA,automovel,gasolina,1481900
+2015,PARANA,automovel,gnv,35526
+2015,PARANA,caminhao,diesel,253281
+2015,PARANA,caminhaotrator,diesel,87838
+2015,PARANA,caminhonete,diesel,155566
+2015,PARANA,caminhonete,eletrico,45
+2015,PARANA,caminhonete,gasolina,377566
+2015,PARANA,camioneta,diesel,72075
+2015,PARANA,camioneta,eletrico,21
+2015,PARANA,camioneta,gasolina,174928
+2015,PARANA,microonibus,diesel,21062
+2015,PARANA,motocicleta,gasolina,1053577
+2015,PARANA,motoneta,gasolina,264265
+2015,PARANA,onibus,diesel,38646
+2015,PARANA,utilitario,eletrico,3
+2015,PARANA,utilitario,flex,21464
+2015,PARANA,utilitario,gasolina,19895
+2015,PERNAMBUCO,automovel,alcool,93907
+2015,PERNAMBUCO,automovel,eletrico,90
+2015,PERNAMBUCO,automovel,flex,977979
+2015,PERNAMBUCO,automovel,gasolina,72980
+2015,PERNAMBUCO,automovel,gnv,44996
+2015,PERNAMBUCO,caminhao,diesel,88889
+2015,PERNAMBUCO,caminhaotrator,diesel,11477
+2015,PERNAMBUCO,caminhonete,diesel,45870
+2015,PERNAMBUCO,caminhonete,eletrico,11
+2015,PERNAMBUCO,caminhonete,gasolina,96268
+2015,PERNAMBUCO,camioneta,diesel,30137
+2015,PERNAMBUCO,camioneta,eletrico,7
+2015,PERNAMBUCO,camioneta,gasolina,63251
+2015,PERNAMBUCO,microonibus,diesel,17341
+2015,PERNAMBUCO,motocicleta,gasolina,923487
+2015,PERNAMBUCO,motoneta,gasolina,92394
+2015,PERNAMBUCO,onibus,diesel,18988
+2015,PERNAMBUCO,utilitario,eletrico,1
+2015,PERNAMBUCO,utilitario,flex,11960
+2015,PERNAMBUCO,utilitario,gasolina,2591
+2015,PIAUI,automovel,alcool,18238
+2015,PIAUI,automovel,eletrico,29
+2015,PIAUI,automovel,flex,269964
+2015,PIAUI,automovel,gasolina,0
+2015,PIAUI,automovel,gnv,608
+2015,PIAUI,caminhao,diesel,25344
+2015,PIAUI,caminhaotrator,diesel,2348
+2015,PIAUI,caminhonete,diesel,26740
+2015,PIAUI,caminhonete,eletrico,6
+2015,PIAUI,caminhonete,gasolina,33003
+2015,PIAUI,camioneta,diesel,13281
+2015,PIAUI,camioneta,eletrico,3
+2015,PIAUI,camioneta,gasolina,16391
+2015,PIAUI,microonibus,diesel,2981
+2015,PIAUI,motocicleta,gasolina,472165
+2015,PIAUI,motoneta,gasolina,83391
+2015,PIAUI,onibus,diesel,6173
+2015,PIAUI,utilitario,eletrico,0
+2015,PIAUI,utilitario,flex,4533
+2015,PIAUI,utilitario,gasolina,0
+2015,RIO DE JANEIRO,automovel,alcool,309241
+2015,RIO DE JANEIRO,automovel,eletrico,185
+2015,RIO DE JANEIRO,automovel,flex,1751108
+2015,RIO DE JANEIRO,automovel,gasolina,1034016
+2015,RIO DE JANEIRO,automovel,gnv,1036109
+2015,RIO DE JANEIRO,caminhao,diesel,139468
+2015,RIO DE JANEIRO,caminhaotrator,diesel,16970
+2015,RIO DE JANEIRO,caminhonete,diesel,42106
+2015,RIO DE JANEIRO,caminhonete,eletrico,12
+2015,RIO DE JANEIRO,caminhonete,gasolina,218907
+2015,RIO DE JANEIRO,camioneta,diesel,50268
+2015,RIO DE JANEIRO,camioneta,eletrico,14
+2015,RIO DE JANEIRO,camioneta,gasolina,261340
+2015,RIO DE JANEIRO,microonibus,diesel,38090
+2015,RIO DE JANEIRO,motocicleta,gasolina,837669
+2015,RIO DE JANEIRO,motoneta,gasolina,148882
+2015,RIO DE JANEIRO,onibus,diesel,46601
+2015,RIO DE JANEIRO,utilitario,eletrico,2
+2015,RIO DE JANEIRO,utilitario,flex,18888
+2015,RIO DE JANEIRO,utilitario,gasolina,25664
+2015,RIO GRANDE DO NORTE,automovel,alcool,29983
+2015,RIO GRANDE DO NORTE,automovel,eletrico,7
+2015,RIO GRANDE DO NORTE,automovel,flex,345738
+2015,RIO GRANDE DO NORTE,automovel,gasolina,54327
+2015,RIO GRANDE DO NORTE,automovel,gnv,45540
+2015,RIO GRANDE DO NORTE,caminhao,diesel,29703
+2015,RIO GRANDE DO NORTE,caminhaotrator,diesel,2945
+2015,RIO GRANDE DO NORTE,caminhonete,diesel,23800
+2015,RIO GRANDE DO NORTE,caminhonete,eletrico,1
+2015,RIO GRANDE DO NORTE,caminhonete,gasolina,40584
+2015,RIO GRANDE DO NORTE,camioneta,diesel,12643
+2015,RIO GRANDE DO NORTE,camioneta,eletrico,1
+2015,RIO GRANDE DO NORTE,camioneta,gasolina,21558
+2015,RIO GRANDE DO NORTE,microonibus,diesel,4636
+2015,RIO GRANDE DO NORTE,motocicleta,gasolina,379880
+2015,RIO GRANDE DO NORTE,motoneta,gasolina,51623
+2015,RIO GRANDE DO NORTE,onibus,diesel,6411
+2015,RIO GRANDE DO NORTE,utilitario,eletrico,0
+2015,RIO GRANDE DO NORTE,utilitario,flex,8176
+2015,RIO GRANDE DO NORTE,utilitario,gasolina,3071
+2015,RIO GRANDE DO SUL,automovel,alcool,197520
+2015,RIO GRANDE DO SUL,automovel,eletrico,240
+2015,RIO GRANDE DO SUL,automovel,flex,1736687
+2015,RIO GRANDE DO SUL,automovel,gasolina,1879727
+2015,RIO GRANDE DO SUL,automovel,gnv,61040
+2015,RIO GRANDE DO SUL,caminhao,diesel,214377
+2015,RIO GRANDE DO SUL,caminhaotrator,diesel,57615
+2015,RIO GRANDE DO SUL,caminhonete,diesel,122244
+2015,RIO GRANDE DO SUL,caminhonete,eletrico,25
+2015,RIO GRANDE DO SUL,caminhonete,gasolina,286143
+2015,RIO GRANDE DO SUL,camioneta,diesel,77662
+2015,RIO GRANDE DO SUL,camioneta,eletrico,16
+2015,RIO GRANDE DO SUL,camioneta,gasolina,181786
+2015,RIO GRANDE DO SUL,microonibus,diesel,19065
+2015,RIO GRANDE DO SUL,motocicleta,gasolina,997417
+2015,RIO GRANDE DO SUL,motoneta,gasolina,175596
+2015,RIO GRANDE DO SUL,onibus,diesel,39341
+2015,RIO GRANDE DO SUL,utilitario,eletrico,2
+2015,RIO GRANDE DO SUL,utilitario,flex,17326
+2015,RIO GRANDE DO SUL,utilitario,gasolina,21332
+2015,RONDONIA,automovel,alcool,10283
+2015,RONDONIA,automovel,eletrico,23
+2015,RONDONIA,automovel,flex,228003
+2015,RONDONIA,automovel,gasolina,0
+2015,RONDONIA,automovel,gnv,87
+2015,RONDONIA,caminhao,diesel,28698
+2015,RONDONIA,caminhaotrator,diesel,5775
+2015,RONDONIA,caminhonete,diesel,29955
+2015,RONDONIA,caminhonete,eletrico,7
+2015,RONDONIA,caminhonete,gasolina,37817
+2015,RONDONIA,camioneta,diesel,8122
+2015,RONDONIA,camioneta,eletrico,2
+2015,RONDONIA,camioneta,gasolina,10255
+2015,RONDONIA,microonibus,diesel,1104
+2015,RONDONIA,motocicleta,gasolina,351588
+2015,RONDONIA,motoneta,gasolina,103119
+2015,RONDONIA,onibus,diesel,5271
+2015,RONDONIA,utilitario,eletrico,0
+2015,RONDONIA,utilitario,flex,2528
+2015,RONDONIA,utilitario,gasolina,0
+2015,RORAIMA,automovel,alcool,1435
+2015,RORAIMA,automovel,eletrico,13
+2015,RORAIMA,automovel,flex,59336
+2015,RORAIMA,automovel,gasolina,0
+2015,RORAIMA,automovel,gnv,34
+2015,RORAIMA,caminhao,diesel,4192
+2015,RORAIMA,caminhaotrator,diesel,589
+2015,RORAIMA,caminhonete,diesel,6075
+2015,RORAIMA,caminhonete,eletrico,4
+2015,RORAIMA,caminhonete,gasolina,10751
+2015,RORAIMA,camioneta,diesel,3038
+2015,RORAIMA,camioneta,eletrico,2
+2015,RORAIMA,camioneta,gasolina,5377
+2015,RORAIMA,microonibus,diesel,631
+2015,RORAIMA,motocicleta,gasolina,71817
+2015,RORAIMA,motoneta,gasolina,17332
+2015,RORAIMA,onibus,diesel,933
+2015,RORAIMA,utilitario,eletrico,0
+2015,RORAIMA,utilitario,flex,917
+2015,RORAIMA,utilitario,gasolina,20
+2015,SANTA CATARINA,automovel,alcool,133011
+2015,SANTA CATARINA,automovel,eletrico,197
+2015,SANTA CATARINA,automovel,flex,1503321
+2015,SANTA CATARINA,automovel,gasolina,874360
+2015,SANTA CATARINA,automovel,gnv,91831
+2015,SANTA CATARINA,caminhao,diesel,143437
+2015,SANTA CATARINA,caminhaotrator,diesel,50813
+2015,SANTA CATARINA,caminhonete,diesel,72315
+2015,SANTA CATARINA,caminhonete,eletrico,19
+2015,SANTA CATARINA,caminhonete,gasolina,179227
+2015,SANTA CATARINA,camioneta,diesel,61964
+2015,SANTA CATARINA,camioneta,eletrico,16
+2015,SANTA CATARINA,camioneta,gasolina,153573
+2015,SANTA CATARINA,microonibus,diesel,11460
+2015,SANTA CATARINA,motocicleta,gasolina,801039
+2015,SANTA CATARINA,motoneta,gasolina,250842
+2015,SANTA CATARINA,onibus,diesel,18151
+2015,SANTA CATARINA,utilitario,eletrico,3
+2015,SANTA CATARINA,utilitario,flex,20201
+2015,SANTA CATARINA,utilitario,gasolina,14771
+2015,SAO PAULO,automovel,alcool,1837534
+2015,SAO PAULO,automovel,eletrico,1751
+2015,SAO PAULO,automovel,flex,8445410
+2015,SAO PAULO,automovel,gasolina,6070205
+2015,SAO PAULO,automovel,gnv,282901
+2015,SAO PAULO,caminhao,diesel,649501
+2015,SAO PAULO,caminhaotrator,diesel,169591
+2015,SAO PAULO,caminhonete,diesel,277290
+2015,SAO PAULO,caminhonete,eletrico,151
+2015,SAO PAULO,caminhonete,gasolina,1160854
+2015,SAO PAULO,camioneta,diesel,246546
+2015,SAO PAULO,camioneta,eletrico,135
+2015,SAO PAULO,camioneta,gasolina,1032150
+2015,SAO PAULO,microonibus,diesel,112603
+2015,SAO PAULO,motocicleta,gasolina,4180964
+2015,SAO PAULO,motoneta,gasolina,776659
+2015,SAO PAULO,onibus,diesel,154379
+2015,SAO PAULO,utilitario,eletrico,20
+2015,SAO PAULO,utilitario,flex,94189
+2015,SAO PAULO,utilitario,gasolina,91348
+2015,SERGIPE,automovel,alcool,18411
+2015,SERGIPE,automovel,eletrico,18
+2015,SERGIPE,automovel,flex,234674
+2015,SERGIPE,automovel,gasolina,17212
+2015,SERGIPE,automovel,gnv,20057
+2015,SERGIPE,caminhao,diesel,20396
+2015,SERGIPE,caminhaotrator,diesel,2262
+2015,SERGIPE,caminhonete,diesel,12636
+2015,SERGIPE,caminhonete,eletrico,2
+2015,SERGIPE,caminhonete,gasolina,24259
+2015,SERGIPE,camioneta,diesel,4140
+2015,SERGIPE,camioneta,eletrico,1
+2015,SERGIPE,camioneta,gasolina,7950
+2015,SERGIPE,microonibus,diesel,3363
+2015,SERGIPE,motocicleta,gasolina,213906
+2015,SERGIPE,motoneta,gasolina,36911
+2015,SERGIPE,onibus,diesel,6324
+2015,SERGIPE,utilitario,eletrico,0
+2015,SERGIPE,utilitario,flex,2810
+2015,SERGIPE,utilitario,gasolina,667
+2015,TOCANTINS,automovel,alcool,10819
+2015,TOCANTINS,automovel,eletrico,15
+2015,TOCANTINS,automovel,flex,169408
+2015,TOCANTINS,automovel,gasolina,0
+2015,TOCANTINS,automovel,gnv,231
+2015,TOCANTINS,caminhao,diesel,21845
+2015,TOCANTINS,caminhaotrator,diesel,4526
+2015,TOCANTINS,caminhonete,diesel,22110
+2015,TOCANTINS,caminhonete,eletrico,4
+2015,TOCANTINS,caminhonete,gasolina,24842
+2015,TOCANTINS,camioneta,diesel,8163
+2015,TOCANTINS,camioneta,eletrico,1
+2015,TOCANTINS,camioneta,gasolina,9171
+2015,TOCANTINS,microonibus,diesel,1521
+2015,TOCANTINS,motocicleta,gasolina,203605
+2015,TOCANTINS,motoneta,gasolina,83101
+2015,TOCANTINS,onibus,diesel,5137
+2015,TOCANTINS,utilitario,eletrico,0
+2015,TOCANTINS,utilitario,flex,2611
+2015,TOCANTINS,utilitario,gasolina,0
+2016,ACRE,automovel,alcool,3605
+2016,ACRE,automovel,eletrico,12
+2016,ACRE,automovel,flex,75722
+2016,ACRE,automovel,gasolina,0
+2016,ACRE,automovel,gnv,14
+2016,ACRE,caminhao,diesel,6902
+2016,ACRE,caminhaotrator,diesel,788
+2016,ACRE,caminhonete,diesel,10998
+2016,ACRE,caminhonete,eletrico,3
+2016,ACRE,caminhonete,gasolina,10248
+2016,ACRE,camioneta,diesel,3219
+2016,ACRE,camioneta,eletrico,1
+2016,ACRE,camioneta,gasolina,3000
+2016,ACRE,microonibus,diesel,341
+2016,ACRE,motocicleta,gasolina,104104
+2016,ACRE,motoneta,gasolina,21040
+2016,ACRE,onibus,diesel,1044
+2016,ACRE,utilitario,eletrico,0
+2016,ACRE,utilitario,flex,1095
+2016,ACRE,utilitario,gasolina,0
+2016,ALAGOAS,automovel,alcool,24005
+2016,ALAGOAS,automovel,eletrico,2
+2016,ALAGOAS,automovel,flex,278646
+2016,ALAGOAS,automovel,gasolina,0
+2016,ALAGOAS,automovel,gnv,18502
+2016,ALAGOAS,caminhao,diesel,20408
+2016,ALAGOAS,caminhaotrator,diesel,2358
+2016,ALAGOAS,caminhonete,diesel,14853
+2016,ALAGOAS,caminhonete,eletrico,0
+2016,ALAGOAS,caminhonete,gasolina,27835
+2016,ALAGOAS,camioneta,diesel,8353
+2016,ALAGOAS,camioneta,eletrico,0
+2016,ALAGOAS,camioneta,gasolina,15653
+2016,ALAGOAS,microonibus,diesel,6165
+2016,ALAGOAS,motocicleta,gasolina,252152
+2016,ALAGOAS,motoneta,gasolina,36165
+2016,ALAGOAS,onibus,diesel,7086
+2016,ALAGOAS,utilitario,eletrico,0
+2016,ALAGOAS,utilitario,flex,4455
+2016,ALAGOAS,utilitario,gasolina,434
+2016,AMAPA,automovel,alcool,1433
+2016,AMAPA,automovel,eletrico,9
+2016,AMAPA,automovel,flex,72661
+2016,AMAPA,automovel,gasolina,0
+2016,AMAPA,automovel,gnv,6
+2016,AMAPA,caminhao,diesel,3969
+2016,AMAPA,caminhaotrator,diesel,325
+2016,AMAPA,caminhonete,diesel,5097
+2016,AMAPA,caminhonete,eletrico,2
+2016,AMAPA,caminhonete,gasolina,12254
+2016,AMAPA,camioneta,diesel,1833
+2016,AMAPA,camioneta,eletrico,1
+2016,AMAPA,camioneta,gasolina,4408
+2016,AMAPA,microonibus,diesel,427
+2016,AMAPA,motocicleta,gasolina,59349
+2016,AMAPA,motoneta,gasolina,10652
+2016,AMAPA,onibus,diesel,1214
+2016,AMAPA,utilitario,eletrico,0
+2016,AMAPA,utilitario,flex,815
+2016,AMAPA,utilitario,gasolina,0
+2016,AMAZONAS,automovel,alcool,16201
+2016,AMAZONAS,automovel,eletrico,53
+2016,AMAZONAS,automovel,flex,329961
+2016,AMAZONAS,automovel,gasolina,17283
+2016,AMAZONAS,automovel,gnv,2114
+2016,AMAZONAS,caminhao,diesel,19696
+2016,AMAZONAS,caminhaotrator,diesel,3229
+2016,AMAZONAS,caminhonete,diesel,18683
+2016,AMAZONAS,caminhonete,eletrico,11
+2016,AMAZONAS,caminhonete,gasolina,54866
+2016,AMAZONAS,camioneta,diesel,8773
+2016,AMAZONAS,camioneta,eletrico,5
+2016,AMAZONAS,camioneta,gasolina,25761
+2016,AMAZONAS,microonibus,diesel,3527
+2016,AMAZONAS,motocicleta,gasolina,228733
+2016,AMAZONAS,motoneta,gasolina,51250
+2016,AMAZONAS,onibus,diesel,8778
+2016,AMAZONAS,utilitario,eletrico,1
+2016,AMAZONAS,utilitario,flex,4344
+2016,AMAZONAS,utilitario,gasolina,469
+2016,BAHIA,automovel,alcool,98291
+2016,BAHIA,automovel,eletrico,135
+2016,BAHIA,automovel,flex,1407533
+2016,BAHIA,automovel,gasolina,103069
+2016,BAHIA,automovel,gnv,48735
+2016,BAHIA,caminhao,diesel,114106
+2016,BAHIA,caminhaotrator,diesel,20363
+2016,BAHIA,caminhonete,diesel,86871
+2016,BAHIA,caminhonete,eletrico,24
+2016,BAHIA,caminhonete,gasolina,211182
+2016,BAHIA,camioneta,diesel,32907
+2016,BAHIA,camioneta,eletrico,9
+2016,BAHIA,camioneta,gasolina,79997
+2016,BAHIA,microonibus,diesel,27380
+2016,BAHIA,motocicleta,gasolina,1188451
+2016,BAHIA,motoneta,gasolina,172964
+2016,BAHIA,onibus,diesel,38166
+2016,BAHIA,utilitario,eletrico,2
+2016,BAHIA,utilitario,flex,20021
+2016,BAHIA,utilitario,gasolina,3557
+2016,CEARA,automovel,alcool,62709
+2016,CEARA,automovel,eletrico,35
+2016,CEARA,automovel,flex,933688
+2016,CEARA,automovel,gasolina,0
+2016,CEARA,automovel,gnv,38592
+2016,CEARA,caminhao,diesel,69146
+2016,CEARA,caminhaotrator,diesel,8073
+2016,CEARA,caminhonete,diesel,71644
+2016,CEARA,caminhonete,eletrico,5
+2016,CEARA,caminhonete,gasolina,82355
+2016,CEARA,camioneta,diesel,35821
+2016,CEARA,camioneta,eletrico,3
+2016,CEARA,camioneta,gasolina,41175
+2016,CEARA,microonibus,diesel,11670
+2016,CEARA,motocicleta,gasolina,1257089
+2016,CEARA,motoneta,gasolina,147385
+2016,CEARA,onibus,diesel,16120
+2016,CEARA,utilitario,eletrico,1
+2016,CEARA,utilitario,flex,24812
+2016,CEARA,utilitario,gasolina,653
+2016,DISTRITO FEDERAL,automovel,alcool,58035
+2016,DISTRITO FEDERAL,automovel,eletrico,153
+2016,DISTRITO FEDERAL,automovel,flex,813345
+2016,DISTRITO FEDERAL,automovel,gasolina,324605
+2016,DISTRITO FEDERAL,automovel,gnv,1676
+2016,DISTRITO FEDERAL,caminhao,diesel,23343
+2016,DISTRITO FEDERAL,caminhaotrator,diesel,3214
+2016,DISTRITO FEDERAL,caminhonete,diesel,29194
+2016,DISTRITO FEDERAL,caminhonete,eletrico,13
+2016,DISTRITO FEDERAL,caminhonete,gasolina,73534
+2016,DISTRITO FEDERAL,camioneta,diesel,24883
+2016,DISTRITO FEDERAL,camioneta,eletrico,11
+2016,DISTRITO FEDERAL,camioneta,gasolina,62673
+2016,DISTRITO FEDERAL,microonibus,diesel,5430
+2016,DISTRITO FEDERAL,motocicleta,gasolina,174970
+2016,DISTRITO FEDERAL,motoneta,gasolina,17593
+2016,DISTRITO FEDERAL,onibus,diesel,12090
+2016,DISTRITO FEDERAL,utilitario,eletrico,3
+2016,DISTRITO FEDERAL,utilitario,flex,14612
+2016,DISTRITO FEDERAL,utilitario,gasolina,6904
+2016,ESPIRITO SANTO,automovel,alcool,53677
+2016,ESPIRITO SANTO,automovel,eletrico,70
+2016,ESPIRITO SANTO,automovel,flex,644673
+2016,ESPIRITO SANTO,automovel,gasolina,155062
+2016,ESPIRITO SANTO,automovel,gnv,28930
+2016,ESPIRITO SANTO,caminhao,diesel,69944
+2016,ESPIRITO SANTO,caminhaotrator,diesel,17810
+2016,ESPIRITO SANTO,caminhonete,diesel,40558
+2016,ESPIRITO SANTO,caminhonete,eletrico,11
+2016,ESPIRITO SANTO,caminhonete,gasolina,93679
+2016,ESPIRITO SANTO,camioneta,diesel,23237
+2016,ESPIRITO SANTO,camioneta,eletrico,6
+2016,ESPIRITO SANTO,camioneta,gasolina,53670
+2016,ESPIRITO SANTO,microonibus,diesel,7785
+2016,ESPIRITO SANTO,motocicleta,gasolina,416816
+2016,ESPIRITO SANTO,motoneta,gasolina,98611
+2016,ESPIRITO SANTO,onibus,diesel,14504
+2016,ESPIRITO SANTO,utilitario,eletrico,1
+2016,ESPIRITO SANTO,utilitario,flex,11105
+2016,ESPIRITO SANTO,utilitario,gasolina,4094
+2016,GOIAS,automovel,alcool,159272
+2016,GOIAS,automovel,eletrico,93
+2016,GOIAS,automovel,flex,1197642
+2016,GOIAS,automovel,gasolina,344869
+2016,GOIAS,automovel,gnv,4210
+2016,GOIAS,caminhao,diesel,106637
+2016,GOIAS,caminhaotrator,diesel,29212
+2016,GOIAS,caminhonete,diesel,110607
+2016,GOIAS,caminhonete,eletrico,18
+2016,GOIAS,caminhonete,gasolina,223189
+2016,GOIAS,camioneta,diesel,26395
+2016,GOIAS,camioneta,eletrico,4
+2016,GOIAS,camioneta,gasolina,53262
+2016,GOIAS,microonibus,diesel,9184
+2016,GOIAS,motocicleta,gasolina,824236
+2016,GOIAS,motoneta,gasolina,257400
+2016,GOIAS,onibus,diesel,21661
+2016,GOIAS,utilitario,eletrico,1
+2016,GOIAS,utilitario,flex,14005
+2016,GOIAS,utilitario,gasolina,5945
+2016,MARANHAO,automovel,alcool,13712
+2016,MARANHAO,automovel,eletrico,70
+2016,MARANHAO,automovel,flex,378410
+2016,MARANHAO,automovel,gasolina,0
+2016,MARANHAO,automovel,gnv,223
+2016,MARANHAO,caminhao,diesel,38276
+2016,MARANHAO,caminhaotrator,diesel,4114
+2016,MARANHAO,caminhonete,diesel,43350
+2016,MARANHAO,caminhonete,eletrico,18
+2016,MARANHAO,caminhonete,gasolina,54388
+2016,MARANHAO,camioneta,diesel,11824
+2016,MARANHAO,camioneta,eletrico,5
+2016,MARANHAO,camioneta,gasolina,14835
+2016,MARANHAO,microonibus,diesel,4628
+2016,MARANHAO,motocicleta,gasolina,772198
+2016,MARANHAO,motoneta,gasolina,130233
+2016,MARANHAO,onibus,diesel,8262
+2016,MARANHAO,utilitario,eletrico,1
+2016,MARANHAO,utilitario,flex,7876
+2016,MARANHAO,utilitario,gasolina,0
+2016,MATO GROSSO,automovel,alcool,47773
+2016,MATO GROSSO,automovel,eletrico,165
+2016,MATO GROSSO,automovel,flex,587530
+2016,MATO GROSSO,automovel,gasolina,0
+2016,MATO GROSSO,automovel,gnv,1454
+2016,MATO GROSSO,caminhao,diesel,65590
+2016,MATO GROSSO,caminhaotrator,diesel,30339
+2016,MATO GROSSO,caminhonete,diesel,81067
+2016,MATO GROSSO,caminhonete,eletrico,49
+2016,MATO GROSSO,caminhonete,gasolina,109255
+2016,MATO GROSSO,camioneta,diesel,15513
+2016,MATO GROSSO,camioneta,eletrico,9
+2016,MATO GROSSO,camioneta,gasolina,20907
+2016,MATO GROSSO,microonibus,diesel,3267
+2016,MATO GROSSO,motocicleta,gasolina,568133
+2016,MATO GROSSO,motoneta,gasolina,198380
+2016,MATO GROSSO,onibus,diesel,11003
+2016,MATO GROSSO,utilitario,eletrico,3
+2016,MATO GROSSO,utilitario,flex,11267
+2016,MATO GROSSO,utilitario,gasolina,306
+2016,MATO GROSSO DO SUL,automovel,alcool,53323
+2016,MATO GROSSO DO SUL,automovel,eletrico,45
+2016,MATO GROSSO DO SUL,automovel,flex,462728
+2016,MATO GROSSO DO SUL,automovel,gasolina,145780
+2016,MATO GROSSO DO SUL,automovel,gnv,5488
+2016,MATO GROSSO DO SUL,caminhao,diesel,48315
+2016,MATO GROSSO DO SUL,caminhaotrator,diesel,15784
+2016,MATO GROSSO DO SUL,caminhonete,diesel,60286
+2016,MATO GROSSO DO SUL,caminhonete,eletrico,10
+2016,MATO GROSSO DO SUL,caminhonete,gasolina,86652
+2016,MATO GROSSO DO SUL,camioneta,diesel,11929
+2016,MATO GROSSO DO SUL,camioneta,eletrico,2
+2016,MATO GROSSO DO SUL,camioneta,gasolina,17145
+2016,MATO GROSSO DO SUL,microonibus,diesel,3528
+2016,MATO GROSSO DO SUL,motocicleta,gasolina,345789
+2016,MATO GROSSO DO SUL,motoneta,gasolina,102583
+2016,MATO GROSSO DO SUL,onibus,diesel,9122
+2016,MATO GROSSO DO SUL,utilitario,eletrico,1
+2016,MATO GROSSO DO SUL,utilitario,flex,6860
+2016,MATO GROSSO DO SUL,utilitario,gasolina,3033
+2016,MINAS GERAIS,automovel,alcool,433944
+2016,MINAS GERAIS,automovel,eletrico,239
+2016,MINAS GERAIS,automovel,flex,3499390
+2016,MINAS GERAIS,automovel,gasolina,1569218
+2016,MINAS GERAIS,automovel,gnv,32175
+2016,MINAS GERAIS,caminhao,diesel,319793
+2016,MINAS GERAIS,caminhaotrator,diesel,65925
+2016,MINAS GERAIS,caminhonete,diesel,194283
+2016,MINAS GERAIS,caminhonete,eletrico,36
+2016,MINAS GERAIS,caminhonete,gasolina,630649
+2016,MINAS GERAIS,camioneta,diesel,61542
+2016,MINAS GERAIS,camioneta,eletrico,11
+2016,MINAS GERAIS,camioneta,gasolina,199767
+2016,MINAS GERAIS,microonibus,diesel,43952
+2016,MINAS GERAIS,motocicleta,gasolina,2345924
+2016,MINAS GERAIS,motoneta,gasolina,266447
+2016,MINAS GERAIS,onibus,diesel,72190
+2016,MINAS GERAIS,utilitario,eletrico,2
+2016,MINAS GERAIS,utilitario,flex,33388
+2016,MINAS GERAIS,utilitario,gasolina,19420
+2016,PARA,automovel,alcool,23772
+2016,PARA,automovel,eletrico,60
+2016,PARA,automovel,flex,512754
+2016,PARA,automovel,gasolina,0
+2016,PARA,automovel,gnv,300
+2016,PARA,caminhao,diesel,57364
+2016,PARA,caminhaotrator,diesel,7674
+2016,PARA,caminhonete,diesel,57620
+2016,PARA,caminhonete,eletrico,14
+2016,PARA,caminhonete,gasolina,67002
+2016,PARA,camioneta,diesel,17694
+2016,PARA,camioneta,eletrico,4
+2016,PARA,camioneta,gasolina,20575
+2016,PARA,microonibus,diesel,6412
+2016,PARA,motocicleta,gasolina,769704
+2016,PARA,motoneta,gasolina,170284
+2016,PARA,onibus,diesel,17446
+2016,PARA,utilitario,eletrico,1
+2016,PARA,utilitario,flex,11589
+2016,PARA,utilitario,gasolina,0
+2016,PARAIBA,automovel,alcool,29250
+2016,PARAIBA,automovel,eletrico,7
+2016,PARAIBA,automovel,flex,424610
+2016,PARAIBA,automovel,gasolina,0
+2016,PARAIBA,automovel,gnv,22123
+2016,PARAIBA,caminhao,diesel,28226
+2016,PARAIBA,caminhaotrator,diesel,2714
+2016,PARAIBA,caminhonete,diesel,24064
+2016,PARAIBA,caminhonete,eletrico,1
+2016,PARAIBA,caminhonete,gasolina,40152
+2016,PARAIBA,camioneta,diesel,12968
+2016,PARAIBA,camioneta,eletrico,0
+2016,PARAIBA,camioneta,gasolina,21638
+2016,PARAIBA,microonibus,diesel,4484
+2016,PARAIBA,motocicleta,gasolina,439506
+2016,PARAIBA,motoneta,gasolina,61413
+2016,PARAIBA,onibus,diesel,7099
+2016,PARAIBA,utilitario,eletrico,0
+2016,PARAIBA,utilitario,flex,6937
+2016,PARAIBA,utilitario,gasolina,726
+2016,PARANA,automovel,alcool,419274
+2016,PARANA,automovel,eletrico,383
+2016,PARANA,automovel,flex,2232610
+2016,PARANA,automovel,gasolina,1456742
+2016,PARANA,automovel,gnv,36293
+2016,PARANA,caminhao,diesel,258345
+2016,PARANA,caminhaotrator,diesel,89792
+2016,PARANA,caminhonete,diesel,164731
+2016,PARANA,caminhonete,eletrico,52
+2016,PARANA,caminhonete,gasolina,397199
+2016,PARANA,camioneta,diesel,74416
+2016,PARANA,camioneta,eletrico,23
+2016,PARANA,camioneta,gasolina,179430
+2016,PARANA,microonibus,diesel,22136
+2016,PARANA,motocicleta,gasolina,1082558
+2016,PARANA,motoneta,gasolina,272826
+2016,PARANA,onibus,diesel,40016
+2016,PARANA,utilitario,eletrico,4
+2016,PARANA,utilitario,flex,24810
+2016,PARANA,utilitario,gasolina,21251
+2016,PERNAMBUCO,automovel,alcool,93915
+2016,PERNAMBUCO,automovel,eletrico,97
+2016,PERNAMBUCO,automovel,flex,1054916
+2016,PERNAMBUCO,automovel,gasolina,35702
+2016,PERNAMBUCO,automovel,gnv,45673
+2016,PERNAMBUCO,caminhao,diesel,90773
+2016,PERNAMBUCO,caminhaotrator,diesel,11858
+2016,PERNAMBUCO,caminhonete,diesel,47690
+2016,PERNAMBUCO,caminhonete,eletrico,12
+2016,PERNAMBUCO,caminhonete,gasolina,101406
+2016,PERNAMBUCO,camioneta,diesel,30861
+2016,PERNAMBUCO,camioneta,eletrico,8
+2016,PERNAMBUCO,camioneta,gasolina,65622
+2016,PERNAMBUCO,microonibus,diesel,18050
+2016,PERNAMBUCO,motocicleta,gasolina,965348
+2016,PERNAMBUCO,motoneta,gasolina,96768
+2016,PERNAMBUCO,onibus,diesel,19158
+2016,PERNAMBUCO,utilitario,eletrico,1
+2016,PERNAMBUCO,utilitario,flex,13856
+2016,PERNAMBUCO,utilitario,gasolina,2302
+2016,PIAUI,automovel,alcool,18306
+2016,PIAUI,automovel,eletrico,31
+2016,PIAUI,automovel,flex,290012
+2016,PIAUI,automovel,gasolina,0
+2016,PIAUI,automovel,gnv,641
+2016,PIAUI,caminhao,diesel,26790
+2016,PIAUI,caminhaotrator,diesel,2473
+2016,PIAUI,caminhonete,diesel,29306
+2016,PIAUI,caminhonete,eletrico,7
+2016,PIAUI,caminhonete,gasolina,36684
+2016,PIAUI,camioneta,diesel,13549
+2016,PIAUI,camioneta,eletrico,3
+2016,PIAUI,camioneta,gasolina,16959
+2016,PIAUI,microonibus,diesel,3216
+2016,PIAUI,motocicleta,gasolina,504154
+2016,PIAUI,motoneta,gasolina,89345
+2016,PIAUI,onibus,diesel,6506
+2016,PIAUI,utilitario,eletrico,1
+2016,PIAUI,utilitario,flex,5362
+2016,PIAUI,utilitario,gasolina,0
+2016,RIO DE JANEIRO,automovel,alcool,308885
+2016,RIO DE JANEIRO,automovel,eletrico,257
+2016,RIO DE JANEIRO,automovel,flex,1871860
+2016,RIO DE JANEIRO,automovel,gasolina,983726
+2016,RIO DE JANEIRO,automovel,gnv,1101309
+2016,RIO DE JANEIRO,caminhao,diesel,142035
+2016,RIO DE JANEIRO,caminhaotrator,diesel,17460
+2016,RIO DE JANEIRO,caminhonete,diesel,44531
+2016,RIO DE JANEIRO,caminhonete,eletrico,17
+2016,RIO DE JANEIRO,caminhonete,gasolina,230989
+2016,RIO DE JANEIRO,camioneta,diesel,52420
+2016,RIO DE JANEIRO,camioneta,eletrico,20
+2016,RIO DE JANEIRO,camioneta,gasolina,271915
+2016,RIO DE JANEIRO,microonibus,diesel,38917
+2016,RIO DE JANEIRO,motocicleta,gasolina,879320
+2016,RIO DE JANEIRO,motoneta,gasolina,155752
+2016,RIO DE JANEIRO,onibus,diesel,47374
+2016,RIO DE JANEIRO,utilitario,eletrico,3
+2016,RIO DE JANEIRO,utilitario,flex,21714
+2016,RIO DE JANEIRO,utilitario,gasolina,27771
+2016,RIO GRANDE DO NORTE,automovel,alcool,30022
+2016,RIO GRANDE DO NORTE,automovel,eletrico,9
+2016,RIO GRANDE DO NORTE,automovel,flex,382836
+2016,RIO GRANDE DO NORTE,automovel,gasolina,40723
+2016,RIO GRANDE DO NORTE,automovel,gnv,46737
+2016,RIO GRANDE DO NORTE,caminhao,diesel,30862
+2016,RIO GRANDE DO NORTE,caminhaotrator,diesel,3105
+2016,RIO GRANDE DO NORTE,caminhonete,diesel,25269
+2016,RIO GRANDE DO NORTE,caminhonete,eletrico,1
+2016,RIO GRANDE DO NORTE,caminhonete,gasolina,43605
+2016,RIO GRANDE DO NORTE,camioneta,diesel,13087
+2016,RIO GRANDE DO NORTE,camioneta,eletrico,1
+2016,RIO GRANDE DO NORTE,camioneta,gasolina,22585
+2016,RIO GRANDE DO NORTE,microonibus,diesel,4840
+2016,RIO GRANDE DO NORTE,motocicleta,gasolina,400367
+2016,RIO GRANDE DO NORTE,motoneta,gasolina,54535
+2016,RIO GRANDE DO NORTE,onibus,diesel,6653
+2016,RIO GRANDE DO NORTE,utilitario,eletrico,0
+2016,RIO GRANDE DO NORTE,utilitario,flex,9478
+2016,RIO GRANDE DO NORTE,utilitario,gasolina,2909
+2016,RIO GRANDE DO SUL,automovel,alcool,197351
+2016,RIO GRANDE DO SUL,automovel,eletrico,285
+2016,RIO GRANDE DO SUL,automovel,flex,1882327
+2016,RIO GRANDE DO SUL,automovel,gasolina,1861074
+2016,RIO GRANDE DO SUL,automovel,gnv,62153
+2016,RIO GRANDE DO SUL,caminhao,diesel,218374
+2016,RIO GRANDE DO SUL,caminhaotrator,diesel,58752
+2016,RIO GRANDE DO SUL,caminhonete,diesel,129065
+2016,RIO GRANDE DO SUL,caminhonete,eletrico,31
+2016,RIO GRANDE DO SUL,caminhonete,gasolina,305066
+2016,RIO GRANDE DO SUL,camioneta,diesel,81086
+2016,RIO GRANDE DO SUL,camioneta,eletrico,19
+2016,RIO GRANDE DO SUL,camioneta,gasolina,191662
+2016,RIO GRANDE DO SUL,microonibus,diesel,19496
+2016,RIO GRANDE DO SUL,motocicleta,gasolina,1022898
+2016,RIO GRANDE DO SUL,motoneta,gasolina,180303
+2016,RIO GRANDE DO SUL,onibus,diesel,40361
+2016,RIO GRANDE DO SUL,utilitario,eletrico,3
+2016,RIO GRANDE DO SUL,utilitario,flex,20659
+2016,RIO GRANDE DO SUL,utilitario,gasolina,23274
+2016,RONDONIA,automovel,alcool,10312
+2016,RONDONIA,automovel,eletrico,25
+2016,RONDONIA,automovel,flex,241047
+2016,RONDONIA,automovel,gasolina,0
+2016,RONDONIA,automovel,gnv,83
+2016,RONDONIA,caminhao,diesel,29654
+2016,RONDONIA,caminhaotrator,diesel,6138
+2016,RONDONIA,caminhonete,diesel,32315
+2016,RONDONIA,caminhonete,eletrico,7
+2016,RONDONIA,caminhonete,gasolina,41017
+2016,RONDONIA,camioneta,diesel,8232
+2016,RONDONIA,camioneta,eletrico,2
+2016,RONDONIA,camioneta,gasolina,10450
+2016,RONDONIA,microonibus,diesel,1162
+2016,RONDONIA,motocicleta,gasolina,367275
+2016,RONDONIA,motoneta,gasolina,109004
+2016,RONDONIA,onibus,diesel,5646
+2016,RONDONIA,utilitario,eletrico,0
+2016,RONDONIA,utilitario,flex,2772
+2016,RONDONIA,utilitario,gasolina,0
+2016,RORAIMA,automovel,alcool,1440
+2016,RORAIMA,automovel,eletrico,15
+2016,RORAIMA,automovel,flex,63574
+2016,RORAIMA,automovel,gasolina,0
+2016,RORAIMA,automovel,gnv,38
+2016,RORAIMA,caminhao,diesel,4435
+2016,RORAIMA,caminhaotrator,diesel,662
+2016,RORAIMA,caminhonete,diesel,6566
+2016,RORAIMA,caminhonete,eletrico,4
+2016,RORAIMA,caminhonete,gasolina,11752
+2016,RORAIMA,camioneta,diesel,3070
+2016,RORAIMA,camioneta,eletrico,2
+2016,RORAIMA,camioneta,gasolina,5496
+2016,RORAIMA,microonibus,diesel,658
+2016,RORAIMA,motocicleta,gasolina,74998
+2016,RORAIMA,motoneta,gasolina,18333
+2016,RORAIMA,onibus,diesel,1001
+2016,RORAIMA,utilitario,eletrico,0
+2016,RORAIMA,utilitario,flex,1017
+2016,RORAIMA,utilitario,gasolina,0
+2016,SANTA CATARINA,automovel,alcool,132782
+2016,SANTA CATARINA,automovel,eletrico,262
+2016,SANTA CATARINA,automovel,flex,1627927
+2016,SANTA CATARINA,automovel,gasolina,841081
+2016,SANTA CATARINA,automovel,gnv,90797
+2016,SANTA CATARINA,caminhao,diesel,145470
+2016,SANTA CATARINA,caminhaotrator,diesel,51073
+2016,SANTA CATARINA,caminhonete,diesel,77783
+2016,SANTA CATARINA,caminhonete,eletrico,26
+2016,SANTA CATARINA,caminhonete,gasolina,192679
+2016,SANTA CATARINA,camioneta,diesel,65319
+2016,SANTA CATARINA,camioneta,eletrico,22
+2016,SANTA CATARINA,camioneta,gasolina,161807
+2016,SANTA CATARINA,microonibus,diesel,11722
+2016,SANTA CATARINA,motocicleta,gasolina,822651
+2016,SANTA CATARINA,motoneta,gasolina,258108
+2016,SANTA CATARINA,onibus,diesel,18451
+2016,SANTA CATARINA,utilitario,eletrico,4
+2016,SANTA CATARINA,utilitario,flex,24783
+2016,SANTA CATARINA,utilitario,gasolina,16208
+2016,SAO PAULO,automovel,alcool,1836413
+2016,SAO PAULO,automovel,eletrico,2135
+2016,SAO PAULO,automovel,flex,9054642
+2016,SAO PAULO,automovel,gasolina,5941702
+2016,SAO PAULO,automovel,gnv,277796
+2016,SAO PAULO,caminhao,diesel,655963
+2016,SAO PAULO,caminhaotrator,diesel,172652
+2016,SAO PAULO,caminhonete,diesel,293540
+2016,SAO PAULO,caminhonete,eletrico,188
+2016,SAO PAULO,caminhonete,gasolina,1214947
+2016,SAO PAULO,camioneta,diesel,258377
+2016,SAO PAULO,camioneta,eletrico,166
+2016,SAO PAULO,camioneta,gasolina,1069408
+2016,SAO PAULO,microonibus,diesel,114952
+2016,SAO PAULO,motocicleta,gasolina,4309693
+2016,SAO PAULO,motoneta,gasolina,815005
+2016,SAO PAULO,onibus,diesel,156513
+2016,SAO PAULO,utilitario,eletrico,26
+2016,SAO PAULO,utilitario,flex,110547
+2016,SAO PAULO,utilitario,gasolina,98353
+2016,SERGIPE,automovel,alcool,18425
+2016,SERGIPE,automovel,eletrico,19
+2016,SERGIPE,automovel,flex,257198
+2016,SERGIPE,automovel,gasolina,6829
+2016,SERGIPE,automovel,gnv,20731
+2016,SERGIPE,caminhao,diesel,20752
+2016,SERGIPE,caminhaotrator,diesel,2390
+2016,SERGIPE,caminhonete,diesel,13178
+2016,SERGIPE,caminhonete,eletrico,3
+2016,SERGIPE,caminhonete,gasolina,25880
+2016,SERGIPE,camioneta,diesel,4444
+2016,SERGIPE,camioneta,eletrico,1
+2016,SERGIPE,camioneta,gasolina,8728
+2016,SERGIPE,microonibus,diesel,3453
+2016,SERGIPE,motocicleta,gasolina,227081
+2016,SERGIPE,motoneta,gasolina,38956
+2016,SERGIPE,onibus,diesel,6552
+2016,SERGIPE,utilitario,eletrico,0
+2016,SERGIPE,utilitario,flex,3177
+2016,SERGIPE,utilitario,gasolina,568
+2016,TOCANTINS,automovel,alcool,10863
+2016,TOCANTINS,automovel,eletrico,18
+2016,TOCANTINS,automovel,flex,179699
+2016,TOCANTINS,automovel,gasolina,0
+2016,TOCANTINS,automovel,gnv,240
+2016,TOCANTINS,caminhao,diesel,22251
+2016,TOCANTINS,caminhaotrator,diesel,4707
+2016,TOCANTINS,caminhonete,diesel,23541
+2016,TOCANTINS,caminhonete,eletrico,5
+2016,TOCANTINS,caminhonete,gasolina,27002
+2016,TOCANTINS,camioneta,diesel,8186
+2016,TOCANTINS,camioneta,eletrico,2
+2016,TOCANTINS,camioneta,gasolina,9390
+2016,TOCANTINS,microonibus,diesel,1542
+2016,TOCANTINS,motocicleta,gasolina,215031
+2016,TOCANTINS,motoneta,gasolina,87951
+2016,TOCANTINS,onibus,diesel,5346
+2016,TOCANTINS,utilitario,eletrico,0
+2016,TOCANTINS,utilitario,flex,2848
+2016,TOCANTINS,utilitario,gasolina,0
+2017,ACRE,automovel,alcool,3604
+2017,ACRE,automovel,eletrico,15
+2017,ACRE,automovel,flex,78505
+2017,ACRE,automovel,gasolina,0
+2017,ACRE,automovel,gnv,15
+2017,ACRE,caminhao,diesel,7004
+2017,ACRE,caminhaotrator,diesel,822
+2017,ACRE,caminhonete,diesel,11699
+2017,ACRE,caminhonete,eletrico,4
+2017,ACRE,caminhonete,gasolina,10876
+2017,ACRE,camioneta,diesel,3231
+2017,ACRE,camioneta,eletrico,1
+2017,ACRE,camioneta,gasolina,3004
+2017,ACRE,microonibus,diesel,351
+2017,ACRE,motocicleta,gasolina,109557
+2017,ACRE,motoneta,gasolina,22374
+2017,ACRE,onibus,diesel,1116
+2017,ACRE,utilitario,eletrico,0
+2017,ACRE,utilitario,flex,1177
+2017,ACRE,utilitario,gasolina,0
+2017,ALAGOAS,automovel,alcool,24057
+2017,ALAGOAS,automovel,eletrico,5
+2017,ALAGOAS,automovel,flex,291923
+2017,ALAGOAS,automovel,gasolina,0
+2017,ALAGOAS,automovel,gnv,19002
+2017,ALAGOAS,caminhao,diesel,20734
+2017,ALAGOAS,caminhaotrator,diesel,2423
+2017,ALAGOAS,caminhonete,diesel,15715
+2017,ALAGOAS,caminhonete,eletrico,1
+2017,ALAGOAS,caminhonete,gasolina,29436
+2017,ALAGOAS,camioneta,diesel,8623
+2017,ALAGOAS,camioneta,eletrico,0
+2017,ALAGOAS,camioneta,gasolina,16151
+2017,ALAGOAS,microonibus,diesel,6373
+2017,ALAGOAS,motocicleta,gasolina,267403
+2017,ALAGOAS,motoneta,gasolina,37740
+2017,ALAGOAS,onibus,diesel,7295
+2017,ALAGOAS,utilitario,eletrico,0
+2017,ALAGOAS,utilitario,flex,4945
+2017,ALAGOAS,utilitario,gasolina,313
+2017,AMAPA,automovel,alcool,1435
+2017,AMAPA,automovel,eletrico,10
+2017,AMAPA,automovel,flex,74203
+2017,AMAPA,automovel,gasolina,0
+2017,AMAPA,automovel,gnv,9
+2017,AMAPA,caminhao,diesel,3931
+2017,AMAPA,caminhaotrator,diesel,336
+2017,AMAPA,caminhonete,diesel,5196
+2017,AMAPA,caminhonete,eletrico,3
+2017,AMAPA,caminhonete,gasolina,12879
+2017,AMAPA,camioneta,diesel,1813
+2017,AMAPA,camioneta,eletrico,1
+2017,AMAPA,camioneta,gasolina,4494
+2017,AMAPA,microonibus,diesel,436
+2017,AMAPA,motocicleta,gasolina,61736
+2017,AMAPA,motoneta,gasolina,11095
+2017,AMAPA,onibus,diesel,1227
+2017,AMAPA,utilitario,eletrico,0
+2017,AMAPA,utilitario,flex,840
+2017,AMAPA,utilitario,gasolina,0
+2017,AMAZONAS,automovel,alcool,16190
+2017,AMAZONAS,automovel,eletrico,67
+2017,AMAZONAS,automovel,flex,347813
+2017,AMAZONAS,automovel,gasolina,7081
+2017,AMAZONAS,automovel,gnv,2100
+2017,AMAZONAS,caminhao,diesel,19667
+2017,AMAZONAS,caminhaotrator,diesel,3265
+2017,AMAZONAS,caminhonete,diesel,19217
+2017,AMAZONAS,caminhonete,eletrico,14
+2017,AMAZONAS,caminhonete,gasolina,56333
+2017,AMAZONAS,camioneta,diesel,8782
+2017,AMAZONAS,camioneta,eletrico,6
+2017,AMAZONAS,camioneta,gasolina,25745
+2017,AMAZONAS,microonibus,diesel,3565
+2017,AMAZONAS,motocicleta,gasolina,239823
+2017,AMAZONAS,motoneta,gasolina,53304
+2017,AMAZONAS,onibus,diesel,8819
+2017,AMAZONAS,utilitario,eletrico,1
+2017,AMAZONAS,utilitario,flex,4598
+2017,AMAZONAS,utilitario,gasolina,335
+2017,BAHIA,automovel,alcool,98878
+2017,BAHIA,automovel,eletrico,160
+2017,BAHIA,automovel,flex,1505527
+2017,BAHIA,automovel,gasolina,72234
+2017,BAHIA,automovel,gnv,49827
+2017,BAHIA,caminhao,diesel,115767
+2017,BAHIA,caminhaotrator,diesel,20385
+2017,BAHIA,caminhonete,diesel,92223
+2017,BAHIA,caminhonete,eletrico,29
+2017,BAHIA,caminhonete,gasolina,223563
+2017,BAHIA,camioneta,diesel,34698
+2017,BAHIA,camioneta,eletrico,11
+2017,BAHIA,camioneta,gasolina,84115
+2017,BAHIA,microonibus,diesel,28489
+2017,BAHIA,motocicleta,gasolina,1232940
+2017,BAHIA,motoneta,gasolina,180462
+2017,BAHIA,onibus,diesel,38874
+2017,BAHIA,utilitario,eletrico,2
+2017,BAHIA,utilitario,flex,22473
+2017,BAHIA,utilitario,gasolina,3298
+2017,CEARA,automovel,alcool,62694
+2017,CEARA,automovel,eletrico,69
+2017,CEARA,automovel,flex,972600
+2017,CEARA,automovel,gasolina,0
+2017,CEARA,automovel,gnv,40752
+2017,CEARA,caminhao,diesel,71118
+2017,CEARA,caminhaotrator,diesel,8385
+2017,CEARA,caminhonete,diesel,75807
+2017,CEARA,caminhonete,eletrico,10
+2017,CEARA,caminhonete,gasolina,86318
+2017,CEARA,camioneta,diesel,36656
+2017,CEARA,camioneta,eletrico,5
+2017,CEARA,camioneta,gasolina,41738
+2017,CEARA,microonibus,diesel,12109
+2017,CEARA,motocicleta,gasolina,1309544
+2017,CEARA,motoneta,gasolina,155168
+2017,CEARA,onibus,diesel,16791
+2017,CEARA,utilitario,eletrico,2
+2017,CEARA,utilitario,flex,27786
+2017,CEARA,utilitario,gasolina,0
+2017,DISTRITO FEDERAL,automovel,alcool,57962
+2017,DISTRITO FEDERAL,automovel,eletrico,231
+2017,DISTRITO FEDERAL,automovel,flex,855006
+2017,DISTRITO FEDERAL,automovel,gasolina,314358
+2017,DISTRITO FEDERAL,automovel,gnv,1616
+2017,DISTRITO FEDERAL,caminhao,diesel,23554
+2017,DISTRITO FEDERAL,caminhaotrator,diesel,3250
+2017,DISTRITO FEDERAL,caminhonete,diesel,30923
+2017,DISTRITO FEDERAL,caminhonete,eletrico,20
+2017,DISTRITO FEDERAL,caminhonete,gasolina,76592
+2017,DISTRITO FEDERAL,camioneta,diesel,26417
+2017,DISTRITO FEDERAL,camioneta,eletrico,17
+2017,DISTRITO FEDERAL,camioneta,gasolina,65430
+2017,DISTRITO FEDERAL,microonibus,diesel,5625
+2017,DISTRITO FEDERAL,motocicleta,gasolina,180136
+2017,DISTRITO FEDERAL,motoneta,gasolina,18178
+2017,DISTRITO FEDERAL,onibus,diesel,12232
+2017,DISTRITO FEDERAL,utilitario,eletrico,4
+2017,DISTRITO FEDERAL,utilitario,flex,16416
+2017,DISTRITO FEDERAL,utilitario,gasolina,7179
+2017,ESPIRITO SANTO,automovel,alcool,53180
+2017,ESPIRITO SANTO,automovel,eletrico,121
+2017,ESPIRITO SANTO,automovel,flex,681110
+2017,ESPIRITO SANTO,automovel,gasolina,139962
+2017,ESPIRITO SANTO,automovel,gnv,33115
+2017,ESPIRITO SANTO,caminhao,diesel,71097
+2017,ESPIRITO SANTO,caminhaotrator,diesel,17613
+2017,ESPIRITO SANTO,caminhonete,diesel,43712
+2017,ESPIRITO SANTO,caminhonete,eletrico,19
+2017,ESPIRITO SANTO,caminhonete,gasolina,97731
+2017,ESPIRITO SANTO,camioneta,diesel,24209
+2017,ESPIRITO SANTO,camioneta,eletrico,10
+2017,ESPIRITO SANTO,camioneta,gasolina,54126
+2017,ESPIRITO SANTO,microonibus,diesel,7921
+2017,ESPIRITO SANTO,motocicleta,gasolina,428681
+2017,ESPIRITO SANTO,motoneta,gasolina,102302
+2017,ESPIRITO SANTO,onibus,diesel,14502
+2017,ESPIRITO SANTO,utilitario,eletrico,2
+2017,ESPIRITO SANTO,utilitario,flex,12735
+2017,ESPIRITO SANTO,utilitario,gasolina,4230
+2017,GOIAS,automovel,alcool,159461
+2017,GOIAS,automovel,eletrico,119
+2017,GOIAS,automovel,flex,1271387
+2017,GOIAS,automovel,gasolina,320083
+2017,GOIAS,automovel,gnv,4370
+2017,GOIAS,caminhao,diesel,107651
+2017,GOIAS,caminhaotrator,diesel,29822
+2017,GOIAS,caminhonete,diesel,114372
+2017,GOIAS,caminhonete,eletrico,23
+2017,GOIAS,caminhonete,gasolina,229188
+2017,GOIAS,camioneta,diesel,27807
+2017,GOIAS,camioneta,eletrico,6
+2017,GOIAS,camioneta,gasolina,55723
+2017,GOIAS,microonibus,diesel,9496
+2017,GOIAS,motocicleta,gasolina,846325
+2017,GOIAS,motoneta,gasolina,266418
+2017,GOIAS,onibus,diesel,22240
+2017,GOIAS,utilitario,eletrico,1
+2017,GOIAS,utilitario,flex,15769
+2017,GOIAS,utilitario,gasolina,6002
+2017,MARANHAO,automovel,alcool,13757
+2017,MARANHAO,automovel,eletrico,80
+2017,MARANHAO,automovel,flex,393926
+2017,MARANHAO,automovel,gasolina,0
+2017,MARANHAO,automovel,gnv,243
+2017,MARANHAO,caminhao,diesel,39479
+2017,MARANHAO,caminhaotrator,diesel,4331
+2017,MARANHAO,caminhonete,diesel,46471
+2017,MARANHAO,caminhonete,eletrico,20
+2017,MARANHAO,caminhonete,gasolina,57339
+2017,MARANHAO,camioneta,diesel,12421
+2017,MARANHAO,camioneta,eletrico,5
+2017,MARANHAO,camioneta,gasolina,15326
+2017,MARANHAO,microonibus,diesel,4760
+2017,MARANHAO,motocicleta,gasolina,815162
+2017,MARANHAO,motoneta,gasolina,138726
+2017,MARANHAO,onibus,diesel,8703
+2017,MARANHAO,utilitario,eletrico,2
+2017,MARANHAO,utilitario,flex,8785
+2017,MARANHAO,utilitario,gasolina,0
+2017,MATO GROSSO,automovel,alcool,48001
+2017,MATO GROSSO,automovel,eletrico,180
+2017,MATO GROSSO,automovel,flex,617896
+2017,MATO GROSSO,automovel,gasolina,0
+2017,MATO GROSSO,automovel,gnv,1422
+2017,MATO GROSSO,caminhao,diesel,67804
+2017,MATO GROSSO,caminhaotrator,diesel,31450
+2017,MATO GROSSO,caminhonete,diesel,85514
+2017,MATO GROSSO,caminhonete,eletrico,54
+2017,MATO GROSSO,caminhonete,gasolina,116387
+2017,MATO GROSSO,camioneta,diesel,16577
+2017,MATO GROSSO,camioneta,eletrico,11
+2017,MATO GROSSO,camioneta,gasolina,22562
+2017,MATO GROSSO,microonibus,diesel,3384
+2017,MATO GROSSO,motocicleta,gasolina,590255
+2017,MATO GROSSO,motoneta,gasolina,209545
+2017,MATO GROSSO,onibus,diesel,11368
+2017,MATO GROSSO,utilitario,eletrico,4
+2017,MATO GROSSO,utilitario,flex,13190
+2017,MATO GROSSO,utilitario,gasolina,0
+2017,MATO GROSSO DO SUL,automovel,alcool,53554
+2017,MATO GROSSO DO SUL,automovel,eletrico,62
+2017,MATO GROSSO DO SUL,automovel,flex,498920
+2017,MATO GROSSO DO SUL,automovel,gasolina,135201
+2017,MATO GROSSO DO SUL,automovel,gnv,5330
+2017,MATO GROSSO DO SUL,caminhao,diesel,49790
+2017,MATO GROSSO DO SUL,caminhaotrator,diesel,16535
+2017,MATO GROSSO DO SUL,caminhonete,diesel,62925
+2017,MATO GROSSO DO SUL,caminhonete,eletrico,14
+2017,MATO GROSSO DO SUL,caminhonete,gasolina,91373
+2017,MATO GROSSO DO SUL,camioneta,diesel,12661
+2017,MATO GROSSO DO SUL,camioneta,eletrico,3
+2017,MATO GROSSO DO SUL,camioneta,gasolina,18386
+2017,MATO GROSSO DO SUL,microonibus,diesel,3650
+2017,MATO GROSSO DO SUL,motocicleta,gasolina,354425
+2017,MATO GROSSO DO SUL,motoneta,gasolina,105722
+2017,MATO GROSSO DO SUL,onibus,diesel,9485
+2017,MATO GROSSO DO SUL,utilitario,eletrico,1
+2017,MATO GROSSO DO SUL,utilitario,flex,8045
+2017,MATO GROSSO DO SUL,utilitario,gasolina,3130
+2017,MINAS GERAIS,automovel,alcool,434611
+2017,MINAS GERAIS,automovel,eletrico,412
+2017,MINAS GERAIS,automovel,flex,3814657
+2017,MINAS GERAIS,automovel,gasolina,1492016
+2017,MINAS GERAIS,automovel,gnv,31591
+2017,MINAS GERAIS,caminhao,diesel,324805
+2017,MINAS GERAIS,caminhaotrator,diesel,67835
+2017,MINAS GERAIS,caminhonete,diesel,206868
+2017,MINAS GERAIS,caminhonete,eletrico,62
+2017,MINAS GERAIS,caminhonete,gasolina,663641
+2017,MINAS GERAIS,camioneta,diesel,66657
+2017,MINAS GERAIS,camioneta,eletrico,20
+2017,MINAS GERAIS,camioneta,gasolina,213841
+2017,MINAS GERAIS,microonibus,diesel,45126
+2017,MINAS GERAIS,motocicleta,gasolina,2415672
+2017,MINAS GERAIS,motoneta,gasolina,276855
+2017,MINAS GERAIS,onibus,diesel,74299
+2017,MINAS GERAIS,utilitario,eletrico,4
+2017,MINAS GERAIS,utilitario,flex,39548
+2017,MINAS GERAIS,utilitario,gasolina,20301
+2017,PARA,automovel,alcool,23811
+2017,PARA,automovel,eletrico,80
+2017,PARA,automovel,flex,536242
+2017,PARA,automovel,gasolina,0
+2017,PARA,automovel,gnv,324
+2017,PARA,caminhao,diesel,59288
+2017,PARA,caminhaotrator,diesel,8086
+2017,PARA,caminhonete,diesel,62029
+2017,PARA,caminhonete,eletrico,19
+2017,PARA,caminhonete,gasolina,71334
+2017,PARA,camioneta,diesel,18346
+2017,PARA,camioneta,eletrico,6
+2017,PARA,camioneta,gasolina,21098
+2017,PARA,microonibus,diesel,6568
+2017,PARA,motocicleta,gasolina,816177
+2017,PARA,motoneta,gasolina,179516
+2017,PARA,onibus,diesel,17880
+2017,PARA,utilitario,eletrico,2
+2017,PARA,utilitario,flex,12345
+2017,PARA,utilitario,gasolina,0
+2017,PARAIBA,automovel,alcool,29294
+2017,PARAIBA,automovel,eletrico,22
+2017,PARAIBA,automovel,flex,444133
+2017,PARAIBA,automovel,gasolina,0
+2017,PARAIBA,automovel,gnv,22353
+2017,PARAIBA,caminhao,diesel,28671
+2017,PARAIBA,caminhaotrator,diesel,2716
+2017,PARAIBA,caminhonete,diesel,25785
+2017,PARAIBA,caminhonete,eletrico,3
+2017,PARAIBA,caminhonete,gasolina,42306
+2017,PARAIBA,camioneta,diesel,13504
+2017,PARAIBA,camioneta,eletrico,2
+2017,PARAIBA,camioneta,gasolina,22156
+2017,PARAIBA,microonibus,diesel,4621
+2017,PARAIBA,motocicleta,gasolina,461346
+2017,PARAIBA,motoneta,gasolina,63897
+2017,PARAIBA,onibus,diesel,7244
+2017,PARAIBA,utilitario,eletrico,0
+2017,PARAIBA,utilitario,flex,8141
+2017,PARAIBA,utilitario,gasolina,583
+2017,PARANA,automovel,alcool,419099
+2017,PARANA,automovel,eletrico,511
+2017,PARANA,automovel,flex,2353450
+2017,PARANA,automovel,gasolina,1431495
+2017,PARANA,automovel,gnv,37241
+2017,PARANA,caminhao,diesel,262145
+2017,PARANA,caminhaotrator,diesel,91482
+2017,PARANA,caminhonete,diesel,174381
+2017,PARANA,caminhonete,eletrico,71
+2017,PARANA,caminhonete,gasolina,412784
+2017,PARANA,camioneta,diesel,77578
+2017,PARANA,camioneta,eletrico,31
+2017,PARANA,camioneta,gasolina,183637
+2017,PARANA,microonibus,diesel,22248
+2017,PARANA,motocicleta,gasolina,1108081
+2017,PARANA,motoneta,gasolina,280372
+2017,PARANA,onibus,diesel,40931
+2017,PARANA,utilitario,eletrico,6
+2017,PARANA,utilitario,flex,28405
+2017,PARANA,utilitario,gasolina,22785
+2017,PERNAMBUCO,automovel,alcool,93933
+2017,PERNAMBUCO,automovel,eletrico,122
+2017,PERNAMBUCO,automovel,flex,1115444
+2017,PERNAMBUCO,automovel,gasolina,8309
+2017,PERNAMBUCO,automovel,gnv,47226
+2017,PERNAMBUCO,caminhao,diesel,91535
+2017,PERNAMBUCO,caminhaotrator,diesel,12161
+2017,PERNAMBUCO,caminhonete,diesel,49662
+2017,PERNAMBUCO,caminhonete,eletrico,15
+2017,PERNAMBUCO,caminhonete,gasolina,105786
+2017,PERNAMBUCO,camioneta,diesel,31623
+2017,PERNAMBUCO,camioneta,eletrico,10
+2017,PERNAMBUCO,camioneta,gasolina,67361
+2017,PERNAMBUCO,microonibus,diesel,18449
+2017,PERNAMBUCO,motocicleta,gasolina,996366
+2017,PERNAMBUCO,motoneta,gasolina,100248
+2017,PERNAMBUCO,onibus,diesel,19485
+2017,PERNAMBUCO,utilitario,eletrico,2
+2017,PERNAMBUCO,utilitario,flex,15603
+2017,PERNAMBUCO,utilitario,gasolina,2091
+2017,PIAUI,automovel,alcool,18406
+2017,PIAUI,automovel,eletrico,38
+2017,PIAUI,automovel,flex,308856
+2017,PIAUI,automovel,gasolina,0
+2017,PIAUI,automovel,gnv,675
+2017,PIAUI,caminhao,diesel,27934
+2017,PIAUI,caminhaotrator,diesel,2548
+2017,PIAUI,caminhonete,diesel,32302
+2017,PIAUI,caminhonete,eletrico,8
+2017,PIAUI,caminhonete,gasolina,39649
+2017,PIAUI,camioneta,diesel,13917
+2017,PIAUI,camioneta,eletrico,4
+2017,PIAUI,camioneta,gasolina,17081
+2017,PIAUI,microonibus,diesel,3519
+2017,PIAUI,motocicleta,gasolina,528852
+2017,PIAUI,motoneta,gasolina,93573
+2017,PIAUI,onibus,diesel,6958
+2017,PIAUI,utilitario,eletrico,1
+2017,PIAUI,utilitario,flex,6134
+2017,PIAUI,utilitario,gasolina,0
+2017,RIO DE JANEIRO,automovel,alcool,308584
+2017,RIO DE JANEIRO,automovel,eletrico,380
+2017,RIO DE JANEIRO,automovel,flex,1927898
+2017,RIO DE JANEIRO,automovel,gasolina,938652
+2017,RIO DE JANEIRO,automovel,gnv,1195547
+2017,RIO DE JANEIRO,caminhao,diesel,142970
+2017,RIO DE JANEIRO,caminhaotrator,diesel,17697
+2017,RIO DE JANEIRO,caminhonete,diesel,46755
+2017,RIO DE JANEIRO,caminhonete,eletrico,25
+2017,RIO DE JANEIRO,caminhonete,gasolina,241201
+2017,RIO DE JANEIRO,camioneta,diesel,53945
+2017,RIO DE JANEIRO,camioneta,eletrico,29
+2017,RIO DE JANEIRO,camioneta,gasolina,278290
+2017,RIO DE JANEIRO,microonibus,diesel,38594
+2017,RIO DE JANEIRO,motocicleta,gasolina,908955
+2017,RIO DE JANEIRO,motoneta,gasolina,161207
+2017,RIO DE JANEIRO,onibus,diesel,46702
+2017,RIO DE JANEIRO,utilitario,eletrico,5
+2017,RIO DE JANEIRO,utilitario,flex,23279
+2017,RIO DE JANEIRO,utilitario,gasolina,29497
+2017,RIO GRANDE DO NORTE,automovel,alcool,30063
+2017,RIO GRANDE DO NORTE,automovel,eletrico,19
+2017,RIO GRANDE DO NORTE,automovel,flex,413432
+2017,RIO GRANDE DO NORTE,automovel,gasolina,30782
+2017,RIO GRANDE DO NORTE,automovel,gnv,47872
+2017,RIO GRANDE DO NORTE,caminhao,diesel,31929
+2017,RIO GRANDE DO NORTE,caminhaotrator,diesel,3274
+2017,RIO GRANDE DO NORTE,caminhonete,diesel,26953
+2017,RIO GRANDE DO NORTE,caminhonete,eletrico,3
+2017,RIO GRANDE DO NORTE,caminhonete,gasolina,45706
+2017,RIO GRANDE DO NORTE,camioneta,diesel,13691
+2017,RIO GRANDE DO NORTE,camioneta,eletrico,1
+2017,RIO GRANDE DO NORTE,camioneta,gasolina,23218
+2017,RIO GRANDE DO NORTE,microonibus,diesel,4969
+2017,RIO GRANDE DO NORTE,motocicleta,gasolina,417646
+2017,RIO GRANDE DO NORTE,motoneta,gasolina,57147
+2017,RIO GRANDE DO NORTE,onibus,diesel,6818
+2017,RIO GRANDE DO NORTE,utilitario,eletrico,1
+2017,RIO GRANDE DO NORTE,utilitario,flex,10724
+2017,RIO GRANDE DO NORTE,utilitario,gasolina,2820
+2017,RIO GRANDE DO SUL,automovel,alcool,197088
+2017,RIO GRANDE DO SUL,automovel,eletrico,374
+2017,RIO GRANDE DO SUL,automovel,flex,2012653
+2017,RIO GRANDE DO SUL,automovel,gasolina,1840269
+2017,RIO GRANDE DO SUL,automovel,gnv,63615
+2017,RIO GRANDE DO SUL,caminhao,diesel,221906
+2017,RIO GRANDE DO SUL,caminhaotrator,diesel,59673
+2017,RIO GRANDE DO SUL,caminhonete,diesel,137430
+2017,RIO GRANDE DO SUL,caminhonete,eletrico,42
+2017,RIO GRANDE DO SUL,caminhonete,gasolina,321134
+2017,RIO GRANDE DO SUL,camioneta,diesel,85292
+2017,RIO GRANDE DO SUL,camioneta,eletrico,26
+2017,RIO GRANDE DO SUL,camioneta,gasolina,199301
+2017,RIO GRANDE DO SUL,microonibus,diesel,19878
+2017,RIO GRANDE DO SUL,motocicleta,gasolina,1042301
+2017,RIO GRANDE DO SUL,motoneta,gasolina,184021
+2017,RIO GRANDE DO SUL,onibus,diesel,40679
+2017,RIO GRANDE DO SUL,utilitario,eletrico,4
+2017,RIO GRANDE DO SUL,utilitario,flex,24056
+2017,RIO GRANDE DO SUL,utilitario,gasolina,25111
+2017,RONDONIA,automovel,alcool,10356
+2017,RONDONIA,automovel,eletrico,30
+2017,RONDONIA,automovel,flex,251426
+2017,RONDONIA,automovel,gasolina,0
+2017,RONDONIA,automovel,gnv,80
+2017,RONDONIA,caminhao,diesel,30254
+2017,RONDONIA,caminhaotrator,diesel,6381
+2017,RONDONIA,caminhonete,diesel,34976
+2017,RONDONIA,caminhonete,eletrico,9
+2017,RONDONIA,caminhonete,gasolina,43613
+2017,RONDONIA,camioneta,diesel,8428
+2017,RONDONIA,camioneta,eletrico,2
+2017,RONDONIA,camioneta,gasolina,10510
+2017,RONDONIA,microonibus,diesel,1183
+2017,RONDONIA,motocicleta,gasolina,379789
+2017,RONDONIA,motoneta,gasolina,113549
+2017,RONDONIA,onibus,diesel,5888
+2017,RONDONIA,utilitario,eletrico,0
+2017,RONDONIA,utilitario,flex,3129
+2017,RONDONIA,utilitario,gasolina,0
+2017,RORAIMA,automovel,alcool,1444
+2017,RORAIMA,automovel,eletrico,15
+2017,RORAIMA,automovel,flex,66970
+2017,RORAIMA,automovel,gasolina,0
+2017,RORAIMA,automovel,gnv,43
+2017,RORAIMA,caminhao,diesel,4658
+2017,RORAIMA,caminhaotrator,diesel,737
+2017,RORAIMA,caminhonete,diesel,7409
+2017,RORAIMA,caminhonete,eletrico,5
+2017,RORAIMA,caminhonete,gasolina,12952
+2017,RORAIMA,camioneta,diesel,3176
+2017,RORAIMA,camioneta,eletrico,2
+2017,RORAIMA,camioneta,gasolina,5552
+2017,RORAIMA,microonibus,diesel,682
+2017,RORAIMA,motocicleta,gasolina,77650
+2017,RORAIMA,motoneta,gasolina,19066
+2017,RORAIMA,onibus,diesel,1040
+2017,RORAIMA,utilitario,eletrico,0
+2017,RORAIMA,utilitario,flex,1103
+2017,RORAIMA,utilitario,gasolina,0
+2017,SANTA CATARINA,automovel,alcool,132693
+2017,SANTA CATARINA,automovel,eletrico,359
+2017,SANTA CATARINA,automovel,flex,1740531
+2017,SANTA CATARINA,automovel,gasolina,811243
+2017,SANTA CATARINA,automovel,gnv,91817
+2017,SANTA CATARINA,caminhao,diesel,147248
+2017,SANTA CATARINA,caminhaotrator,diesel,51457
+2017,SANTA CATARINA,caminhonete,diesel,84740
+2017,SANTA CATARINA,caminhonete,eletrico,38
+2017,SANTA CATARINA,caminhonete,gasolina,206538
+2017,SANTA CATARINA,camioneta,diesel,69029
+2017,SANTA CATARINA,camioneta,eletrico,31
+2017,SANTA CATARINA,camioneta,gasolina,168248
+2017,SANTA CATARINA,microonibus,diesel,11968
+2017,SANTA CATARINA,motocicleta,gasolina,840221
+2017,SANTA CATARINA,motoneta,gasolina,263508
+2017,SANTA CATARINA,onibus,diesel,18797
+2017,SANTA CATARINA,utilitario,eletrico,6
+2017,SANTA CATARINA,utilitario,flex,29727
+2017,SANTA CATARINA,utilitario,gasolina,17690
+2017,SAO PAULO,automovel,alcool,1835425
+2017,SAO PAULO,automovel,eletrico,2717
+2017,SAO PAULO,automovel,flex,9618519
+2017,SAO PAULO,automovel,gasolina,5815130
+2017,SAO PAULO,automovel,gnv,276054
+2017,SAO PAULO,caminhao,diesel,659990
+2017,SAO PAULO,caminhaotrator,diesel,175201
+2017,SAO PAULO,caminhonete,diesel,314736
+2017,SAO PAULO,caminhonete,eletrico,245
+2017,SAO PAULO,caminhonete,gasolina,1268437
+2017,SAO PAULO,camioneta,diesel,272409
+2017,SAO PAULO,camioneta,eletrico,212
+2017,SAO PAULO,camioneta,gasolina,1097852
+2017,SAO PAULO,microonibus,diesel,116008
+2017,SAO PAULO,motocicleta,gasolina,4422647
+2017,SAO PAULO,motoneta,gasolina,848193
+2017,SAO PAULO,onibus,diesel,158169
+2017,SAO PAULO,utilitario,eletrico,36
+2017,SAO PAULO,utilitario,flex,127127
+2017,SAO PAULO,utilitario,gasolina,104766
+2017,SERGIPE,automovel,alcool,18453
+2017,SERGIPE,automovel,eletrico,29
+2017,SERGIPE,automovel,flex,273725
+2017,SERGIPE,automovel,gasolina,0
+2017,SERGIPE,automovel,gnv,21178
+2017,SERGIPE,caminhao,diesel,20810
+2017,SERGIPE,caminhaotrator,diesel,2462
+2017,SERGIPE,caminhonete,diesel,13764
+2017,SERGIPE,caminhonete,eletrico,4
+2017,SERGIPE,caminhonete,gasolina,27124
+2017,SERGIPE,camioneta,diesel,4725
+2017,SERGIPE,camioneta,eletrico,1
+2017,SERGIPE,camioneta,gasolina,9313
+2017,SERGIPE,microonibus,diesel,3465
+2017,SERGIPE,motocicleta,gasolina,237975
+2017,SERGIPE,motoneta,gasolina,40584
+2017,SERGIPE,onibus,diesel,6813
+2017,SERGIPE,utilitario,eletrico,0
+2017,SERGIPE,utilitario,flex,3524
+2017,SERGIPE,utilitario,gasolina,504
+2017,TOCANTINS,automovel,alcool,10888
+2017,TOCANTINS,automovel,eletrico,21
+2017,TOCANTINS,automovel,flex,187741
+2017,TOCANTINS,automovel,gasolina,0
+2017,TOCANTINS,automovel,gnv,250
+2017,TOCANTINS,caminhao,diesel,22127
+2017,TOCANTINS,caminhaotrator,diesel,4813
+2017,TOCANTINS,caminhonete,diesel,24781
+2017,TOCANTINS,caminhonete,eletrico,6
+2017,TOCANTINS,caminhonete,gasolina,28358
+2017,TOCANTINS,camioneta,diesel,8316
+2017,TOCANTINS,camioneta,eletrico,2
+2017,TOCANTINS,camioneta,gasolina,9515
+2017,TOCANTINS,microonibus,diesel,1538
+2017,TOCANTINS,motocicleta,gasolina,223248
+2017,TOCANTINS,motoneta,gasolina,91184
+2017,TOCANTINS,onibus,diesel,5400
+2017,TOCANTINS,utilitario,eletrico,0
+2017,TOCANTINS,utilitario,flex,3166
+2017,TOCANTINS,utilitario,gasolina,0
+2018,ACRE,automovel,alcool,3614
+2018,ACRE,automovel,eletrico,20
+2018,ACRE,automovel,flex,81771
+2018,ACRE,automovel,gasolina,0
+2018,ACRE,automovel,gnv,16
+2018,ACRE,caminhao,diesel,7165
+2018,ACRE,caminhaotrator,diesel,884
+2018,ACRE,caminhonete,diesel,12421
+2018,ACRE,caminhonete,eletrico,6
+2018,ACRE,caminhonete,gasolina,11493
+2018,ACRE,camioneta,diesel,3262
+2018,ACRE,camioneta,eletrico,2
+2018,ACRE,camioneta,gasolina,3019
+2018,ACRE,microonibus,diesel,358
+2018,ACRE,motocicleta,gasolina,115670
+2018,ACRE,motoneta,gasolina,24161
+2018,ACRE,onibus,diesel,1152
+2018,ACRE,utilitario,eletrico,0
+2018,ACRE,utilitario,flex,1273
+2018,ACRE,utilitario,gasolina,0
+2018,ALAGOAS,automovel,alcool,24121
+2018,ALAGOAS,automovel,eletrico,20
+2018,ALAGOAS,automovel,flex,306173
+2018,ALAGOAS,automovel,gasolina,0
+2018,ALAGOAS,automovel,gnv,19854
+2018,ALAGOAS,caminhao,diesel,21178
+2018,ALAGOAS,caminhaotrator,diesel,2502
+2018,ALAGOAS,caminhonete,diesel,16912
+2018,ALAGOAS,caminhonete,eletrico,3
+2018,ALAGOAS,caminhonete,gasolina,31082
+2018,ALAGOAS,camioneta,diesel,9008
+2018,ALAGOAS,camioneta,eletrico,1
+2018,ALAGOAS,camioneta,gasolina,16557
+2018,ALAGOAS,microonibus,diesel,6550
+2018,ALAGOAS,motocicleta,gasolina,281898
+2018,ALAGOAS,motoneta,gasolina,39467
+2018,ALAGOAS,onibus,diesel,7598
+2018,ALAGOAS,utilitario,eletrico,0
+2018,ALAGOAS,utilitario,flex,5516
+2018,ALAGOAS,utilitario,gasolina,188
+2018,AMAPA,automovel,alcool,1440
+2018,AMAPA,automovel,eletrico,13
+2018,AMAPA,automovel,flex,77204
+2018,AMAPA,automovel,gasolina,0
+2018,AMAPA,automovel,gnv,12
+2018,AMAPA,caminhao,diesel,4002
+2018,AMAPA,caminhaotrator,diesel,385
+2018,AMAPA,caminhonete,diesel,5453
+2018,AMAPA,caminhonete,eletrico,3
+2018,AMAPA,caminhonete,gasolina,13749
+2018,AMAPA,camioneta,diesel,1837
+2018,AMAPA,camioneta,eletrico,1
+2018,AMAPA,camioneta,gasolina,4630
+2018,AMAPA,microonibus,diesel,428
+2018,AMAPA,motocicleta,gasolina,64403
+2018,AMAPA,motoneta,gasolina,11660
+2018,AMAPA,onibus,diesel,1251
+2018,AMAPA,utilitario,eletrico,0
+2018,AMAPA,utilitario,flex,933
+2018,AMAPA,utilitario,gasolina,0
+2018,AMAZONAS,automovel,alcool,16193
+2018,AMAZONAS,automovel,eletrico,88
+2018,AMAZONAS,automovel,flex,369406
+2018,AMAZONAS,automovel,gasolina,0
+2018,AMAZONAS,automovel,gnv,2051
+2018,AMAZONAS,caminhao,diesel,19675
+2018,AMAZONAS,caminhaotrator,diesel,3311
+2018,AMAZONAS,caminhonete,diesel,19993
+2018,AMAZONAS,caminhonete,eletrico,18
+2018,AMAZONAS,caminhonete,gasolina,57866
+2018,AMAZONAS,camioneta,diesel,8880
+2018,AMAZONAS,camioneta,eletrico,8
+2018,AMAZONAS,camioneta,gasolina,25703
+2018,AMAZONAS,microonibus,diesel,3537
+2018,AMAZONAS,motocicleta,gasolina,251927
+2018,AMAZONAS,motoneta,gasolina,56162
+2018,AMAZONAS,onibus,diesel,8895
+2018,AMAZONAS,utilitario,eletrico,1
+2018,AMAZONAS,utilitario,flex,4906
+2018,AMAZONAS,utilitario,gasolina,183
+2018,BAHIA,automovel,alcool,99404
+2018,BAHIA,automovel,eletrico,304
+2018,BAHIA,automovel,flex,1606841
+2018,BAHIA,automovel,gasolina,39829
+2018,BAHIA,automovel,gnv,53127
+2018,BAHIA,caminhao,diesel,117336
+2018,BAHIA,caminhaotrator,diesel,20852
+2018,BAHIA,caminhonete,diesel,98788
+2018,BAHIA,caminhonete,eletrico,57
+2018,BAHIA,caminhonete,gasolina,236005
+2018,BAHIA,camioneta,diesel,37184
+2018,BAHIA,camioneta,eletrico,21
+2018,BAHIA,camioneta,gasolina,88832
+2018,BAHIA,microonibus,diesel,29367
+2018,BAHIA,motocicleta,gasolina,1275292
+2018,BAHIA,motoneta,gasolina,188968
+2018,BAHIA,onibus,diesel,39549
+2018,BAHIA,utilitario,eletrico,5
+2018,BAHIA,utilitario,flex,25411
+2018,BAHIA,utilitario,gasolina,3042
+2018,CEARA,automovel,alcool,60886
+2018,CEARA,automovel,eletrico,142
+2018,CEARA,automovel,flex,1010559
+2018,CEARA,automovel,gasolina,0
+2018,CEARA,automovel,gnv,47741
+2018,CEARA,caminhao,diesel,72861
+2018,CEARA,caminhaotrator,diesel,8810
+2018,CEARA,caminhonete,diesel,87539
+2018,CEARA,caminhonete,eletrico,23
+2018,CEARA,caminhonete,gasolina,97437
+2018,CEARA,camioneta,diesel,31458
+2018,CEARA,camioneta,eletrico,8
+2018,CEARA,camioneta,gasolina,35014
+2018,CEARA,microonibus,diesel,12468
+2018,CEARA,motocicleta,gasolina,1356639
+2018,CEARA,motoneta,gasolina,162746
+2018,CEARA,onibus,diesel,17521
+2018,CEARA,utilitario,eletrico,4
+2018,CEARA,utilitario,flex,31152
+2018,CEARA,utilitario,gasolina,0
+2018,DISTRITO FEDERAL,automovel,alcool,57905
+2018,DISTRITO FEDERAL,automovel,eletrico,396
+2018,DISTRITO FEDERAL,automovel,flex,902591
+2018,DISTRITO FEDERAL,automovel,gasolina,302547
+2018,DISTRITO FEDERAL,automovel,gnv,1569
+2018,DISTRITO FEDERAL,caminhao,diesel,23763
+2018,DISTRITO FEDERAL,caminhaotrator,diesel,3326
+2018,DISTRITO FEDERAL,caminhonete,diesel,32966
+2018,DISTRITO FEDERAL,caminhonete,eletrico,35
+2018,DISTRITO FEDERAL,caminhonete,gasolina,79650
+2018,DISTRITO FEDERAL,camioneta,diesel,28283
+2018,DISTRITO FEDERAL,camioneta,eletrico,30
+2018,DISTRITO FEDERAL,camioneta,gasolina,68337
+2018,DISTRITO FEDERAL,microonibus,diesel,5797
+2018,DISTRITO FEDERAL,motocicleta,gasolina,186643
+2018,DISTRITO FEDERAL,motoneta,gasolina,19155
+2018,DISTRITO FEDERAL,onibus,diesel,12456
+2018,DISTRITO FEDERAL,utilitario,eletrico,8
+2018,DISTRITO FEDERAL,utilitario,flex,18561
+2018,DISTRITO FEDERAL,utilitario,gasolina,7444
+2018,ESPIRITO SANTO,automovel,alcool,53214
+2018,ESPIRITO SANTO,automovel,eletrico,224
+2018,ESPIRITO SANTO,automovel,flex,722174
+2018,ESPIRITO SANTO,automovel,gasolina,127088
+2018,ESPIRITO SANTO,automovel,gnv,34329
+2018,ESPIRITO SANTO,caminhao,diesel,72470
+2018,ESPIRITO SANTO,caminhaotrator,diesel,18131
+2018,ESPIRITO SANTO,caminhonete,diesel,47319
+2018,ESPIRITO SANTO,caminhonete,eletrico,36
+2018,ESPIRITO SANTO,caminhonete,gasolina,102215
+2018,ESPIRITO SANTO,camioneta,diesel,25513
+2018,ESPIRITO SANTO,camioneta,eletrico,19
+2018,ESPIRITO SANTO,camioneta,gasolina,55112
+2018,ESPIRITO SANTO,microonibus,diesel,8105
+2018,ESPIRITO SANTO,motocicleta,gasolina,439620
+2018,ESPIRITO SANTO,motoneta,gasolina,106061
+2018,ESPIRITO SANTO,onibus,diesel,14610
+2018,ESPIRITO SANTO,utilitario,eletrico,4
+2018,ESPIRITO SANTO,utilitario,flex,14466
+2018,ESPIRITO SANTO,utilitario,gasolina,4299
+2018,GOIAS,automovel,alcool,159592
+2018,GOIAS,automovel,eletrico,198
+2018,GOIAS,automovel,flex,1358360
+2018,GOIAS,automovel,gasolina,291845
+2018,GOIAS,automovel,gnv,4510
+2018,GOIAS,caminhao,diesel,109898
+2018,GOIAS,caminhaotrator,diesel,30697
+2018,GOIAS,caminhonete,diesel,120747
+2018,GOIAS,caminhonete,eletrico,39
+2018,GOIAS,caminhonete,gasolina,237594
+2018,GOIAS,camioneta,diesel,30097
+2018,GOIAS,camioneta,eletrico,10
+2018,GOIAS,camioneta,gasolina,59221
+2018,GOIAS,microonibus,diesel,9833
+2018,GOIAS,motocicleta,gasolina,868303
+2018,GOIAS,motoneta,gasolina,275586
+2018,GOIAS,onibus,diesel,22703
+2018,GOIAS,utilitario,eletrico,3
+2018,GOIAS,utilitario,flex,18055
+2018,GOIAS,utilitario,gasolina,6061
+2018,MARANHAO,automovel,alcool,13797
+2018,MARANHAO,automovel,eletrico,96
+2018,MARANHAO,automovel,flex,413151
+2018,MARANHAO,automovel,gasolina,0
+2018,MARANHAO,automovel,gnv,266
+2018,MARANHAO,caminhao,diesel,40705
+2018,MARANHAO,caminhaotrator,diesel,4710
+2018,MARANHAO,caminhonete,diesel,50017
+2018,MARANHAO,caminhonete,eletrico,25
+2018,MARANHAO,caminhonete,gasolina,60448
+2018,MARANHAO,camioneta,diesel,13089
+2018,MARANHAO,camioneta,eletrico,6
+2018,MARANHAO,camioneta,gasolina,15818
+2018,MARANHAO,microonibus,diesel,4910
+2018,MARANHAO,motocicleta,gasolina,852414
+2018,MARANHAO,motoneta,gasolina,146602
+2018,MARANHAO,onibus,diesel,9018
+2018,MARANHAO,utilitario,eletrico,2
+2018,MARANHAO,utilitario,flex,9825
+2018,MARANHAO,utilitario,gasolina,0
+2018,MATO GROSSO,automovel,alcool,48185
+2018,MATO GROSSO,automovel,eletrico,224
+2018,MATO GROSSO,automovel,flex,651910
+2018,MATO GROSSO,automovel,gasolina,0
+2018,MATO GROSSO,automovel,gnv,1374
+2018,MATO GROSSO,caminhao,diesel,70190
+2018,MATO GROSSO,caminhaotrator,diesel,33835
+2018,MATO GROSSO,caminhonete,diesel,90121
+2018,MATO GROSSO,caminhonete,eletrico,69
+2018,MATO GROSSO,caminhonete,gasolina,124900
+2018,MATO GROSSO,camioneta,diesel,17637
+2018,MATO GROSSO,camioneta,eletrico,13
+2018,MATO GROSSO,camioneta,gasolina,24443
+2018,MATO GROSSO,microonibus,diesel,3492
+2018,MATO GROSSO,motocicleta,gasolina,611981
+2018,MATO GROSSO,motoneta,gasolina,221559
+2018,MATO GROSSO,onibus,diesel,11750
+2018,MATO GROSSO,utilitario,eletrico,5
+2018,MATO GROSSO,utilitario,flex,14638
+2018,MATO GROSSO,utilitario,gasolina,0
+2018,MATO GROSSO DO SUL,automovel,alcool,53858
+2018,MATO GROSSO DO SUL,automovel,eletrico,96
+2018,MATO GROSSO DO SUL,automovel,flex,539227
+2018,MATO GROSSO DO SUL,automovel,gasolina,122758
+2018,MATO GROSSO DO SUL,automovel,gnv,5249
+2018,MATO GROSSO DO SUL,caminhao,diesel,51644
+2018,MATO GROSSO DO SUL,caminhaotrator,diesel,17577
+2018,MATO GROSSO DO SUL,caminhonete,diesel,65670
+2018,MATO GROSSO DO SUL,caminhonete,eletrico,22
+2018,MATO GROSSO DO SUL,caminhonete,gasolina,96589
+2018,MATO GROSSO DO SUL,camioneta,diesel,13528
+2018,MATO GROSSO DO SUL,camioneta,eletrico,4
+2018,MATO GROSSO DO SUL,camioneta,gasolina,19897
+2018,MATO GROSSO DO SUL,microonibus,diesel,3788
+2018,MATO GROSSO DO SUL,motocicleta,gasolina,364562
+2018,MATO GROSSO DO SUL,motoneta,gasolina,109302
+2018,MATO GROSSO DO SUL,onibus,diesel,9731
+2018,MATO GROSSO DO SUL,utilitario,eletrico,2
+2018,MATO GROSSO DO SUL,utilitario,flex,9300
+2018,MATO GROSSO DO SUL,utilitario,gasolina,3136
+2018,MINAS GERAIS,automovel,alcool,435187
+2018,MINAS GERAIS,automovel,eletrico,650
+2018,MINAS GERAIS,automovel,flex,4149327
+2018,MINAS GERAIS,automovel,gasolina,1402395
+2018,MINAS GERAIS,automovel,gnv,33307
+2018,MINAS GERAIS,caminhao,diesel,330268
+2018,MINAS GERAIS,caminhaotrator,diesel,70603
+2018,MINAS GERAIS,caminhonete,diesel,222709
+2018,MINAS GERAIS,caminhonete,eletrico,100
+2018,MINAS GERAIS,caminhonete,gasolina,700683
+2018,MINAS GERAIS,camioneta,diesel,72434
+2018,MINAS GERAIS,camioneta,eletrico,32
+2018,MINAS GERAIS,camioneta,gasolina,227893
+2018,MINAS GERAIS,microonibus,diesel,46368
+2018,MINAS GERAIS,motocicleta,gasolina,2485738
+2018,MINAS GERAIS,motoneta,gasolina,288291
+2018,MINAS GERAIS,onibus,diesel,76148
+2018,MINAS GERAIS,utilitario,eletrico,7
+2018,MINAS GERAIS,utilitario,flex,46963
+2018,MINAS GERAIS,utilitario,gasolina,21175
+2018,PARA,automovel,alcool,23852
+2018,PARA,automovel,eletrico,113
+2018,PARA,automovel,flex,561309
+2018,PARA,automovel,gasolina,0
+2018,PARA,automovel,gnv,363
+2018,PARA,caminhao,diesel,61089
+2018,PARA,caminhaotrator,diesel,8651
+2018,PARA,caminhonete,diesel,66521
+2018,PARA,caminhonete,eletrico,27
+2018,PARA,caminhonete,gasolina,75845
+2018,PARA,camioneta,diesel,19105
+2018,PARA,camioneta,eletrico,8
+2018,PARA,camioneta,gasolina,21784
+2018,PARA,microonibus,diesel,6534
+2018,PARA,motocicleta,gasolina,857304
+2018,PARA,motoneta,gasolina,188216
+2018,PARA,onibus,diesel,18424
+2018,PARA,utilitario,eletrico,3
+2018,PARA,utilitario,flex,13071
+2018,PARA,utilitario,gasolina,0
+2018,PARAIBA,automovel,alcool,29292
+2018,PARAIBA,automovel,eletrico,46
+2018,PARAIBA,automovel,flex,466014
+2018,PARAIBA,automovel,gasolina,0
+2018,PARAIBA,automovel,gnv,22732
+2018,PARAIBA,caminhao,diesel,28750
+2018,PARAIBA,caminhaotrator,diesel,2752
+2018,PARAIBA,caminhonete,diesel,27957
+2018,PARAIBA,caminhonete,eletrico,6
+2018,PARAIBA,caminhonete,gasolina,44299
+2018,PARAIBA,camioneta,diesel,14249
+2018,PARAIBA,camioneta,eletrico,3
+2018,PARAIBA,camioneta,gasolina,22577
+2018,PARAIBA,microonibus,diesel,4721
+2018,PARAIBA,motocicleta,gasolina,481565
+2018,PARAIBA,motoneta,gasolina,66529
+2018,PARAIBA,onibus,diesel,7605
+2018,PARAIBA,utilitario,eletrico,1
+2018,PARAIBA,utilitario,flex,9632
+2018,PARAIBA,utilitario,gasolina,414
+2018,PARANA,automovel,alcool,418932
+2018,PARANA,automovel,eletrico,767
+2018,PARANA,automovel,flex,2493423
+2018,PARANA,automovel,gasolina,1399804
+2018,PARANA,automovel,gnv,38756
+2018,PARANA,caminhao,diesel,266224
+2018,PARANA,caminhaotrator,diesel,94017
+2018,PARANA,caminhonete,diesel,185955
+2018,PARANA,caminhonete,eletrico,108
+2018,PARANA,caminhonete,gasolina,428867
+2018,PARANA,camioneta,diesel,82247
+2018,PARANA,camioneta,eletrico,48
+2018,PARANA,camioneta,gasolina,189687
+2018,PARANA,microonibus,diesel,22829
+2018,PARANA,motocicleta,gasolina,1138945
+2018,PARANA,motoneta,gasolina,289863
+2018,PARANA,onibus,diesel,42298
+2018,PARANA,utilitario,eletrico,10
+2018,PARANA,utilitario,flex,33032
+2018,PARANA,utilitario,gasolina,24607
+2018,PERNAMBUCO,automovel,alcool,93968
+2018,PERNAMBUCO,automovel,eletrico,202
+2018,PERNAMBUCO,automovel,flex,1160407
+2018,PERNAMBUCO,automovel,gasolina,0
+2018,PERNAMBUCO,automovel,gnv,51647
+2018,PERNAMBUCO,caminhao,diesel,92049
+2018,PERNAMBUCO,caminhaotrator,diesel,12488
+2018,PERNAMBUCO,caminhonete,diesel,52417
+2018,PERNAMBUCO,caminhonete,eletrico,25
+2018,PERNAMBUCO,caminhonete,gasolina,110655
+2018,PERNAMBUCO,camioneta,diesel,32834
+2018,PERNAMBUCO,camioneta,eletrico,16
+2018,PERNAMBUCO,camioneta,gasolina,69313
+2018,PERNAMBUCO,microonibus,diesel,18792
+2018,PERNAMBUCO,motocicleta,gasolina,1028923
+2018,PERNAMBUCO,motoneta,gasolina,104946
+2018,PERNAMBUCO,onibus,diesel,19832
+2018,PERNAMBUCO,utilitario,eletrico,3
+2018,PERNAMBUCO,utilitario,flex,17884
+2018,PERNAMBUCO,utilitario,gasolina,1882
+2018,PIAUI,automovel,alcool,18484
+2018,PIAUI,automovel,eletrico,60
+2018,PIAUI,automovel,flex,328321
+2018,PIAUI,automovel,gasolina,0
+2018,PIAUI,automovel,gnv,704
+2018,PIAUI,caminhao,diesel,29260
+2018,PIAUI,caminhaotrator,diesel,2660
+2018,PIAUI,caminhonete,diesel,35384
+2018,PIAUI,caminhonete,eletrico,13
+2018,PIAUI,caminhonete,gasolina,42611
+2018,PIAUI,camioneta,diesel,14349
+2018,PIAUI,camioneta,eletrico,5
+2018,PIAUI,camioneta,gasolina,17279
+2018,PIAUI,microonibus,diesel,3821
+2018,PIAUI,motocicleta,gasolina,550264
+2018,PIAUI,motoneta,gasolina,97362
+2018,PIAUI,onibus,diesel,7629
+2018,PIAUI,utilitario,eletrico,1
+2018,PIAUI,utilitario,flex,6980
+2018,PIAUI,utilitario,gasolina,0
+2018,RIO DE JANEIRO,automovel,alcool,308330
+2018,RIO DE JANEIRO,automovel,eletrico,628
+2018,RIO DE JANEIRO,automovel,flex,1971128
+2018,RIO DE JANEIRO,automovel,gasolina,887802
+2018,RIO DE JANEIRO,automovel,gnv,1305001
+2018,RIO DE JANEIRO,caminhao,diesel,143696
+2018,RIO DE JANEIRO,caminhaotrator,diesel,18016
+2018,RIO DE JANEIRO,caminhonete,diesel,49047
+2018,RIO DE JANEIRO,caminhonete,eletrico,42
+2018,RIO DE JANEIRO,caminhonete,gasolina,250134
+2018,RIO DE JANEIRO,camioneta,diesel,55815
+2018,RIO DE JANEIRO,camioneta,eletrico,48
+2018,RIO DE JANEIRO,camioneta,gasolina,284655
+2018,RIO DE JANEIRO,microonibus,diesel,38540
+2018,RIO DE JANEIRO,motocicleta,gasolina,937862
+2018,RIO DE JANEIRO,motoneta,gasolina,167702
+2018,RIO DE JANEIRO,onibus,diesel,45407
+2018,RIO DE JANEIRO,utilitario,eletrico,8
+2018,RIO DE JANEIRO,utilitario,flex,24981
+2018,RIO DE JANEIRO,utilitario,gasolina,31698
+2018,RIO GRANDE DO NORTE,automovel,alcool,30116
+2018,RIO GRANDE DO NORTE,automovel,eletrico,51
+2018,RIO GRANDE DO NORTE,automovel,flex,445956
+2018,RIO GRANDE DO NORTE,automovel,gasolina,20504
+2018,RIO GRANDE DO NORTE,automovel,gnv,49262
+2018,RIO GRANDE DO NORTE,caminhao,diesel,33328
+2018,RIO GRANDE DO NORTE,caminhaotrator,diesel,3468
+2018,RIO GRANDE DO NORTE,caminhonete,diesel,29332
+2018,RIO GRANDE DO NORTE,caminhonete,eletrico,7
+2018,RIO GRANDE DO NORTE,caminhonete,gasolina,48131
+2018,RIO GRANDE DO NORTE,camioneta,diesel,14569
+2018,RIO GRANDE DO NORTE,camioneta,eletrico,4
+2018,RIO GRANDE DO NORTE,camioneta,gasolina,23907
+2018,RIO GRANDE DO NORTE,microonibus,diesel,5074
+2018,RIO GRANDE DO NORTE,motocicleta,gasolina,433283
+2018,RIO GRANDE DO NORTE,motoneta,gasolina,59763
+2018,RIO GRANDE DO NORTE,onibus,diesel,7185
+2018,RIO GRANDE DO NORTE,utilitario,eletrico,1
+2018,RIO GRANDE DO NORTE,utilitario,flex,12374
+2018,RIO GRANDE DO NORTE,utilitario,gasolina,2771
+2018,RIO GRANDE DO SUL,automovel,alcool,196798
+2018,RIO GRANDE DO SUL,automovel,eletrico,595
+2018,RIO GRANDE DO SUL,automovel,flex,2158959
+2018,RIO GRANDE DO SUL,automovel,gasolina,1810663
+2018,RIO GRANDE DO SUL,automovel,gnv,68441
+2018,RIO GRANDE DO SUL,caminhao,diesel,225774
+2018,RIO GRANDE DO SUL,caminhaotrator,diesel,61438
+2018,RIO GRANDE DO SUL,caminhonete,diesel,148008
+2018,RIO GRANDE DO SUL,caminhonete,eletrico,68
+2018,RIO GRANDE DO SUL,caminhonete,gasolina,338469
+2018,RIO GRANDE DO SUL,camioneta,diesel,91406
+2018,RIO GRANDE DO SUL,camioneta,eletrico,42
+2018,RIO GRANDE DO SUL,camioneta,gasolina,209028
+2018,RIO GRANDE DO SUL,microonibus,diesel,20268
+2018,RIO GRANDE DO SUL,motocicleta,gasolina,1063815
+2018,RIO GRANDE DO SUL,motoneta,gasolina,188579
+2018,RIO GRANDE DO SUL,onibus,diesel,41270
+2018,RIO GRANDE DO SUL,utilitario,eletrico,8
+2018,RIO GRANDE DO SUL,utilitario,flex,28514
+2018,RIO GRANDE DO SUL,utilitario,gasolina,27417
+2018,RONDONIA,automovel,alcool,10400
+2018,RONDONIA,automovel,eletrico,40
+2018,RONDONIA,automovel,flex,264710
+2018,RONDONIA,automovel,gasolina,0
+2018,RONDONIA,automovel,gnv,87
+2018,RONDONIA,caminhao,diesel,30818
+2018,RONDONIA,caminhaotrator,diesel,6793
+2018,RONDONIA,caminhonete,diesel,37754
+2018,RONDONIA,caminhonete,eletrico,12
+2018,RONDONIA,caminhonete,gasolina,46562
+2018,RONDONIA,camioneta,diesel,8647
+2018,RONDONIA,camioneta,eletrico,3
+2018,RONDONIA,camioneta,gasolina,10665
+2018,RONDONIA,microonibus,diesel,1231
+2018,RONDONIA,motocicleta,gasolina,391508
+2018,RONDONIA,motoneta,gasolina,118149
+2018,RONDONIA,onibus,diesel,6103
+2018,RONDONIA,utilitario,eletrico,1
+2018,RONDONIA,utilitario,flex,3536
+2018,RONDONIA,utilitario,gasolina,0
+2018,RORAIMA,automovel,alcool,1448
+2018,RORAIMA,automovel,eletrico,18
+2018,RORAIMA,automovel,flex,70579
+2018,RORAIMA,automovel,gasolina,0
+2018,RORAIMA,automovel,gnv,47
+2018,RORAIMA,caminhao,diesel,4918
+2018,RORAIMA,caminhaotrator,diesel,823
+2018,RORAIMA,caminhonete,diesel,8186
+2018,RORAIMA,caminhonete,eletrico,6
+2018,RORAIMA,caminhonete,gasolina,14238
+2018,RORAIMA,camioneta,diesel,3274
+2018,RORAIMA,camioneta,eletrico,2
+2018,RORAIMA,camioneta,gasolina,5693
+2018,RORAIMA,microonibus,diesel,703
+2018,RORAIMA,motocicleta,gasolina,79924
+2018,RORAIMA,motoneta,gasolina,19600
+2018,RORAIMA,onibus,diesel,1123
+2018,RORAIMA,utilitario,eletrico,0
+2018,RORAIMA,utilitario,flex,1214
+2018,RORAIMA,utilitario,gasolina,0
+2018,SANTA CATARINA,automovel,alcool,132633
+2018,SANTA CATARINA,automovel,eletrico,585
+2018,SANTA CATARINA,automovel,flex,1873398
+2018,SANTA CATARINA,automovel,gasolina,775931
+2018,SANTA CATARINA,automovel,gnv,97038
+2018,SANTA CATARINA,caminhao,diesel,149632
+2018,SANTA CATARINA,caminhaotrator,diesel,53200
+2018,SANTA CATARINA,caminhonete,diesel,93366
+2018,SANTA CATARINA,caminhonete,eletrico,64
+2018,SANTA CATARINA,caminhonete,gasolina,222527
+2018,SANTA CATARINA,camioneta,diesel,74209
+2018,SANTA CATARINA,camioneta,eletrico,51
+2018,SANTA CATARINA,camioneta,gasolina,176866
+2018,SANTA CATARINA,microonibus,diesel,12169
+2018,SANTA CATARINA,motocicleta,gasolina,859995
+2018,SANTA CATARINA,motoneta,gasolina,271047
+2018,SANTA CATARINA,onibus,diesel,19277
+2018,SANTA CATARINA,utilitario,eletrico,11
+2018,SANTA CATARINA,utilitario,flex,36409
+2018,SANTA CATARINA,utilitario,gasolina,19544
+2018,SAO PAULO,automovel,alcool,1834514
+2018,SAO PAULO,automovel,eletrico,3982
+2018,SAO PAULO,automovel,flex,10268539
+2018,SAO PAULO,automovel,gasolina,5662844
+2018,SAO PAULO,automovel,gnv,278474
+2018,SAO PAULO,caminhao,diesel,665718
+2018,SAO PAULO,caminhaotrator,diesel,179899
+2018,SAO PAULO,caminhonete,diesel,338529
+2018,SAO PAULO,caminhonete,eletrico,367
+2018,SAO PAULO,caminhonete,gasolina,1322424
+2018,SAO PAULO,camioneta,diesel,291043
+2018,SAO PAULO,camioneta,eletrico,315
+2018,SAO PAULO,camioneta,gasolina,1136921
+2018,SAO PAULO,microonibus,diesel,117141
+2018,SAO PAULO,motocicleta,gasolina,4548429
+2018,SAO PAULO,motoneta,gasolina,889750
+2018,SAO PAULO,onibus,diesel,160810
+2018,SAO PAULO,utilitario,eletrico,57
+2018,SAO PAULO,utilitario,flex,147841
+2018,SAO PAULO,utilitario,gasolina,111952
+2018,SERGIPE,automovel,alcool,18475
+2018,SERGIPE,automovel,eletrico,46
+2018,SERGIPE,automovel,flex,284291
+2018,SERGIPE,automovel,gasolina,0
+2018,SERGIPE,automovel,gnv,21754
+2018,SERGIPE,caminhao,diesel,21099
+2018,SERGIPE,caminhaotrator,diesel,2574
+2018,SERGIPE,caminhonete,diesel,14591
+2018,SERGIPE,caminhonete,eletrico,6
+2018,SERGIPE,caminhonete,gasolina,28485
+2018,SERGIPE,camioneta,diesel,5112
+2018,SERGIPE,camioneta,eletrico,2
+2018,SERGIPE,camioneta,gasolina,9981
+2018,SERGIPE,microonibus,diesel,3461
+2018,SERGIPE,motocicleta,gasolina,247918
+2018,SERGIPE,motoneta,gasolina,42394
+2018,SERGIPE,onibus,diesel,7025
+2018,SERGIPE,utilitario,eletrico,1
+2018,SERGIPE,utilitario,flex,3969
+2018,SERGIPE,utilitario,gasolina,444
+2018,TOCANTINS,automovel,alcool,10915
+2018,TOCANTINS,automovel,eletrico,29
+2018,TOCANTINS,automovel,flex,197193
+2018,TOCANTINS,automovel,gasolina,0
+2018,TOCANTINS,automovel,gnv,260
+2018,TOCANTINS,caminhao,diesel,22204
+2018,TOCANTINS,caminhaotrator,diesel,5124
+2018,TOCANTINS,caminhonete,diesel,26667
+2018,TOCANTINS,caminhonete,eletrico,8
+2018,TOCANTINS,caminhonete,gasolina,29734
+2018,TOCANTINS,camioneta,diesel,8578
+2018,TOCANTINS,camioneta,eletrico,3
+2018,TOCANTINS,camioneta,gasolina,9565
+2018,TOCANTINS,microonibus,diesel,1526
+2018,TOCANTINS,motocicleta,gasolina,230306
+2018,TOCANTINS,motoneta,gasolina,94117
+2018,TOCANTINS,onibus,diesel,5537
+2018,TOCANTINS,utilitario,eletrico,0
+2018,TOCANTINS,utilitario,flex,3528
+2018,TOCANTINS,utilitario,gasolina,0
+2019,ACRE,automovel,alcool,3617
+2019,ACRE,automovel,eletrico,27
+2019,ACRE,automovel,flex,85822
+2019,ACRE,automovel,gasolina,0
+2019,ACRE,automovel,gnv,14
+2019,ACRE,caminhao,diesel,7287
+2019,ACRE,caminhaotrator,diesel,958
+2019,ACRE,caminhonete,diesel,13095
+2019,ACRE,caminhonete,eletrico,8
+2019,ACRE,caminhonete,gasolina,12114
+2019,ACRE,camioneta,diesel,3318
+2019,ACRE,camioneta,eletrico,2
+2019,ACRE,camioneta,gasolina,3070
+2019,ACRE,microonibus,diesel,364
+2019,ACRE,motocicleta,gasolina,121736
+2019,ACRE,motoneta,gasolina,26186
+2019,ACRE,onibus,diesel,1212
+2019,ACRE,utilitario,eletrico,0
+2019,ACRE,utilitario,flex,1346
+2019,ACRE,utilitario,gasolina,0
+2019,ALAGOAS,automovel,alcool,24171
+2019,ALAGOAS,automovel,eletrico,33
+2019,ALAGOAS,automovel,flex,320491
+2019,ALAGOAS,automovel,gasolina,0
+2019,ALAGOAS,automovel,gnv,22321
+2019,ALAGOAS,caminhao,diesel,21836
+2019,ALAGOAS,caminhaotrator,diesel,2666
+2019,ALAGOAS,caminhonete,diesel,18530
+2019,ALAGOAS,caminhonete,eletrico,5
+2019,ALAGOAS,caminhonete,gasolina,33339
+2019,ALAGOAS,camioneta,diesel,9382
+2019,ALAGOAS,camioneta,eletrico,2
+2019,ALAGOAS,camioneta,gasolina,16878
+2019,ALAGOAS,microonibus,diesel,6973
+2019,ALAGOAS,motocicleta,gasolina,299431
+2019,ALAGOAS,motoneta,gasolina,41949
+2019,ALAGOAS,onibus,diesel,8023
+2019,ALAGOAS,utilitario,eletrico,1
+2019,ALAGOAS,utilitario,flex,6350
+2019,ALAGOAS,utilitario,gasolina,53
+2019,AMAPA,automovel,alcool,1445
+2019,AMAPA,automovel,eletrico,18
+2019,AMAPA,automovel,flex,81416
+2019,AMAPA,automovel,gasolina,0
+2019,AMAPA,automovel,gnv,16
+2019,AMAPA,caminhao,diesel,4136
+2019,AMAPA,caminhaotrator,diesel,405
+2019,AMAPA,caminhonete,diesel,5764
+2019,AMAPA,caminhonete,eletrico,4
+2019,AMAPA,caminhonete,gasolina,14569
+2019,AMAPA,camioneta,diesel,1873
+2019,AMAPA,camioneta,eletrico,1
+2019,AMAPA,camioneta,gasolina,4736
+2019,AMAPA,microonibus,diesel,433
+2019,AMAPA,motocicleta,gasolina,66979
+2019,AMAPA,motoneta,gasolina,12343
+2019,AMAPA,onibus,diesel,1275
+2019,AMAPA,utilitario,eletrico,0
+2019,AMAPA,utilitario,flex,1019
+2019,AMAPA,utilitario,gasolina,0
+2019,AMAZONAS,automovel,alcool,16190
+2019,AMAZONAS,automovel,eletrico,116
+2019,AMAZONAS,automovel,flex,386144
+2019,AMAZONAS,automovel,gasolina,0
+2019,AMAZONAS,automovel,gnv,2073
+2019,AMAZONAS,caminhao,diesel,20004
+2019,AMAZONAS,caminhaotrator,diesel,3533
+2019,AMAZONAS,caminhonete,diesel,21614
+2019,AMAZONAS,caminhonete,eletrico,23
+2019,AMAZONAS,caminhonete,gasolina,59806
+2019,AMAZONAS,camioneta,diesel,9262
+2019,AMAZONAS,camioneta,eletrico,10
+2019,AMAZONAS,camioneta,gasolina,25626
+2019,AMAZONAS,microonibus,diesel,3544
+2019,AMAZONAS,motocicleta,gasolina,266090
+2019,AMAZONAS,motoneta,gasolina,59738
+2019,AMAZONAS,onibus,diesel,9098
+2019,AMAZONAS,utilitario,eletrico,2
+2019,AMAZONAS,utilitario,flex,5460
+2019,AMAZONAS,utilitario,gasolina,6
+2019,BAHIA,automovel,alcool,99825
+2019,BAHIA,automovel,eletrico,436
+2019,BAHIA,automovel,flex,1717305
+2019,BAHIA,automovel,gasolina,169
+2019,BAHIA,automovel,gnv,58208
+2019,BAHIA,caminhao,diesel,119989
+2019,BAHIA,caminhaotrator,diesel,22377
+2019,BAHIA,caminhonete,diesel,107176
+2019,BAHIA,caminhonete,eletrico,83
+2019,BAHIA,caminhonete,gasolina,248655
+2019,BAHIA,camioneta,diesel,40100
+2019,BAHIA,camioneta,eletrico,31
+2019,BAHIA,camioneta,gasolina,93036
+2019,BAHIA,microonibus,diesel,30240
+2019,BAHIA,motocicleta,gasolina,1326172
+2019,BAHIA,motoneta,gasolina,201372
+2019,BAHIA,onibus,diesel,40740
+2019,BAHIA,utilitario,eletrico,7
+2019,BAHIA,utilitario,flex,29204
+2019,BAHIA,utilitario,gasolina,2690
+2019,CEARA,automovel,alcool,60929
+2019,CEARA,automovel,eletrico,229
+2019,CEARA,automovel,flex,1053170
+2019,CEARA,automovel,gasolina,0
+2019,CEARA,automovel,gnv,51255
+2019,CEARA,caminhao,diesel,74414
+2019,CEARA,caminhaotrator,diesel,9326
+2019,CEARA,caminhonete,diesel,92608
+2019,CEARA,caminhonete,eletrico,38
+2019,CEARA,caminhonete,gasolina,101665
+2019,CEARA,camioneta,diesel,33042
+2019,CEARA,camioneta,eletrico,14
+2019,CEARA,camioneta,gasolina,36274
+2019,CEARA,microonibus,diesel,12898
+2019,CEARA,motocicleta,gasolina,1407521
+2019,CEARA,motoneta,gasolina,172215
+2019,CEARA,onibus,diesel,17940
+2019,CEARA,utilitario,eletrico,7
+2019,CEARA,utilitario,flex,34143
+2019,CEARA,utilitario,gasolina,0
+2019,DISTRITO FEDERAL,automovel,alcool,57905
+2019,DISTRITO FEDERAL,automovel,eletrico,623
+2019,DISTRITO FEDERAL,automovel,flex,953149
+2019,DISTRITO FEDERAL,automovel,gasolina,290493
+2019,DISTRITO FEDERAL,automovel,gnv,1636
+2019,DISTRITO FEDERAL,caminhao,diesel,24256
+2019,DISTRITO FEDERAL,caminhaotrator,diesel,3596
+2019,DISTRITO FEDERAL,caminhonete,diesel,35401
+2019,DISTRITO FEDERAL,caminhonete,eletrico,57
+2019,DISTRITO FEDERAL,caminhonete,gasolina,82754
+2019,DISTRITO FEDERAL,camioneta,diesel,30272
+2019,DISTRITO FEDERAL,camioneta,eletrico,48
+2019,DISTRITO FEDERAL,camioneta,gasolina,70766
+2019,DISTRITO FEDERAL,microonibus,diesel,6005
+2019,DISTRITO FEDERAL,motocicleta,gasolina,194864
+2019,DISTRITO FEDERAL,motoneta,gasolina,20399
+2019,DISTRITO FEDERAL,onibus,diesel,12903
+2019,DISTRITO FEDERAL,utilitario,eletrico,14
+2019,DISTRITO FEDERAL,utilitario,flex,21195
+2019,DISTRITO FEDERAL,utilitario,gasolina,7784
+2019,ESPIRITO SANTO,automovel,alcool,53240
+2019,ESPIRITO SANTO,automovel,eletrico,327
+2019,ESPIRITO SANTO,automovel,flex,767205
+2019,ESPIRITO SANTO,automovel,gasolina,110179
+2019,ESPIRITO SANTO,automovel,gnv,37288
+2019,ESPIRITO SANTO,caminhao,diesel,74103
+2019,ESPIRITO SANTO,caminhaotrator,diesel,19000
+2019,ESPIRITO SANTO,caminhonete,diesel,52177
+2019,ESPIRITO SANTO,caminhonete,eletrico,54
+2019,ESPIRITO SANTO,caminhonete,gasolina,107160
+2019,ESPIRITO SANTO,camioneta,diesel,27302
+2019,ESPIRITO SANTO,camioneta,eletrico,28
+2019,ESPIRITO SANTO,camioneta,gasolina,56070
+2019,ESPIRITO SANTO,microonibus,diesel,8384
+2019,ESPIRITO SANTO,motocicleta,gasolina,453957
+2019,ESPIRITO SANTO,motoneta,gasolina,111608
+2019,ESPIRITO SANTO,onibus,diesel,14966
+2019,ESPIRITO SANTO,utilitario,eletrico,7
+2019,ESPIRITO SANTO,utilitario,flex,16421
+2019,ESPIRITO SANTO,utilitario,gasolina,4296
+2019,GOIAS,automovel,alcool,159643
+2019,GOIAS,automovel,eletrico,272
+2019,GOIAS,automovel,flex,1453341
+2019,GOIAS,automovel,gasolina,260789
+2019,GOIAS,automovel,gnv,4650
+2019,GOIAS,caminhao,diesel,112173
+2019,GOIAS,caminhaotrator,diesel,32673
+2019,GOIAS,caminhonete,diesel,128444
+2019,GOIAS,caminhonete,eletrico,54
+2019,GOIAS,caminhonete,gasolina,246356
+2019,GOIAS,camioneta,diesel,32572
+2019,GOIAS,camioneta,eletrico,14
+2019,GOIAS,camioneta,gasolina,62475
+2019,GOIAS,microonibus,diesel,10241
+2019,GOIAS,motocicleta,gasolina,890942
+2019,GOIAS,motoneta,gasolina,286020
+2019,GOIAS,onibus,diesel,23332
+2019,GOIAS,utilitario,eletrico,4
+2019,GOIAS,utilitario,flex,21216
+2019,GOIAS,utilitario,gasolina,6205
+2019,MARANHAO,automovel,alcool,13836
+2019,MARANHAO,automovel,eletrico,125
+2019,MARANHAO,automovel,flex,434092
+2019,MARANHAO,automovel,gasolina,0
+2019,MARANHAO,automovel,gnv,283
+2019,MARANHAO,caminhao,diesel,42039
+2019,MARANHAO,caminhaotrator,diesel,5290
+2019,MARANHAO,caminhonete,diesel,53681
+2019,MARANHAO,caminhonete,eletrico,33
+2019,MARANHAO,caminhonete,gasolina,63975
+2019,MARANHAO,camioneta,diesel,13763
+2019,MARANHAO,camioneta,eletrico,8
+2019,MARANHAO,camioneta,gasolina,16402
+2019,MARANHAO,microonibus,diesel,5157
+2019,MARANHAO,motocicleta,gasolina,887301
+2019,MARANHAO,motoneta,gasolina,155588
+2019,MARANHAO,onibus,diesel,9524
+2019,MARANHAO,utilitario,eletrico,3
+2019,MARANHAO,utilitario,flex,10844
+2019,MARANHAO,utilitario,gasolina,0
+2019,MATO GROSSO,automovel,alcool,48431
+2019,MATO GROSSO,automovel,eletrico,260
+2019,MATO GROSSO,automovel,flex,695417
+2019,MATO GROSSO,automovel,gasolina,0
+2019,MATO GROSSO,automovel,gnv,1332
+2019,MATO GROSSO,caminhao,diesel,73731
+2019,MATO GROSSO,caminhaotrator,diesel,37546
+2019,MATO GROSSO,caminhonete,diesel,96508
+2019,MATO GROSSO,caminhonete,eletrico,81
+2019,MATO GROSSO,caminhonete,gasolina,134886
+2019,MATO GROSSO,camioneta,diesel,19301
+2019,MATO GROSSO,camioneta,eletrico,16
+2019,MATO GROSSO,camioneta,gasolina,26977
+2019,MATO GROSSO,microonibus,diesel,3695
+2019,MATO GROSSO,motocicleta,gasolina,637134
+2019,MATO GROSSO,motoneta,gasolina,237447
+2019,MATO GROSSO,onibus,diesel,12352
+2019,MATO GROSSO,utilitario,eletrico,6
+2019,MATO GROSSO,utilitario,flex,16531
+2019,MATO GROSSO,utilitario,gasolina,0
+2019,MATO GROSSO DO SUL,automovel,alcool,54092
+2019,MATO GROSSO DO SUL,automovel,eletrico,128
+2019,MATO GROSSO DO SUL,automovel,flex,583828
+2019,MATO GROSSO DO SUL,automovel,gasolina,108184
+2019,MATO GROSSO DO SUL,automovel,gnv,5190
+2019,MATO GROSSO DO SUL,caminhao,diesel,53315
+2019,MATO GROSSO DO SUL,caminhaotrator,diesel,18887
+2019,MATO GROSSO DO SUL,caminhonete,diesel,69214
+2019,MATO GROSSO DO SUL,caminhonete,eletrico,29
+2019,MATO GROSSO DO SUL,caminhonete,gasolina,101563
+2019,MATO GROSSO DO SUL,camioneta,diesel,14645
+2019,MATO GROSSO DO SUL,camioneta,eletrico,6
+2019,MATO GROSSO DO SUL,camioneta,gasolina,21490
+2019,MATO GROSSO DO SUL,microonibus,diesel,4007
+2019,MATO GROSSO DO SUL,motocicleta,gasolina,375999
+2019,MATO GROSSO DO SUL,motoneta,gasolina,114051
+2019,MATO GROSSO DO SUL,onibus,diesel,10029
+2019,MATO GROSSO DO SUL,utilitario,eletrico,2
+2019,MATO GROSSO DO SUL,utilitario,flex,10734
+2019,MATO GROSSO DO SUL,utilitario,gasolina,3079
+2019,MINAS GERAIS,automovel,alcool,435582
+2019,MINAS GERAIS,automovel,eletrico,919
+2019,MINAS GERAIS,automovel,flex,4564491
+2019,MINAS GERAIS,automovel,gasolina,1288790
+2019,MINAS GERAIS,automovel,gnv,36839
+2019,MINAS GERAIS,caminhao,diesel,337544
+2019,MINAS GERAIS,caminhaotrator,diesel,77091
+2019,MINAS GERAIS,caminhonete,diesel,240679
+2019,MINAS GERAIS,caminhonete,eletrico,143
+2019,MINAS GERAIS,caminhonete,gasolina,742284
+2019,MINAS GERAIS,camioneta,diesel,81241
+2019,MINAS GERAIS,camioneta,eletrico,48
+2019,MINAS GERAIS,camioneta,gasolina,250557
+2019,MINAS GERAIS,microonibus,diesel,47520
+2019,MINAS GERAIS,motocicleta,gasolina,2562171
+2019,MINAS GERAIS,motoneta,gasolina,301885
+2019,MINAS GERAIS,onibus,diesel,79530
+2019,MINAS GERAIS,utilitario,eletrico,11
+2019,MINAS GERAIS,utilitario,flex,55932
+2019,MINAS GERAIS,utilitario,gasolina,21582
+2019,PARA,automovel,alcool,23883
+2019,PARA,automovel,eletrico,131
+2019,PARA,automovel,flex,590412
+2019,PARA,automovel,gasolina,0
+2019,PARA,automovel,gnv,391
+2019,PARA,caminhao,diesel,62521
+2019,PARA,caminhaotrator,diesel,9562
+2019,PARA,caminhonete,diesel,71636
+2019,PARA,caminhonete,eletrico,32
+2019,PARA,caminhonete,gasolina,80574
+2019,PARA,camioneta,diesel,20115
+2019,PARA,camioneta,eletrico,9
+2019,PARA,camioneta,gasolina,22625
+2019,PARA,microonibus,diesel,6705
+2019,PARA,motocicleta,gasolina,898901
+2019,PARA,motoneta,gasolina,198910
+2019,PARA,onibus,diesel,19076
+2019,PARA,utilitario,eletrico,3
+2019,PARA,utilitario,flex,14014
+2019,PARA,utilitario,gasolina,0
+2019,PARAIBA,automovel,alcool,29278
+2019,PARAIBA,automovel,eletrico,76
+2019,PARAIBA,automovel,flex,489651
+2019,PARAIBA,automovel,gasolina,0
+2019,PARAIBA,automovel,gnv,22979
+2019,PARAIBA,caminhao,diesel,28888
+2019,PARAIBA,caminhaotrator,diesel,2882
+2019,PARAIBA,caminhonete,diesel,30142
+2019,PARAIBA,caminhonete,eletrico,11
+2019,PARAIBA,caminhonete,gasolina,46355
+2019,PARAIBA,camioneta,diesel,14993
+2019,PARAIBA,camioneta,eletrico,5
+2019,PARAIBA,camioneta,gasolina,23058
+2019,PARAIBA,microonibus,diesel,4925
+2019,PARAIBA,motocicleta,gasolina,503178
+2019,PARAIBA,motoneta,gasolina,69848
+2019,PARAIBA,onibus,diesel,7657
+2019,PARAIBA,utilitario,eletrico,2
+2019,PARAIBA,utilitario,flex,11422
+2019,PARAIBA,utilitario,gasolina,185
+2019,PARANA,automovel,alcool,418759
+2019,PARANA,automovel,eletrico,1072
+2019,PARANA,automovel,flex,2666263
+2019,PARANA,automovel,gasolina,1357539
+2019,PARANA,automovel,gnv,40590
+2019,PARANA,caminhao,diesel,270700
+2019,PARANA,caminhaotrator,diesel,98019
+2019,PARANA,caminhonete,diesel,199017
+2019,PARANA,caminhonete,eletrico,154
+2019,PARANA,caminhonete,gasolina,446734
+2019,PARANA,camioneta,diesel,87951
+2019,PARANA,camioneta,eletrico,68
+2019,PARANA,camioneta,gasolina,197423
+2019,PARANA,microonibus,diesel,23693
+2019,PARANA,motocicleta,gasolina,1175679
+2019,PARANA,motoneta,gasolina,301615
+2019,PARANA,onibus,diesel,44203
+2019,PARANA,utilitario,eletrico,16
+2019,PARANA,utilitario,flex,39186
+2019,PARANA,utilitario,gasolina,26702
+2019,PERNAMBUCO,automovel,alcool,93993
+2019,PERNAMBUCO,automovel,eletrico,285
+2019,PERNAMBUCO,automovel,flex,1197105
+2019,PERNAMBUCO,automovel,gasolina,0
+2019,PERNAMBUCO,automovel,gnv,61291
+2019,PERNAMBUCO,caminhao,diesel,93491
+2019,PERNAMBUCO,caminhaotrator,diesel,13110
+2019,PERNAMBUCO,caminhonete,diesel,55081
+2019,PERNAMBUCO,caminhonete,eletrico,36
+2019,PERNAMBUCO,caminhonete,gasolina,115471
+2019,PERNAMBUCO,camioneta,diesel,34161
+2019,PERNAMBUCO,camioneta,eletrico,22
+2019,PERNAMBUCO,camioneta,gasolina,71615
+2019,PERNAMBUCO,microonibus,diesel,19171
+2019,PERNAMBUCO,motocicleta,gasolina,1067151
+2019,PERNAMBUCO,motoneta,gasolina,111457
+2019,PERNAMBUCO,onibus,diesel,20651
+2019,PERNAMBUCO,utilitario,eletrico,5
+2019,PERNAMBUCO,utilitario,flex,20321
+2019,PERNAMBUCO,utilitario,gasolina,1615
+2019,PIAUI,automovel,alcool,18546
+2019,PIAUI,automovel,eletrico,84
+2019,PIAUI,automovel,flex,347968
+2019,PIAUI,automovel,gasolina,0
+2019,PIAUI,automovel,gnv,739
+2019,PIAUI,caminhao,diesel,30685
+2019,PIAUI,caminhaotrator,diesel,2931
+2019,PIAUI,caminhonete,diesel,38681
+2019,PIAUI,caminhonete,eletrico,19
+2019,PIAUI,caminhonete,gasolina,45377
+2019,PIAUI,camioneta,diesel,14841
+2019,PIAUI,camioneta,eletrico,7
+2019,PIAUI,camioneta,gasolina,17409
+2019,PIAUI,microonibus,diesel,4172
+2019,PIAUI,motocicleta,gasolina,570856
+2019,PIAUI,motoneta,gasolina,101686
+2019,PIAUI,onibus,diesel,8305
+2019,PIAUI,utilitario,eletrico,2
+2019,PIAUI,utilitario,flex,7927
+2019,PIAUI,utilitario,gasolina,0
+2019,RIO DE JANEIRO,automovel,alcool,308196
+2019,RIO DE JANEIRO,automovel,eletrico,886
+2019,RIO DE JANEIRO,automovel,flex,2044283
+2019,RIO DE JANEIRO,automovel,gasolina,829513
+2019,RIO DE JANEIRO,automovel,gnv,1409951
+2019,RIO DE JANEIRO,caminhao,diesel,144582
+2019,RIO DE JANEIRO,caminhaotrator,diesel,18563
+2019,RIO DE JANEIRO,caminhonete,diesel,52377
+2019,RIO DE JANEIRO,caminhonete,eletrico,60
+2019,RIO DE JANEIRO,caminhonete,gasolina,260626
+2019,RIO DE JANEIRO,camioneta,diesel,58711
+2019,RIO DE JANEIRO,camioneta,eletrico,68
+2019,RIO DE JANEIRO,camioneta,gasolina,292142
+2019,RIO DE JANEIRO,microonibus,diesel,39337
+2019,RIO DE JANEIRO,motocicleta,gasolina,974996
+2019,RIO DE JANEIRO,motoneta,gasolina,175563
+2019,RIO DE JANEIRO,onibus,diesel,45160
+2019,RIO DE JANEIRO,utilitario,eletrico,12
+2019,RIO DE JANEIRO,utilitario,flex,28011
+2019,RIO DE JANEIRO,utilitario,gasolina,34909
+2019,RIO GRANDE DO NORTE,automovel,alcool,30155
+2019,RIO GRANDE DO NORTE,automovel,eletrico,76
+2019,RIO GRANDE DO NORTE,automovel,flex,477840
+2019,RIO GRANDE DO NORTE,automovel,gasolina,10218
+2019,RIO GRANDE DO NORTE,automovel,gnv,50777
+2019,RIO GRANDE DO NORTE,caminhao,diesel,35118
+2019,RIO GRANDE DO NORTE,caminhaotrator,diesel,3782
+2019,RIO GRANDE DO NORTE,caminhonete,diesel,31831
+2019,RIO GRANDE DO NORTE,caminhonete,eletrico,11
+2019,RIO GRANDE DO NORTE,caminhonete,gasolina,50415
+2019,RIO GRANDE DO NORTE,camioneta,diesel,15516
+2019,RIO GRANDE DO NORTE,camioneta,eletrico,5
+2019,RIO GRANDE DO NORTE,camioneta,gasolina,24574
+2019,RIO GRANDE DO NORTE,microonibus,diesel,5234
+2019,RIO GRANDE DO NORTE,motocicleta,gasolina,447797
+2019,RIO GRANDE DO NORTE,motoneta,gasolina,62726
+2019,RIO GRANDE DO NORTE,onibus,diesel,7572
+2019,RIO GRANDE DO NORTE,utilitario,eletrico,2
+2019,RIO GRANDE DO NORTE,utilitario,flex,14377
+2019,RIO GRANDE DO NORTE,utilitario,gasolina,2743
+2019,RIO GRANDE DO SUL,automovel,alcool,196571
+2019,RIO GRANDE DO SUL,automovel,eletrico,869
+2019,RIO GRANDE DO SUL,automovel,flex,2311103
+2019,RIO GRANDE DO SUL,automovel,gasolina,1774862
+2019,RIO GRANDE DO SUL,automovel,gnv,78554
+2019,RIO GRANDE DO SUL,caminhao,diesel,230500
+2019,RIO GRANDE DO SUL,caminhaotrator,diesel,64438
+2019,RIO GRANDE DO SUL,caminhonete,diesel,160909
+2019,RIO GRANDE DO SUL,caminhonete,eletrico,103
+2019,RIO GRANDE DO SUL,caminhonete,gasolina,354946
+2019,RIO GRANDE DO SUL,camioneta,diesel,99032
+2019,RIO GRANDE DO SUL,camioneta,eletrico,63
+2019,RIO GRANDE DO SUL,camioneta,gasolina,218454
+2019,RIO GRANDE DO SUL,microonibus,diesel,20883
+2019,RIO GRANDE DO SUL,motocicleta,gasolina,1088069
+2019,RIO GRANDE DO SUL,motoneta,gasolina,194164
+2019,RIO GRANDE DO SUL,onibus,diesel,42303
+2019,RIO GRANDE DO SUL,utilitario,eletrico,13
+2019,RIO GRANDE DO SUL,utilitario,flex,34274
+2019,RIO GRANDE DO SUL,utilitario,gasolina,30402
+2019,RONDONIA,automovel,alcool,10427
+2019,RONDONIA,automovel,eletrico,49
+2019,RONDONIA,automovel,flex,281292
+2019,RONDONIA,automovel,gasolina,0
+2019,RONDONIA,automovel,gnv,87
+2019,RONDONIA,caminhao,diesel,31276
+2019,RONDONIA,caminhaotrator,diesel,7235
+2019,RONDONIA,caminhonete,diesel,41318
+2019,RONDONIA,caminhonete,eletrico,15
+2019,RONDONIA,caminhonete,gasolina,49800
+2019,RONDONIA,camioneta,diesel,8977
+2019,RONDONIA,camioneta,eletrico,3
+2019,RONDONIA,camioneta,gasolina,10821
+2019,RONDONIA,microonibus,diesel,1291
+2019,RONDONIA,motocicleta,gasolina,403943
+2019,RONDONIA,motoneta,gasolina,123646
+2019,RONDONIA,onibus,diesel,6303
+2019,RONDONIA,utilitario,eletrico,1
+2019,RONDONIA,utilitario,flex,4116
+2019,RONDONIA,utilitario,gasolina,0
+2019,RORAIMA,automovel,alcool,1452
+2019,RORAIMA,automovel,eletrico,23
+2019,RORAIMA,automovel,flex,74469
+2019,RORAIMA,automovel,gasolina,0
+2019,RORAIMA,automovel,gnv,49
+2019,RORAIMA,caminhao,diesel,5197
+2019,RORAIMA,caminhaotrator,diesel,888
+2019,RORAIMA,caminhonete,diesel,8998
+2019,RORAIMA,caminhonete,eletrico,7
+2019,RORAIMA,caminhonete,gasolina,15291
+2019,RORAIMA,camioneta,diesel,3385
+2019,RORAIMA,camioneta,eletrico,3
+2019,RORAIMA,camioneta,gasolina,5754
+2019,RORAIMA,microonibus,diesel,740
+2019,RORAIMA,motocicleta,gasolina,81805
+2019,RORAIMA,motoneta,gasolina,20101
+2019,RORAIMA,onibus,diesel,1150
+2019,RORAIMA,utilitario,eletrico,0
+2019,RORAIMA,utilitario,flex,1297
+2019,RORAIMA,utilitario,gasolina,0
+2019,SANTA CATARINA,automovel,alcool,132744
+2019,SANTA CATARINA,automovel,eletrico,800
+2019,SANTA CATARINA,automovel,flex,2013683
+2019,SANTA CATARINA,automovel,gasolina,738722
+2019,SANTA CATARINA,automovel,gnv,103427
+2019,SANTA CATARINA,caminhao,diesel,152627
+2019,SANTA CATARINA,caminhaotrator,diesel,56734
+2019,SANTA CATARINA,caminhonete,diesel,102596
+2019,SANTA CATARINA,caminhonete,eletrico,91
+2019,SANTA CATARINA,caminhonete,gasolina,238134
+2019,SANTA CATARINA,camioneta,diesel,80046
+2019,SANTA CATARINA,camioneta,eletrico,71
+2019,SANTA CATARINA,camioneta,gasolina,185795
+2019,SANTA CATARINA,microonibus,diesel,12503
+2019,SANTA CATARINA,motocicleta,gasolina,883052
+2019,SANTA CATARINA,motoneta,gasolina,280051
+2019,SANTA CATARINA,onibus,diesel,19796
+2019,SANTA CATARINA,utilitario,eletrico,18
+2019,SANTA CATARINA,utilitario,flex,44435
+2019,SANTA CATARINA,utilitario,gasolina,21513
+2019,SAO PAULO,automovel,alcool,1833703
+2019,SAO PAULO,automovel,eletrico,5377
+2019,SAO PAULO,automovel,flex,10986298
+2019,SAO PAULO,automovel,gasolina,5467199
+2019,SAO PAULO,automovel,gnv,285906
+2019,SAO PAULO,caminhao,diesel,673198
+2019,SAO PAULO,caminhaotrator,diesel,188527
+2019,SAO PAULO,caminhonete,diesel,364489
+2019,SAO PAULO,caminhonete,eletrico,505
+2019,SAO PAULO,caminhonete,gasolina,1380140
+2019,SAO PAULO,camioneta,diesel,311619
+2019,SAO PAULO,camioneta,eletrico,432
+2019,SAO PAULO,camioneta,gasolina,1179947
+2019,SAO PAULO,microonibus,diesel,119762
+2019,SAO PAULO,motocicleta,gasolina,4708964
+2019,SAO PAULO,motoneta,gasolina,937703
+2019,SAO PAULO,onibus,diesel,164998
+2019,SAO PAULO,utilitario,eletrico,86
+2019,SAO PAULO,utilitario,flex,175327
+2019,SAO PAULO,utilitario,gasolina,121076
+2019,SERGIPE,automovel,alcool,18490
+2019,SERGIPE,automovel,eletrico,62
+2019,SERGIPE,automovel,flex,295809
+2019,SERGIPE,automovel,gasolina,0
+2019,SERGIPE,automovel,gnv,21953
+2019,SERGIPE,caminhao,diesel,21696
+2019,SERGIPE,caminhaotrator,diesel,2698
+2019,SERGIPE,caminhonete,diesel,15497
+2019,SERGIPE,caminhonete,eletrico,8
+2019,SERGIPE,caminhonete,gasolina,29647
+2019,SERGIPE,camioneta,diesel,5583
+2019,SERGIPE,camioneta,eletrico,3
+2019,SERGIPE,camioneta,gasolina,10679
+2019,SERGIPE,microonibus,diesel,3505
+2019,SERGIPE,motocicleta,gasolina,258923
+2019,SERGIPE,motoneta,gasolina,45393
+2019,SERGIPE,onibus,diesel,7328
+2019,SERGIPE,utilitario,eletrico,1
+2019,SERGIPE,utilitario,flex,4711
+2019,SERGIPE,utilitario,gasolina,372
+2019,TOCANTINS,automovel,alcool,10952
+2019,TOCANTINS,automovel,eletrico,38
+2019,TOCANTINS,automovel,flex,207148
+2019,TOCANTINS,automovel,gasolina,0
+2019,TOCANTINS,automovel,gnv,273
+2019,TOCANTINS,caminhao,diesel,22490
+2019,TOCANTINS,caminhaotrator,diesel,5749
+2019,TOCANTINS,caminhonete,diesel,29152
+2019,TOCANTINS,caminhonete,eletrico,11
+2019,TOCANTINS,caminhonete,gasolina,31373
+2019,TOCANTINS,camioneta,diesel,9014
+2019,TOCANTINS,camioneta,eletrico,3
+2019,TOCANTINS,camioneta,gasolina,9702
+2019,TOCANTINS,microonibus,diesel,1553
+2019,TOCANTINS,motocicleta,gasolina,237506
+2019,TOCANTINS,motoneta,gasolina,97721
+2019,TOCANTINS,onibus,diesel,5675
+2019,TOCANTINS,utilitario,eletrico,1
+2019,TOCANTINS,utilitario,flex,4007
+2019,TOCANTINS,utilitario,gasolina,0
+2020,ACRE,automovel,alcool,3625
+2020,ACRE,automovel,eletrico,58
+2020,ACRE,automovel,flex,89984
+2020,ACRE,automovel,gasolina,0
+2020,ACRE,automovel,gnv,16
+2020,ACRE,caminhao,diesel,7528
+2020,ACRE,caminhaotrator,diesel,1080
+2020,ACRE,caminhonete,diesel,13784
+2020,ACRE,caminhonete,eletrico,16
+2020,ACRE,caminhonete,gasolina,12708
+2020,ACRE,camioneta,diesel,3362
+2020,ACRE,camioneta,eletrico,4
+2020,ACRE,camioneta,gasolina,3100
+2020,ACRE,microonibus,diesel,382
+2020,ACRE,motocicleta,gasolina,126751
+2020,ACRE,motoneta,gasolina,28124
+2020,ACRE,onibus,diesel,1259
+2020,ACRE,utilitario,eletrico,1
+2020,ACRE,utilitario,flex,1422
+2020,ACRE,utilitario,gasolina,0
+2020,ALAGOAS,automovel,alcool,24203
+2020,ALAGOAS,automovel,eletrico,111
+2020,ALAGOAS,automovel,flex,335062
+2020,ALAGOAS,automovel,gasolina,0
+2020,ALAGOAS,automovel,gnv,23129
+2020,ALAGOAS,caminhao,diesel,22443
+2020,ALAGOAS,caminhaotrator,diesel,2806
+2020,ALAGOAS,caminhonete,diesel,19655
+2020,ALAGOAS,caminhonete,eletrico,16
+2020,ALAGOAS,caminhonete,gasolina,34732
+2020,ALAGOAS,camioneta,diesel,9914
+2020,ALAGOAS,camioneta,eletrico,8
+2020,ALAGOAS,camioneta,gasolina,17519
+2020,ALAGOAS,microonibus,diesel,7105
+2020,ALAGOAS,motocicleta,gasolina,314764
+2020,ALAGOAS,motoneta,gasolina,44052
+2020,ALAGOAS,onibus,diesel,8497
+2020,ALAGOAS,utilitario,eletrico,2
+2020,ALAGOAS,utilitario,flex,7150
+2020,ALAGOAS,utilitario,gasolina,0
+2020,AMAPA,automovel,alcool,1445
+2020,AMAPA,automovel,eletrico,37
+2020,AMAPA,automovel,flex,86434
+2020,AMAPA,automovel,gasolina,0
+2020,AMAPA,automovel,gnv,18
+2020,AMAPA,caminhao,diesel,4221
+2020,AMAPA,caminhaotrator,diesel,426
+2020,AMAPA,caminhonete,diesel,5904
+2020,AMAPA,caminhonete,eletrico,9
+2020,AMAPA,caminhonete,gasolina,15323
+2020,AMAPA,camioneta,diesel,1902
+2020,AMAPA,camioneta,eletrico,3
+2020,AMAPA,camioneta,gasolina,4938
+2020,AMAPA,microonibus,diesel,450
+2020,AMAPA,motocicleta,gasolina,69336
+2020,AMAPA,motoneta,gasolina,13008
+2020,AMAPA,onibus,diesel,1387
+2020,AMAPA,utilitario,eletrico,0
+2020,AMAPA,utilitario,flex,1040
+2020,AMAPA,utilitario,gasolina,0
+2020,AMAZONAS,automovel,alcool,16196
+2020,AMAZONAS,automovel,eletrico,198
+2020,AMAZONAS,automovel,flex,401895
+2020,AMAZONAS,automovel,gasolina,0
+2020,AMAZONAS,automovel,gnv,2338
+2020,AMAZONAS,caminhao,diesel,20434
+2020,AMAZONAS,caminhaotrator,diesel,3831
+2020,AMAZONAS,caminhonete,diesel,23787
+2020,AMAZONAS,caminhonete,eletrico,40
+2020,AMAZONAS,caminhonete,gasolina,61902
+2020,AMAZONAS,camioneta,diesel,9771
+2020,AMAZONAS,camioneta,eletrico,17
+2020,AMAZONAS,camioneta,gasolina,25430
+2020,AMAZONAS,microonibus,diesel,3637
+2020,AMAZONAS,motocicleta,gasolina,281125
+2020,AMAZONAS,motoneta,gasolina,63827
+2020,AMAZONAS,onibus,diesel,9397
+2020,AMAZONAS,utilitario,eletrico,3
+2020,AMAZONAS,utilitario,flex,5740
+2020,AMAZONAS,utilitario,gasolina,0
+2020,BAHIA,automovel,alcool,100134
+2020,BAHIA,automovel,eletrico,1015
+2020,BAHIA,automovel,flex,1779834
+2020,BAHIA,automovel,gasolina,0
+2020,BAHIA,automovel,gnv,62003
+2020,BAHIA,caminhao,diesel,123489
+2020,BAHIA,caminhaotrator,diesel,24021
+2020,BAHIA,caminhonete,diesel,115263
+2020,BAHIA,caminhonete,eletrico,196
+2020,BAHIA,caminhonete,gasolina,259876
+2020,BAHIA,camioneta,diesel,42731
+2020,BAHIA,camioneta,eletrico,73
+2020,BAHIA,camioneta,gasolina,96344
+2020,BAHIA,microonibus,diesel,31048
+2020,BAHIA,motocicleta,gasolina,1374662
+2020,BAHIA,motoneta,gasolina,214738
+2020,BAHIA,onibus,diesel,42177
+2020,BAHIA,utilitario,eletrico,18
+2020,BAHIA,utilitario,flex,33056
+2020,BAHIA,utilitario,gasolina,2261
+2020,CEARA,automovel,alcool,60962
+2020,CEARA,automovel,eletrico,488
+2020,CEARA,automovel,flex,1089582
+2020,CEARA,automovel,gasolina,0
+2020,CEARA,automovel,gnv,54463
+2020,CEARA,caminhao,diesel,75576
+2020,CEARA,caminhaotrator,diesel,10024
+2020,CEARA,caminhonete,diesel,97219
+2020,CEARA,caminhonete,eletrico,82
+2020,CEARA,caminhonete,gasolina,104479
+2020,CEARA,camioneta,diesel,34350
+2020,CEARA,camioneta,eletrico,29
+2020,CEARA,camioneta,gasolina,36914
+2020,CEARA,microonibus,diesel,13169
+2020,CEARA,motocicleta,gasolina,1450670
+2020,CEARA,motoneta,gasolina,181134
+2020,CEARA,onibus,diesel,18325
+2020,CEARA,utilitario,eletrico,15
+2020,CEARA,utilitario,flex,36824
+2020,CEARA,utilitario,gasolina,0
+2020,DISTRITO FEDERAL,automovel,alcool,57944
+2020,DISTRITO FEDERAL,automovel,eletrico,1411
+2020,DISTRITO FEDERAL,automovel,flex,1001505
+2020,DISTRITO FEDERAL,automovel,gasolina,278401
+2020,DISTRITO FEDERAL,automovel,gnv,1576
+2020,DISTRITO FEDERAL,caminhao,diesel,25151
+2020,DISTRITO FEDERAL,caminhaotrator,diesel,3887
+2020,DISTRITO FEDERAL,caminhonete,diesel,38203
+2020,DISTRITO FEDERAL,caminhonete,eletrico,131
+2020,DISTRITO FEDERAL,caminhonete,gasolina,86146
+2020,DISTRITO FEDERAL,camioneta,diesel,32354
+2020,DISTRITO FEDERAL,camioneta,eletrico,111
+2020,DISTRITO FEDERAL,camioneta,gasolina,72957
+2020,DISTRITO FEDERAL,microonibus,diesel,6240
+2020,DISTRITO FEDERAL,motocicleta,gasolina,203435
+2020,DISTRITO FEDERAL,motoneta,gasolina,21422
+2020,DISTRITO FEDERAL,onibus,diesel,13509
+2020,DISTRITO FEDERAL,utilitario,eletrico,34
+2020,DISTRITO FEDERAL,utilitario,flex,23817
+2020,DISTRITO FEDERAL,utilitario,gasolina,8036
+2020,ESPIRITO SANTO,automovel,alcool,53288
+2020,ESPIRITO SANTO,automovel,eletrico,698
+2020,ESPIRITO SANTO,automovel,flex,808511
+2020,ESPIRITO SANTO,automovel,gasolina,93698
+2020,ESPIRITO SANTO,automovel,gnv,39315
+2020,ESPIRITO SANTO,caminhao,diesel,75815
+2020,ESPIRITO SANTO,caminhaotrator,diesel,19883
+2020,ESPIRITO SANTO,caminhonete,diesel,56405
+2020,ESPIRITO SANTO,caminhonete,eletrico,117
+2020,ESPIRITO SANTO,caminhonete,gasolina,110863
+2020,ESPIRITO SANTO,camioneta,diesel,28895
+2020,ESPIRITO SANTO,camioneta,eletrico,60
+2020,ESPIRITO SANTO,camioneta,gasolina,56791
+2020,ESPIRITO SANTO,microonibus,diesel,8670
+2020,ESPIRITO SANTO,motocicleta,gasolina,467706
+2020,ESPIRITO SANTO,motoneta,gasolina,117501
+2020,ESPIRITO SANTO,onibus,diesel,15296
+2020,ESPIRITO SANTO,utilitario,eletrico,16
+2020,ESPIRITO SANTO,utilitario,flex,18408
+2020,ESPIRITO SANTO,utilitario,gasolina,4242
+2020,GOIAS,automovel,alcool,159664
+2020,GOIAS,automovel,eletrico,688
+2020,GOIAS,automovel,flex,1542602
+2020,GOIAS,automovel,gasolina,230008
+2020,GOIAS,automovel,gnv,4821
+2020,GOIAS,caminhao,diesel,114271
+2020,GOIAS,caminhaotrator,diesel,34896
+2020,GOIAS,caminhonete,diesel,136057
+2020,GOIAS,caminhonete,eletrico,139
+2020,GOIAS,caminhonete,gasolina,254489
+2020,GOIAS,camioneta,diesel,34765
+2020,GOIAS,camioneta,eletrico,35
+2020,GOIAS,camioneta,gasolina,65025
+2020,GOIAS,microonibus,diesel,10556
+2020,GOIAS,motocicleta,gasolina,912765
+2020,GOIAS,motoneta,gasolina,296119
+2020,GOIAS,onibus,diesel,23764
+2020,GOIAS,utilitario,eletrico,12
+2020,GOIAS,utilitario,flex,26912
+2020,GOIAS,utilitario,gasolina,6882
+2020,MARANHAO,automovel,alcool,13865
+2020,MARANHAO,automovel,eletrico,306
+2020,MARANHAO,automovel,flex,453179
+2020,MARANHAO,automovel,gasolina,0
+2020,MARANHAO,automovel,gnv,302
+2020,MARANHAO,caminhao,diesel,43112
+2020,MARANHAO,caminhaotrator,diesel,5748
+2020,MARANHAO,caminhonete,diesel,57416
+2020,MARANHAO,caminhonete,eletrico,82
+2020,MARANHAO,caminhonete,gasolina,67300
+2020,MARANHAO,camioneta,diesel,14309
+2020,MARANHAO,camioneta,eletrico,20
+2020,MARANHAO,camioneta,gasolina,16771
+2020,MARANHAO,microonibus,diesel,5362
+2020,MARANHAO,motocicleta,gasolina,917611
+2020,MARANHAO,motoneta,gasolina,164298
+2020,MARANHAO,onibus,diesel,9874
+2020,MARANHAO,utilitario,eletrico,8
+2020,MARANHAO,utilitario,flex,11607
+2020,MARANHAO,utilitario,gasolina,0
+2020,MATO GROSSO,automovel,alcool,48646
+2020,MATO GROSSO,automovel,eletrico,549
+2020,MATO GROSSO,automovel,flex,733453
+2020,MATO GROSSO,automovel,gasolina,0
+2020,MATO GROSSO,automovel,gnv,1294
+2020,MATO GROSSO,caminhao,diesel,76922
+2020,MATO GROSSO,caminhaotrator,diesel,41253
+2020,MATO GROSSO,caminhonete,diesel,102497
+2020,MATO GROSSO,caminhonete,eletrico,173
+2020,MATO GROSSO,caminhonete,gasolina,143499
+2020,MATO GROSSO,camioneta,diesel,20805
+2020,MATO GROSSO,camioneta,eletrico,35
+2020,MATO GROSSO,camioneta,gasolina,29128
+2020,MATO GROSSO,microonibus,diesel,3943
+2020,MATO GROSSO,motocicleta,gasolina,658717
+2020,MATO GROSSO,motoneta,gasolina,251590
+2020,MATO GROSSO,onibus,diesel,12767
+2020,MATO GROSSO,utilitario,eletrico,13
+2020,MATO GROSSO,utilitario,flex,18443
+2020,MATO GROSSO,utilitario,gasolina,0
+2020,MATO GROSSO DO SUL,automovel,alcool,54298
+2020,MATO GROSSO DO SUL,automovel,eletrico,372
+2020,MATO GROSSO DO SUL,automovel,flex,623487
+2020,MATO GROSSO DO SUL,automovel,gasolina,94857
+2020,MATO GROSSO DO SUL,automovel,gnv,5139
+2020,MATO GROSSO DO SUL,caminhao,diesel,54938
+2020,MATO GROSSO DO SUL,caminhaotrator,diesel,20272
+2020,MATO GROSSO DO SUL,caminhonete,diesel,72458
+2020,MATO GROSSO DO SUL,caminhonete,eletrico,85
+2020,MATO GROSSO DO SUL,caminhonete,gasolina,105779
+2020,MATO GROSSO DO SUL,camioneta,diesel,15570
+2020,MATO GROSSO DO SUL,camioneta,eletrico,18
+2020,MATO GROSSO DO SUL,camioneta,gasolina,22731
+2020,MATO GROSSO DO SUL,microonibus,diesel,4137
+2020,MATO GROSSO DO SUL,motocicleta,gasolina,386179
+2020,MATO GROSSO DO SUL,motoneta,gasolina,118787
+2020,MATO GROSSO DO SUL,onibus,diesel,10314
+2020,MATO GROSSO DO SUL,utilitario,eletrico,7
+2020,MATO GROSSO DO SUL,utilitario,flex,12214
+2020,MATO GROSSO DO SUL,utilitario,gasolina,3023
+2020,MINAS GERAIS,automovel,alcool,435993
+2020,MINAS GERAIS,automovel,eletrico,1970
+2020,MINAS GERAIS,automovel,flex,4882094
+2020,MINAS GERAIS,automovel,gasolina,1172292
+2020,MINAS GERAIS,automovel,gnv,38823
+2020,MINAS GERAIS,caminhao,diesel,346284
+2020,MINAS GERAIS,caminhaotrator,diesel,83300
+2020,MINAS GERAIS,caminhonete,diesel,259958
+2020,MINAS GERAIS,caminhonete,eletrico,314
+2020,MINAS GERAIS,caminhonete,gasolina,780056
+2020,MINAS GERAIS,camioneta,diesel,86996
+2020,MINAS GERAIS,camioneta,eletrico,105
+2020,MINAS GERAIS,camioneta,gasolina,261050
+2020,MINAS GERAIS,microonibus,diesel,49245
+2020,MINAS GERAIS,motocicleta,gasolina,2633424
+2020,MINAS GERAIS,motoneta,gasolina,315053
+2020,MINAS GERAIS,onibus,diesel,81984
+2020,MINAS GERAIS,utilitario,eletrico,27
+2020,MINAS GERAIS,utilitario,flex,65913
+2020,MINAS GERAIS,utilitario,gasolina,22238
+2020,PARA,automovel,alcool,23898
+2020,PARA,automovel,eletrico,304
+2020,PARA,automovel,flex,620490
+2020,PARA,automovel,gasolina,0
+2020,PARA,automovel,gnv,415
+2020,PARA,caminhao,diesel,64264
+2020,PARA,caminhaotrator,diesel,10454
+2020,PARA,caminhonete,diesel,76279
+2020,PARA,caminhonete,eletrico,76
+2020,PARA,caminhonete,gasolina,85388
+2020,PARA,camioneta,diesel,21070
+2020,PARA,camioneta,eletrico,21
+2020,PARA,camioneta,gasolina,23586
+2020,PARA,microonibus,diesel,6882
+2020,PARA,motocicleta,gasolina,936787
+2020,PARA,motoneta,gasolina,210444
+2020,PARA,onibus,diesel,19584
+2020,PARA,utilitario,eletrico,7
+2020,PARA,utilitario,flex,14886
+2020,PARA,utilitario,gasolina,0
+2020,PARAIBA,automovel,alcool,29308
+2020,PARAIBA,automovel,eletrico,228
+2020,PARAIBA,automovel,flex,512268
+2020,PARAIBA,automovel,gasolina,0
+2020,PARAIBA,automovel,gnv,22945
+2020,PARAIBA,caminhao,diesel,29431
+2020,PARAIBA,caminhaotrator,diesel,3030
+2020,PARAIBA,caminhonete,diesel,32267
+2020,PARAIBA,caminhonete,eletrico,33
+2020,PARAIBA,caminhonete,gasolina,48294
+2020,PARAIBA,camioneta,diesel,15620
+2020,PARAIBA,camioneta,eletrico,16
+2020,PARAIBA,camioneta,gasolina,23377
+2020,PARAIBA,microonibus,diesel,5105
+2020,PARAIBA,motocicleta,gasolina,521537
+2020,PARAIBA,motoneta,gasolina,73059
+2020,PARAIBA,onibus,diesel,7937
+2020,PARAIBA,utilitario,eletrico,5
+2020,PARAIBA,utilitario,flex,13250
+2020,PARAIBA,utilitario,gasolina,0
+2020,PARANA,automovel,alcool,418498
+2020,PARANA,automovel,eletrico,1989
+2020,PARANA,automovel,flex,2838778
+2020,PARANA,automovel,gasolina,1312625
+2020,PARANA,automovel,gnv,41005
+2020,PARANA,caminhao,diesel,275543
+2020,PARANA,caminhaotrator,diesel,102828
+2020,PARANA,caminhonete,diesel,211689
+2020,PARANA,caminhonete,eletrico,291
+2020,PARANA,caminhonete,gasolina,462706
+2020,PARANA,camioneta,diesel,93826
+2020,PARANA,camioneta,eletrico,129
+2020,PARANA,camioneta,gasolina,205083
+2020,PARANA,microonibus,diesel,24545
+2020,PARANA,motocicleta,gasolina,1208116
+2020,PARANA,motoneta,gasolina,312007
+2020,PARANA,onibus,diesel,45683
+2020,PARANA,utilitario,eletrico,32
+2020,PARANA,utilitario,flex,45550
+2020,PARANA,utilitario,gasolina,28435
+2020,PERNAMBUCO,automovel,alcool,93983
+2020,PERNAMBUCO,automovel,eletrico,835
+2020,PERNAMBUCO,automovel,flex,1227020
+2020,PERNAMBUCO,automovel,gasolina,0
+2020,PERNAMBUCO,automovel,gnv,69508
+2020,PERNAMBUCO,caminhao,diesel,94110
+2020,PERNAMBUCO,caminhaotrator,diesel,13657
+2020,PERNAMBUCO,caminhonete,diesel,58051
+2020,PERNAMBUCO,caminhonete,eletrico,106
+2020,PERNAMBUCO,caminhonete,gasolina,119249
+2020,PERNAMBUCO,camioneta,diesel,35514
+2020,PERNAMBUCO,camioneta,eletrico,65
+2020,PERNAMBUCO,camioneta,gasolina,72953
+2020,PERNAMBUCO,microonibus,diesel,19752
+2020,PERNAMBUCO,motocicleta,gasolina,1098287
+2020,PERNAMBUCO,motoneta,gasolina,117809
+2020,PERNAMBUCO,onibus,diesel,20935
+2020,PERNAMBUCO,utilitario,eletrico,15
+2020,PERNAMBUCO,utilitario,flex,23004
+2020,PERNAMBUCO,utilitario,gasolina,1380
+2020,PIAUI,automovel,alcool,18589
+2020,PIAUI,automovel,eletrico,177
+2020,PIAUI,automovel,flex,359010
+2020,PIAUI,automovel,gasolina,0
+2020,PIAUI,automovel,gnv,760
+2020,PIAUI,caminhao,diesel,31272
+2020,PIAUI,caminhaotrator,diesel,3130
+2020,PIAUI,caminhonete,diesel,41070
+2020,PIAUI,caminhonete,eletrico,41
+2020,PIAUI,caminhonete,gasolina,46326
+2020,PIAUI,camioneta,diesel,15196
+2020,PIAUI,camioneta,eletrico,15
+2020,PIAUI,camioneta,gasolina,17140
+2020,PIAUI,microonibus,diesel,4339
+2020,PIAUI,motocicleta,gasolina,584227
+2020,PIAUI,motoneta,gasolina,104680
+2020,PIAUI,onibus,diesel,8600
+2020,PIAUI,utilitario,eletrico,4
+2020,PIAUI,utilitario,flex,8334
+2020,PIAUI,utilitario,gasolina,0
+2020,RIO DE JANEIRO,automovel,alcool,308136
+2020,RIO DE JANEIRO,automovel,eletrico,1800
+2020,RIO DE JANEIRO,automovel,flex,2111093
+2020,RIO DE JANEIRO,automovel,gasolina,776589
+2020,RIO DE JANEIRO,automovel,gnv,1482880
+2020,RIO DE JANEIRO,caminhao,diesel,145147
+2020,RIO DE JANEIRO,caminhaotrator,diesel,19001
+2020,RIO DE JANEIRO,caminhonete,diesel,55807
+2020,RIO DE JANEIRO,caminhonete,eletrico,125
+2020,RIO DE JANEIRO,caminhonete,gasolina,268928
+2020,RIO DE JANEIRO,camioneta,diesel,61857
+2020,RIO DE JANEIRO,camioneta,eletrico,138
+2020,RIO DE JANEIRO,camioneta,gasolina,298086
+2020,RIO DE JANEIRO,microonibus,diesel,40334
+2020,RIO DE JANEIRO,motocicleta,gasolina,1005828
+2020,RIO DE JANEIRO,motoneta,gasolina,182994
+2020,RIO DE JANEIRO,onibus,diesel,44884
+2020,RIO DE JANEIRO,utilitario,eletrico,27
+2020,RIO DE JANEIRO,utilitario,flex,31109
+2020,RIO DE JANEIRO,utilitario,gasolina,37836
+2020,RIO GRANDE DO NORTE,automovel,alcool,30182
+2020,RIO GRANDE DO NORTE,automovel,eletrico,212
+2020,RIO GRANDE DO NORTE,automovel,flex,503348
+2020,RIO GRANDE DO NORTE,automovel,gasolina,340
+2020,RIO GRANDE DO NORTE,automovel,gnv,51678
+2020,RIO GRANDE DO NORTE,caminhao,diesel,36716
+2020,RIO GRANDE DO NORTE,caminhaotrator,diesel,4030
+2020,RIO GRANDE DO NORTE,caminhonete,diesel,33868
+2020,RIO GRANDE DO NORTE,caminhonete,eletrico,31
+2020,RIO GRANDE DO NORTE,caminhonete,gasolina,51918
+2020,RIO GRANDE DO NORTE,camioneta,diesel,16400
+2020,RIO GRANDE DO NORTE,camioneta,eletrico,15
+2020,RIO GRANDE DO NORTE,camioneta,gasolina,25141
+2020,RIO GRANDE DO NORTE,microonibus,diesel,5379
+2020,RIO GRANDE DO NORTE,motocicleta,gasolina,460428
+2020,RIO GRANDE DO NORTE,motoneta,gasolina,65600
+2020,RIO GRANDE DO NORTE,onibus,diesel,7762
+2020,RIO GRANDE DO NORTE,utilitario,eletrico,7
+2020,RIO GRANDE DO NORTE,utilitario,flex,16193
+2020,RIO GRANDE DO NORTE,utilitario,gasolina,2645
+2020,RIO GRANDE DO SUL,automovel,alcool,196395
+2020,RIO GRANDE DO SUL,automovel,eletrico,1726
+2020,RIO GRANDE DO SUL,automovel,flex,2442526
+2020,RIO GRANDE DO SUL,automovel,gasolina,1738139
+2020,RIO GRANDE DO SUL,automovel,gnv,84102
+2020,RIO GRANDE DO SUL,caminhao,diesel,234767
+2020,RIO GRANDE DO SUL,caminhaotrator,diesel,67475
+2020,RIO GRANDE DO SUL,caminhonete,diesel,173103
+2020,RIO GRANDE DO SUL,caminhonete,eletrico,210
+2020,RIO GRANDE DO SUL,caminhonete,gasolina,368646
+2020,RIO GRANDE DO SUL,camioneta,diesel,106042
+2020,RIO GRANDE DO SUL,camioneta,eletrico,128
+2020,RIO GRANDE DO SUL,camioneta,gasolina,225830
+2020,RIO GRANDE DO SUL,microonibus,diesel,21337
+2020,RIO GRANDE DO SUL,motocicleta,gasolina,1108112
+2020,RIO GRANDE DO SUL,motoneta,gasolina,199204
+2020,RIO GRANDE DO SUL,onibus,diesel,42830
+2020,RIO GRANDE DO SUL,utilitario,eletrico,28
+2020,RIO GRANDE DO SUL,utilitario,flex,39946
+2020,RIO GRANDE DO SUL,utilitario,gasolina,33014
+2020,RONDONIA,automovel,alcool,10451
+2020,RONDONIA,automovel,eletrico,120
+2020,RONDONIA,automovel,flex,293921
+2020,RONDONIA,automovel,gasolina,0
+2020,RONDONIA,automovel,gnv,86
+2020,RONDONIA,caminhao,diesel,31590
+2020,RONDONIA,caminhaotrator,diesel,7732
+2020,RONDONIA,caminhonete,diesel,44754
+2020,RONDONIA,caminhonete,eletrico,39
+2020,RONDONIA,caminhonete,gasolina,52871
+2020,RONDONIA,camioneta,diesel,9350
+2020,RONDONIA,camioneta,eletrico,8
+2020,RONDONIA,camioneta,gasolina,11047
+2020,RONDONIA,microonibus,diesel,1357
+2020,RONDONIA,motocicleta,gasolina,415119
+2020,RONDONIA,motoneta,gasolina,128729
+2020,RONDONIA,onibus,diesel,6632
+2020,RONDONIA,utilitario,eletrico,2
+2020,RONDONIA,utilitario,flex,4632
+2020,RONDONIA,utilitario,gasolina,0
+2020,RORAIMA,automovel,alcool,1452
+2020,RORAIMA,automovel,eletrico,33
+2020,RORAIMA,automovel,flex,79139
+2020,RORAIMA,automovel,gasolina,0
+2020,RORAIMA,automovel,gnv,54
+2020,RORAIMA,caminhao,diesel,5417
+2020,RORAIMA,caminhaotrator,diesel,1036
+2020,RORAIMA,caminhonete,diesel,9660
+2020,RORAIMA,caminhonete,eletrico,11
+2020,RORAIMA,caminhonete,gasolina,16238
+2020,RORAIMA,camioneta,diesel,3440
+2020,RORAIMA,camioneta,eletrico,4
+2020,RORAIMA,camioneta,gasolina,5784
+2020,RORAIMA,microonibus,diesel,749
+2020,RORAIMA,motocicleta,gasolina,83493
+2020,RORAIMA,motoneta,gasolina,20592
+2020,RORAIMA,onibus,diesel,1240
+2020,RORAIMA,utilitario,eletrico,1
+2020,RORAIMA,utilitario,flex,1386
+2020,RORAIMA,utilitario,gasolina,0
+2020,SANTA CATARINA,automovel,alcool,132873
+2020,SANTA CATARINA,automovel,eletrico,1737
+2020,SANTA CATARINA,automovel,flex,2149363
+2020,SANTA CATARINA,automovel,gasolina,705460
+2020,SANTA CATARINA,automovel,gnv,107745
+2020,SANTA CATARINA,caminhao,diesel,156354
+2020,SANTA CATARINA,caminhaotrator,diesel,61126
+2020,SANTA CATARINA,caminhonete,diesel,112438
+2020,SANTA CATARINA,caminhonete,eletrico,205
+2020,SANTA CATARINA,caminhonete,gasolina,253002
+2020,SANTA CATARINA,camioneta,diesel,86544
+2020,SANTA CATARINA,camioneta,eletrico,158
+2020,SANTA CATARINA,camioneta,gasolina,194739
+2020,SANTA CATARINA,microonibus,diesel,13001
+2020,SANTA CATARINA,motocicleta,gasolina,905110
+2020,SANTA CATARINA,motoneta,gasolina,288139
+2020,SANTA CATARINA,onibus,diesel,20293
+2020,SANTA CATARINA,utilitario,eletrico,43
+2020,SANTA CATARINA,utilitario,flex,53458
+2020,SANTA CATARINA,utilitario,gasolina,23531
+2020,SAO PAULO,automovel,alcool,1832945
+2020,SAO PAULO,automovel,eletrico,10566
+2020,SAO PAULO,automovel,flex,11536749
+2020,SAO PAULO,automovel,gasolina,5307899
+2020,SAO PAULO,automovel,gnv,286993
+2020,SAO PAULO,caminhao,diesel,679814
+2020,SAO PAULO,caminhaotrator,diesel,197512
+2020,SAO PAULO,caminhonete,diesel,386331
+2020,SAO PAULO,caminhonete,eletrico,1010
+2020,SAO PAULO,caminhonete,gasolina,1426826
+2020,SAO PAULO,camioneta,diesel,328486
+2020,SAO PAULO,camioneta,eletrico,859
+2020,SAO PAULO,camioneta,gasolina,1213187
+2020,SAO PAULO,microonibus,diesel,121691
+2020,SAO PAULO,motocicleta,gasolina,4853113
+2020,SAO PAULO,motoneta,gasolina,982557
+2020,SAO PAULO,onibus,diesel,169432
+2020,SAO PAULO,utilitario,eletrico,184
+2020,SAO PAULO,utilitario,flex,201075
+2020,SAO PAULO,utilitario,gasolina,129461
+2020,SERGIPE,automovel,alcool,18509
+2020,SERGIPE,automovel,eletrico,142
+2020,SERGIPE,automovel,flex,306254
+2020,SERGIPE,automovel,gasolina,0
+2020,SERGIPE,automovel,gnv,21770
+2020,SERGIPE,caminhao,diesel,21992
+2020,SERGIPE,caminhaotrator,diesel,2849
+2020,SERGIPE,caminhonete,diesel,16434
+2020,SERGIPE,caminhonete,eletrico,19
+2020,SERGIPE,caminhonete,gasolina,30594
+2020,SERGIPE,camioneta,diesel,5981
+2020,SERGIPE,camioneta,eletrico,7
+2020,SERGIPE,camioneta,gasolina,11136
+2020,SERGIPE,microonibus,diesel,3611
+2020,SERGIPE,motocicleta,gasolina,269092
+2020,SERGIPE,motoneta,gasolina,48345
+2020,SERGIPE,onibus,diesel,7631
+2020,SERGIPE,utilitario,eletrico,2
+2020,SERGIPE,utilitario,flex,5373
+2020,SERGIPE,utilitario,gasolina,265
+2020,TOCANTINS,automovel,alcool,10977
+2020,TOCANTINS,automovel,eletrico,91
+2020,TOCANTINS,automovel,flex,218462
+2020,TOCANTINS,automovel,gasolina,0
+2020,TOCANTINS,automovel,gnv,296
+2020,TOCANTINS,caminhao,diesel,22957
+2020,TOCANTINS,caminhaotrator,diesel,6415
+2020,TOCANTINS,caminhonete,diesel,31738
+2020,TOCANTINS,caminhonete,eletrico,26
+2020,TOCANTINS,caminhonete,gasolina,33195
+2020,TOCANTINS,camioneta,diesel,9448
+2020,TOCANTINS,camioneta,eletrico,8
+2020,TOCANTINS,camioneta,gasolina,9883
+2020,TOCANTINS,microonibus,diesel,1587
+2020,TOCANTINS,motocicleta,gasolina,244437
+2020,TOCANTINS,motoneta,gasolina,101217
+2020,TOCANTINS,onibus,diesel,5859
+2020,TOCANTINS,utilitario,eletrico,2
+2020,TOCANTINS,utilitario,flex,4534
+2020,TOCANTINS,utilitario,gasolina,0

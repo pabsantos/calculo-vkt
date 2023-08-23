@@ -49,3 +49,12 @@ caminhonetes <- calc_frota_cam(
 )
 
 caminhao_onibus_moto <- calc_caminhao_onibus_moto(frota_tipo_corrigido)
+
+frota_total <- calc_frota_total(
+  automoveis,
+  utilitarios,
+  caminhonetes,
+  caminhao_onibus_moto
+)
+
+write_csv(frota_total, "data/frota_total.csv")
