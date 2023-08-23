@@ -47,3 +47,5 @@ caminhonetes <- calc_frota_cam(
   frota_tipo_real,
   frota_tipo_corrigido
 )
+
+caminhao_onibus_moto <- calc_caminhao_onibus_moto(frota_tipo_corrigido)

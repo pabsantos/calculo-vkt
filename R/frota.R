@@ -247,3 +247,24 @@ calc_frota_cam <- function(tab_combustivel, tab_frota_real, tab_frota) {
     left_join(tab_cam_elet, by = c("ano", "uf"))
   
 }
+
+calc_caminhao_onibus_moto <- function(tab_frota) {
+  tab_frota |> 
+    filter(tipo %in% c(
+      "CAMINHAO",
+      "CAMINHAO TRATOR",
+      "ONIBUS",
+      "MICROONIBUS",
+      "MOTOCICLETA",
+      "MOTONETA"
+    )) |> 
+    pivot_wider(names_from = tipo, values_from = qtde) |> 
+    rename(
+      caminhao_diesel = CAMINHAO,
+      caminhaotrator_diesel = `CAMINHAO TRATOR`,
+      microonibus_diesel = MICROONIBUS,
+      motocicleta_gasolina = MOTOCICLETA,
+      motoneta_gasolina = MOTONETA,
+      onibus_diesel = ONIBUS
+    )
+}
